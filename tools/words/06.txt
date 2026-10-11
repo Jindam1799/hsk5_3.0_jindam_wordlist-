@@ -1,0 +1,200 @@
+1001|胜|shèng|이기다, 능가하다|大胜对手|dà shèng duìshǒu|상대를 크게 이기다|胜了一场|shèng le yì chǎng|한 경기를 이기다|胜过对手|shèngguò duìshǒu|상대보다 뛰어나다
+1002|胜利|shènglì|승리하다; 승리|取得胜利|qǔdé shènglì|승리를 거두다|最终胜利|zuìzhōng shènglì|최종 승리|胜利归来|shènglì guīlái|승리하여 돌아오다
+1003|诗|shī|시|一首诗|yì shǒu shī|시 한 편|写诗|xiě shī|시를 쓰다|古诗|gǔshī|고시
+1004|湿|shī|젖다, 축축하다|衣服湿了|yīfu shī le|옷이 젖었다|地面很湿|dìmiàn hěn shī|바닥이 젖어 있다|又湿又冷|yòu shī yòu lěng|축축하고 춥다
+1005|失恋|shīliàn|실연하다|失恋了|shīliàn le|실연했다|失恋以后|shīliàn yǐhòu|실연한 후|从失恋中走出来|cóng shīliàn zhōng zǒu chūlái|실연의 아픔에서 벗어나다
+1006|失眠|shīmián|불면에 시달리다, 잠을 못 자다|经常失眠|jīngcháng shīmián|자주 불면에 시달리다|严重失眠|yánzhòng shīmián|불면이 심하다|整夜失眠|zhěngyè shīmián|밤새 잠을 이루지 못하다
+1007|诗人|shīrén|시인|著名诗人|zhùmíng shīrén|유명한 시인|现代诗人|xiàndài shīrén|현대 시인|一位诗人|yí wèi shīrén|시인 한 명
+1008|失误|shīwù|실수하다; 실수, 오류|操作失误|cāozuò shīwù|조작 실수|出现失误|chūxiàn shīwù|실수가 발생하다|减少失误|jiǎnshǎo shīwù|실수를 줄이다
+1009|失业|shīyè|실업하다, 직업을 잃다|失业了|shīyè le|실직했다|失业人员|shīyè rényuán|실업자|面临失业|miànlín shīyè|실직 위기에 놓이다
+1010|时差|shíchā|시차|倒时差|dǎo shíchā|시차 적응을 하다|有时差|yǒu shíchā|시차가 있다|时差七小时|shíchā qī xiǎoshí|시차가 7시간이다
+1011|时常|shícháng|자주, 때때로|时常想起|shícháng xiǎngqǐ|자주 떠올리다|时常发生|shícháng fāshēng|종종 발생하다|时常联系|shícháng liánxì|자주 연락하다
+1012|时代|shídài|시대|互联网时代|Hùliánwǎng shídài|인터넷 시대|新时代|xīn shídài|새로운 시대|时代变化|shídài biànhuà|시대의 변화
+1013|实践|shíjiàn|실천하다; 실천|社会实践|shèhuì shíjiàn|사회 실천·현장 활동|实践经验|shíjiàn jīngyàn|실무 경험|付诸实践|fùzhū shíjiàn|실천에 옮기다
+1014|时刻|shíkè|순간, 시각; 항상|关键时刻|guānjiàn shíkè|결정적인 순간|重要时刻|zhòngyào shíkè|중요한 순간|时刻关注|shíkè guānzhù|항상 관심을 기울이다
+1015|实力|shílì|실력, 역량|综合实力|zōnghé shílì|종합 실력|提升实力|tíshēng shílì|실력을 높이다|实力很强|shílì hěn qiáng|실력이 매우 강하다
+1016|时期|shíqī|시기, 기간|关键时期|guānjiàn shíqī|중요한 시기|青少年时期|qīngshàonián shíqī|청소년기|发展时期|fāzhǎn shíqī|발전 시기
+1017|实施|shíshī|실시하다, 시행하다|实施计划|shíshī jìhuà|계획을 실시하다|实施政策|shíshī zhèngcè|정책을 시행하다|实施措施|shíshī cuòshī|조치를 시행하다
+1018|石头|shítou|돌|一块石头|yí kuài shítou|돌 하나|搬石头|bān shítou|돌을 옮기다|石头路|shítou lù|돌길
+1019|实习|shíxí|실습하다, 인턴으로 일하다|去公司实习|qù gōngsī shíxí|회사에서 인턴으로 일하다|实习经验|shíxí jīngyàn|인턴 경험|实习期间|shíxí qījiān|실습·인턴 기간
+1020|实现|shíxiàn|실현하다|实现梦想|shíxiàn mèngxiǎng|꿈을 이루다|实现目标|shíxiàn mùbiāo|목표를 달성하다|实现愿望|shíxiàn yuànwàng|소원을 이루다
+1021|实行|shíxíng|실행하다, 시행하다|实行制度|shíxíng zhìdù|제도를 시행하다|实行改革|shíxíng gǎigé|개혁을 실시하다|正式实行|zhèngshì shíxíng|정식으로 시행하다
+1022|实验|shíyàn|실험하다; 실험|做实验|zuò shíyàn|실험하다|实验结果|shíyàn jiéguǒ|실험 결과|科学实验|kēxué shíyàn|과학 실험
+1023|实验室|shíyànshì|실험실|进入实验室|jìnrù shíyànshì|실험실에 들어가다|实验室设备|shíyànshì shèbèi|실험실 장비|在实验室工作|zài shíyànshì gōngzuò|실험실에서 일하다
+1024|实用|shíyòng|실용적이다|实用价值|shíyòng jiàzhí|실용적 가치|实用技巧|shíyòng jìqiǎo|실용적인 기술·팁|非常实用|fēicháng shíyòng|매우 실용적이다
+1025|食用|shíyòng|식용하다, 먹다|可以食用|kěyǐ shíyòng|먹을 수 있다|食用方法|shíyòng fāngfǎ|섭취 방법|食用油|shíyòngyóu|식용유
+1026|使得|shǐde|~하게 만들다|使得生活更方便|shǐde shēnghuó gèng fāngbiàn|생활을 더 편리하게 만들다|使得问题更加复杂|shǐde wèntí gèngjiā fùzá|문제를 더 복잡하게 만들다|使得成本降低|shǐde chéngběn jiàngdī|비용을 낮추게 하다
+1027|始终|shǐzhōng|처음부터 끝까지, 줄곧|始终坚持|shǐzhōng jiānchí|줄곧 견지하다|始终保持|shǐzhōng bǎochí|계속 유지하다|始终相信|shǐzhōng xiāngxìn|줄곧 믿다
+1028|式|shì|~식, ~형(접미 성분)|中式|Zhōngshì|중국식|西式|Xīshì|서양식|开放式|kāifàngshì|개방형
+1029|适当|shìdàng|적당하다, 적절하다|适当休息|shìdàng xiūxi|적당히 쉬다|适当增加|shìdàng zēngjiā|적절히 늘리다|适当调整|shìdàng tiáozhěng|적절하게 조정하다
+1030|似的|shìde|~인 것 같다, ~처럼|像孩子似的|xiàng háizi shìde|아이처럼|飞似的跑|fēi shìde pǎo|나는 듯이 달리다|没事儿似的|méi shìr shìde|아무 일도 없는 듯이
+1031|事故|shìgù|사고|发生事故|fāshēng shìgù|사고가 발생하다|交通事故|jiāotōng shìgù|교통사고|安全事故|ānquán shìgù|안전사고
+1032|事件|shìjiàn|사건|突发事件|tūfā shìjiàn|돌발 사건|重大事件|zhòngdà shìjiàn|중대한 사건|事件发生|shìjiàn fāshēng|사건이 발생하다
+1033|试卷|shìjuàn|시험지|一份试卷|yí fèn shìjuàn|시험지 한 부|做试卷|zuò shìjuàn|시험 문제를 풀다|批改试卷|pīgǎi shìjuàn|시험지를 채점하다
+1034|市民|shìmín|시민|广大市民|guǎngdà shìmín|많은 시민|当地市民|dāngdì shìmín|현지 시민|市民生活|shìmín shēnghuó|시민 생활
+1035|事实|shìshí|사실|事实证明|shìshí zhèngmíng|사실이 증명하다|尊重事实|zūnzhòng shìshí|사실을 존중하다|根据事实|gēnjù shìshí|사실에 근거하다
+1036|视为|shìwéi|~로 여기다, 간주하다|视为重点|shìwéi zhòngdiǎn|중점으로 여기다|被视为经典|bèi shìwéi jīngdiǎn|고전으로 여겨지다|视为一种机会|shìwéi yì zhǒng jīhuì|하나의 기회로 여기다
+1037|事物|shìwù|사물, 현상|新鲜事物|xīnxiān shìwù|새로운 사물·현상|客观事物|kèguān shìwù|객관적 사물|认识事物|rènshi shìwù|사물을 인식하다
+1038|事先|shìxiān|사전에, 미리|事先准备|shìxiān zhǔnbèi|미리 준비하다|事先通知|shìxiān tōngzhī|사전에 알리다|事先安排|shìxiān ānpái|미리 준비·배정하다
+1039|试验|shìyàn|시험하다, 시험·테스트|进行试验|jìnxíng shìyàn|시험을 실시하다|试验结果|shìyàn jiéguǒ|시험 결과|临床试验|línchuáng shìyàn|임상시험
+1040|事业|shìyè|사업, 직업적 활동|发展事业|fāzhǎn shìyè|사업·일을 발전시키다|事业发展|shìyè fāzhǎn|커리어·사업의 발전|事业有成|shìyè yǒuchéng|사업·일에서 성공하다
+1041|试用|shìyòng|시험 삼아 사용하다|免费试用|miǎnfèi shìyòng|무료 체험하다|试用产品|shìyòng chǎnpǐn|제품을 시험 사용하다|试用期|shìyòngqī|수습 기간
+1042|适用|shìyòng|적용되다, 적합하다|适用于儿童|shìyòng yú értóng|어린이에게 적용되다|适用范围|shìyòng fànwéi|적용 범위|不适用|bú shìyòng|적용되지 않다
+1043|收获|shōuhuò|수확하다; 얻다, 성과|收获很多|shōuhuò hěn duō|얻은 것이 많다|收获知识|shōuhuò zhīshi|지식을 얻다|学习收获|xuéxí shōuhuò|학습 성과
+1044|收集|shōují|수집하다|收集资料|shōují zīliào|자료를 수집하다|收集信息|shōují xìnxī|정보를 수집하다|收集意见|shōují yìjiàn|의견을 모으다
+1045|收看|shōukàn|TV 프로그램 등을 시청하다|收看节目|shōukàn jiémù|프로그램을 시청하다|收看新闻|shōukàn xīnwén|뉴스를 시청하다|收看现场直播|shōukàn xiànchǎng zhíbō|생방송을 시청하다
+1046|守|shǒu|지키다|守规矩|shǒu guīju|규칙을 지키다|守信用|shǒu xìnyòng|신용을 지키다|守在门口|shǒu zài ménkǒu|문 앞을 지키다
+1047|首次|shǒucì|처음으로, 최초|首次参加|shǒucì cānjiā|처음 참가하다|首次公开|shǒucì gōngkāi|처음 공개하다|首次发现|shǒucì fāxiàn|처음 발견하다
+1048|手段|shǒuduàn|수단, 방법|采取手段|cǎiqǔ shǒuduàn|수단을 취하다|技术手段|jìshù shǒuduàn|기술적 수단|通过各种手段|tōngguò gè zhǒng shǒuduàn|여러 수단을 통해
+1049|手工|shǒugōng|수공, 손으로 만든 것|手工制作|shǒugōng zhìzuò|손으로 만들다|手工作品|shǒugōng zuòpǐn|수공예 작품|做手工|zuò shǒugōng|만들기·수공예를 하다
+1050|手术|shǒushù|수술|做手术|zuò shǒushù|수술하다|接受手术|jiēshòu shǒushù|수술을 받다|手术成功|shǒushù chénggōng|수술이 성공하다
+1051|手套|shǒutào|장갑|戴手套|dài shǒutào|장갑을 끼다|一双手套|yì shuāng shǒutào|장갑 한 켤레|医用手套|yīyòng shǒutào|의료용 장갑
+1052|手续|shǒuxù|수속, 절차|办理手续|bànlǐ shǒuxù|수속을 밟다|手续齐全|shǒuxù qíquán|필요한 수속·서류가 모두 갖춰지다|入学手续|rùxué shǒuxù|입학 수속
+1053|手指|shǒuzhǐ|손가락|一根手指|yì gēn shǒuzhǐ|손가락 하나|伸出手指|shēnchū shǒuzhǐ|손가락을 내밀다|手指受伤|shǒuzhǐ shòushāng|손가락을 다치다
+1054|售价|shòujià|판매 가격|商品售价|shāngpǐn shòujià|상품 판매가|售价是多少|shòujià shì duōshao|판매가가 얼마인가|售价上涨|shòujià shàngzhǎng|판매가가 오르다
+1055|蔬菜|shūcài|채소|新鲜蔬菜|xīnxiān shūcài|신선한 채소|多吃蔬菜|duō chī shūcài|채소를 많이 먹다|蔬菜水果|shūcài shuǐguǒ|채소와 과일
+1056|书法|shūfǎ|서예|学书法|xué shūfǎ|서예를 배우다|书法作品|shūfǎ zuòpǐn|서예 작품|练习书法|liànxí shūfǎ|서예를 연습하다
+1057|书房|shūfáng|서재|在书房里|zài shūfáng li|서재에서|走进书房|zǒu jìn shūfáng|서재로 들어가다|一间书房|yì jiān shūfáng|서재 한 칸
+1058|书架|shūjià|책장|放在书架上|fàng zài shūjià shàng|책장에 놓다|整理书架|zhěnglǐ shūjià|책장을 정리하다|一排书架|yì pái shūjià|책장 한 줄
+1059|输入|shūrù|입력하다|输入密码|shūrù mìmǎ|비밀번호를 입력하다|输入信息|shūrù xìnxī|정보를 입력하다|输入文字|shūrù wénzì|문자를 입력하다
+1060|舒适|shūshì|편안하다, 쾌적하다|环境舒适|huánjìng shūshì|환경이 쾌적하다|住得舒适|zhù de shūshì|편안하게 살다|舒适的房间|shūshì de fángjiān|편안한 방
+1061|熟练|shúliàn|능숙하다|熟练掌握|shúliàn zhǎngwò|능숙하게 익히다|操作熟练|cāozuò shúliàn|조작이 능숙하다|熟练使用|shúliàn shǐyòng|능숙하게 사용하다
+1062|熟人|shúrén|아는 사람, 지인|一个熟人|yí ge shúrén|아는 사람 한 명|遇到熟人|yùdào shúrén|아는 사람을 만나다|熟人介绍|shúrén jièshào|지인의 소개
+1063|数|shǔ|세다|数人数|shǔ rénshù|사람 수를 세다|数一数|shǔ yi shǔ|한번 세어 보다|数不清|shǔ bu qīng|셀 수 없을 만큼 많다
+1064|鼠标|shǔbiāo|마우스|移动鼠标|yídòng shǔbiāo|마우스를 움직이다|鼠标左键|shǔbiāo zuǒjiàn|마우스 왼쪽 버튼|用鼠标点击|yòng shǔbiāo diǎnjī|마우스로 클릭하다
+1065|属于|shǔyú|~에 속하다, ~의 것이다|属于自己|shǔyú zìjǐ|자기에게 속하다|属于这一类|shǔyú zhè yí lèi|이 부류에 속하다|属于正常现象|shǔyú zhèngcháng xiànxiàng|정상적인 현상에 해당하다
+1066|束|shù|다발, 묶음(양사)|一束花|yí shù huā|꽃 한 다발|一束鲜花|yí shù xiānhuā|생화 한 다발|一束光|yí shù guāng|한 줄기 빛
+1067|数据|shùjù|데이터, 수치|数据分析|shùjù fēnxī|데이터 분석|收集数据|shōují shùjù|데이터를 수집하다|数据显示|shùjù xiǎnshì|데이터가 보여 주다
+1068|树木|shùmù|수목, 나무|保护树木|bǎohù shùmù|나무를 보호하다|种植树木|zhòngzhí shùmù|나무를 심다|树木生长|shùmù shēngzhǎng|나무가 자라다
+1069|摔|shuāi|넘어지다; 내던져 깨뜨리다|摔倒|shuāidǎo|넘어지다|摔了一跤|shuāi le yì jiāo|한 번 넘어지다|把杯子摔碎|bǎ bēizi shuāi suì|컵을 떨어뜨려 깨다
+1070|双方|shuāngfāng|양측, 쌍방|双方同意|shuāngfāng tóngyì|양측이 동의하다|双方合作|shuāngfāng hézuò|양측이 협력하다|双方代表|shuāngfāng dàibiǎo|양측 대표
+1071|水分|shuǐfèn|수분|补充水分|bǔchōng shuǐfèn|수분을 보충하다|含有水分|hányǒu shuǐfèn|수분을 함유하다|水分流失|shuǐfèn liúshī|수분이 손실되다
+1072|税|shuì|세금|交税|jiāo shuì|세금을 내다|个人所得税|gèrén suǒdéshuì|개인소득세|税太高|shuì tài gāo|세금이 너무 높다
+1073|睡眠|shuìmián|수면|睡眠不足|shuìmián bùzú|수면 부족|睡眠质量|shuìmián zhìliàng|수면의 질|改善睡眠|gǎishàn shuìmián|수면을 개선하다
+1074|顺|shùn|따르다; 순조롭다|顺着这条路走|shùnzhe zhè tiáo lù zǒu|이 길을 따라가다|工作很顺|gōngzuò hěn shùn|일이 순조롭다|一路顺风|yílù shùnfēng|가는 길 순조롭길 바라다
+1075|说不定|shuōbudìng|어쩌면, ~일지도 모른다|说不定会来|shuōbudìng huì lái|어쩌면 올지도 모른다|说不定有用|shuōbudìng yǒuyòng|어쩌면 쓸모가 있을지도 모른다|说不定是真的|shuōbudìng shì zhēn de|어쩌면 사실일지도 모른다
+1076|说服|shuōfú|설득하다|说服别人|shuōfú biérén|다른 사람을 설득하다|说服自己|shuōfú zìjǐ|스스로를 납득시키다|很难说服|hěn nán shuōfú|설득하기 어렵다
+1077|思考|sīkǎo|생각하다, 사고하다|独立思考|dúlì sīkǎo|독립적으로 사고하다|认真思考|rènzhēn sīkǎo|진지하게 생각하다|思考问题|sīkǎo wèntí|문제를 생각하다
+1078|私人|sīrén|개인의, 사적인|私人空间|sīrén kōngjiān|개인 공간|私人时间|sīrén shíjiān|개인 시간|私人财产|sīrén cáichǎn|사유 재산
+1079|思维|sīwéi|사고, 사고방식|思维方式|sīwéi fāngshì|사고방식|逻辑思维|luójí sīwéi|논리적 사고|思维能力|sīwéi nénglì|사고 능력
+1080|思想|sīxiǎng|생각, 사상|思想观念|sīxiǎng guānniàn|사고방식·관념|思想交流|sīxiǎng jiāoliú|생각을 교류하다|思想变化|sīxiǎng biànhuà|생각의 변화
+1081|四处|sìchù|사방, 여기저기|四处寻找|sìchù xúnzhǎo|여기저기 찾아다니다|四处打听|sìchù dǎting|여기저기 알아보다|四处走走|sìchù zǒuzou|여기저기 돌아다니다
+1082|似乎|sìhū|~인 것 같다|似乎没问题|sìhū méi wèntí|문제가 없는 것 같다|似乎很熟悉|sìhū hěn shúxī|매우 익숙한 것 같다|似乎是这样|sìhū shì zhèyàng|그런 것 같다
+1083|四周|sìzhōu|사방, 주변|房子四周|fángzi sìzhōu|집 주변|环顾四周|huángù sìzhōu|주위를 둘러보다|四周很安静|sìzhōu hěn ānjìng|주변이 매우 조용하다
+1084|搜|sōu|찾다, 검색하다|搜一下|sōu yíxià|한번 검색해 보다|搜资料|sōu zīliào|자료를 검색하다|搜关键词|sōu guānjiàncí|키워드를 검색하다
+1085|搜索|sōusuǒ|검색하다, 수색하다|搜索信息|sōusuǒ xìnxī|정보를 검색하다|搜索关键词|sōusuǒ guānjiàncí|키워드를 검색하다|搜索结果|sōusuǒ jiéguǒ|검색 결과
+1086|宿舍|sùshè|기숙사|学生宿舍|xuésheng sùshè|학생 기숙사|回宿舍|huí sùshè|기숙사로 돌아가다|宿舍楼|sùshèlóu|기숙사 건물
+1087|酸甜苦辣|suān-tián-kǔ-là|온갖 맛; 인생의 희로애락|人生的酸甜苦辣|rénshēng de suān-tián-kǔ-là|인생의 온갖 희로애락|尝遍酸甜苦辣|chángbiàn suān-tián-kǔ-là|온갖 경험을 다 겪다|生活中的酸甜苦辣|shēnghuó zhōng de suān-tián-kǔ-là|삶의 희로애락
+1088|随|suí|따르다, ~에 따라|随我来|suí wǒ lái|나를 따라오다|随时间变化|suí shíjiān biànhuà|시간에 따라 변하다|随年龄增长|suí niánlíng zēngzhǎng|나이가 들면서
+1089|随后|suíhòu|뒤이어, 그 후|随后表示|suíhòu biǎoshì|뒤이어 밝히다|随后离开|suíhòu líkāi|뒤이어 떠나다|随后发生|suíhòu fāshēng|그 후 발생하다
+1090|随时|suíshí|언제든지, 수시로|随时联系|suíshí liánxì|언제든 연락하다|随时准备|suíshí zhǔnbèi|언제든 준비하다|随时可以|suíshí kěyǐ|언제든 가능하다
+1091|随手|suíshǒu|손 가는 대로, 하는 김에|随手关灯|suíshǒu guān dēng|나가면서 불을 끄다|随手拍照|suíshǒu pāizhào|가볍게 사진을 찍다|随手记下来|suíshǒu jì xiàlái|바로 메모해 두다
+1092|随意|suíyì|마음대로, 자유롭게|随意选择|suíyì xuǎnzé|자유롭게 선택하다|随意改变|suíyì gǎibiàn|마음대로 바꾸다|不要随意打开|búyào suíyì dǎkāi|함부로 열지 마라
+1093|碎|suì|깨지다, 부서지다; 잘게 부수다|玻璃碎了|bōli suì le|유리가 깨졌다|摔碎杯子|shuāisuì bēizi|컵을 떨어뜨려 깨다|切碎蔬菜|qiēsuì shūcài|채소를 잘게 썰다
+1094|损害|sǔnhài|손상시키다, 해치다|损害利益|sǔnhài lìyì|이익을 해치다|损害健康|sǔnhài jiànkāng|건강을 해치다|损害形象|sǔnhài xíngxiàng|이미지를 훼손하다
+1095|损失|sǔnshī|손실을 입다; 손실|造成损失|zàochéng sǔnshī|손실을 초래하다|减少损失|jiǎnshǎo sǔnshī|손실을 줄이다|经济损失|jīngjì sǔnshī|경제적 손실
+1096|缩短|suōduǎn|단축하다|缩短时间|suōduǎn shíjiān|시간을 단축하다|缩短距离|suōduǎn jùlí|거리를 줄이다|缩短工作时间|suōduǎn gōngzuò shíjiān|근무 시간을 단축하다
+1097|缩小|suōxiǎo|축소하다, 줄이다|缩小范围|suōxiǎo fànwéi|범위를 축소하다|缩小差距|suōxiǎo chājù|격차를 줄이다|缩小规模|suōxiǎo guīmó|규모를 줄이다
+1098|所|suǒ|채, 곳(기관·건물의 양사)|一所学校|yì suǒ xuéxiào|학교 한 곳|一所医院|yì suǒ yīyuàn|병원 한 곳|一所大学|yì suǒ dàxué|대학교 한 곳
+1099|锁|suǒ|자물쇠; 잠그다|锁门|suǒ mén|문을 잠그다|一把锁|yì bǎ suǒ|자물쇠 하나|锁上门|suǒshàng mén|문을 잠그다
+1100|他人|tārén|타인, 다른 사람|尊重他人|zūnzhòng tārén|타인을 존중하다|帮助他人|bāngzhù tārén|다른 사람을 돕다|影响他人|yǐngxiǎng tārén|타인에게 영향을 주다
+1101|台灯|táidēng|탁상등, 스탠드|打开台灯|dǎkāi táidēng|탁상등을 켜다|一盏台灯|yì zhǎn táidēng|탁상등 하나|书桌上的台灯|shūzhuō shàng de táidēng|책상 위의 스탠드
+1102|台阶|táijiē|계단, 층계|走上台阶|zǒushàng táijiē|계단을 올라가다|下台阶|xià táijiē|계단을 내려가다|几级台阶|jǐ jí táijiē|계단 몇 칸
+1103|太太|tàitai|부인, 아내|王太太|Wáng tàitai|왕 부인|张太太|Zhāng tàitai|장 부인|先生和太太|xiānsheng hé tàitai|남편과 아내
+1104|谈话|tánhuà|이야기하다, 대화하다|和老师谈话|hé lǎoshī tánhuà|선생님과 이야기하다|谈话内容|tánhuà nèiróng|대화 내용|单独谈话|dāndú tánhuà|따로 이야기하다
+1105|桃|táo|복숭아|一个桃|yí ge táo|복숭아 한 개|桃树|táoshù|복숭아나무|桃花|táohuā|복숭아꽃
+1106|套|tào|세트; 씌우다; 벌·채(양사)|一套房子|yí tào fángzi|집 한 채|一套衣服|yí tào yīfu|옷 한 벌|套上外套|tàoshàng wàitào|겉옷을 걸쳐 입다
+1107|特产|tèchǎn|특산물|当地特产|dāngdì tèchǎn|현지 특산물|家乡特产|jiāxiāng tèchǎn|고향 특산물|买特产|mǎi tèchǎn|특산물을 사다
+1108|特色|tèsè|특색, 특징|地方特色|dìfāng tèsè|지역 특색|中国特色|Zhōngguó tèsè|중국적 특색|富有特色|fùyǒu tèsè|특색이 풍부하다
+1109|特殊|tèshū|특수하다, 특별하다|特殊情况|tèshū qíngkuàng|특수한 상황|特殊原因|tèshū yuányīn|특별한 이유|特殊需要|tèshū xūyào|특별한 필요
+1110|特有|tèyǒu|특유하다, 고유하다|当地特有|dāngdì tèyǒu|현지에만 있는|中国特有|Zhōngguó tèyǒu|중국 특유의|特有的风格|tèyǒu de fēnggé|고유한 스타일
+1111|特征|tèzhēng|특징, 특성|主要特征|zhǔyào tèzhēng|주요 특징|明显特征|míngxiǎn tèzhēng|뚜렷한 특징|具有特征|jùyǒu tèzhēng|특징을 지니다
+1112|疼痛|téngtòng|아프다; 통증|感到疼痛|gǎndào téngtòng|통증을 느끼다|减轻疼痛|jiǎnqīng téngtòng|통증을 줄이다|疼痛难忍|téngtòng nánrěn|통증을 참기 어렵다
+1113|提倡|tíchàng|제창하다, 권장하다|提倡环保|tíchàng huánbǎo|환경보호를 장려하다|提倡健康生活|tíchàng jiànkāng shēnghuó|건강한 생활을 권장하다|大力提倡|dàlì tíchàng|적극 장려하다
+1114|提交|tíjiāo|제출하다|提交申请|tíjiāo shēnqǐng|신청서를 제출하다|提交材料|tíjiāo cáiliào|자료를 제출하다|提交报告|tíjiāo bàogào|보고서를 제출하다
+1115|题目|tímù|제목; 문제|作文题目|zuòwén tímù|작문 제목|考试题目|kǎoshì tímù|시험 문제|题目很难|tímù hěn nán|문제가 어렵다
+1116|提起|tíqǐ|언급하다, 이야기를 꺼내다|提起这件事|tíqǐ zhè jiàn shì|이 일을 꺼내다|提起往事|tíqǐ wǎngshì|지난 일을 꺼내다|一提起……就……|yì tíqǐ… jiù…|~만 말하면 바로…
+1117|提升|tíshēng|높이다, 향상시키다|提升能力|tíshēng nénglì|능력을 향상시키다|提升质量|tíshēng zhìliàng|품질을 높이다|提升效率|tíshēng xiàolǜ|효율을 높이다
+1118|提问|tíwèn|질문하다|向老师提问|xiàng lǎoshī tíwèn|선생님께 질문하다|主动提问|zhǔdòng tíwèn|적극적으로 질문하다|提问环节|tíwèn huánjié|질의응답 시간
+1119|体会|tǐhuì|체득하다, 느끼다; 체감|深刻体会|shēnkè tǐhuì|깊이 체감하다|亲身体会|qīnshēn tǐhuì|직접 체험해 느끼다|体会到快乐|tǐhuì dào kuàilè|즐거움을 느끼다
+1120|体力|tǐlì|체력|消耗体力|xiāohào tǐlì|체력을 소모하다|恢复体力|huīfù tǐlì|체력을 회복하다|体力劳动|tǐlì láodòng|육체노동
+1121|体现|tǐxiàn|구현하다, 나타내다|体现价值|tǐxiàn jiàzhí|가치를 나타내다|充分体现|chōngfèn tǐxiàn|충분히 보여 주다|体现特色|tǐxiàn tèsè|특색을 드러내다
+1122|体验|tǐyàn|체험하다|体验生活|tǐyàn shēnghuó|생활을 체험하다|亲身体验|qīnshēn tǐyàn|직접 체험하다|体验一下|tǐyàn yíxià|한번 체험해 보다
+1123|替|tì|대신하다; ~을 대신하여|替我去|tì wǒ qù|나 대신 가다|替你高兴|tì nǐ gāoxìng|네가 잘돼서 기쁘다|替别人着想|tì biérén zhuóxiǎng|다른 사람의 입장에서 생각하다
+1124|天空|tiānkōng|하늘|蓝色的天空|lánsè de tiānkōng|파란 하늘|天空很蓝|tiānkōng hěn lán|하늘이 매우 파랗다|仰望天空|yǎngwàng tiānkōng|하늘을 올려다보다
+1125|天上|tiānshàng|하늘 위|天上有云|tiānshàng yǒu yún|하늘에 구름이 있다|从天上掉下来|cóng tiānshàng diào xiàlái|하늘에서 떨어지다|天上的星星|tiānshàng de xīngxing|하늘의 별
+1126|填|tián|채우다, 기입하다|填表|tián biǎo|양식을 작성하다|填信息|tián xìnxī|정보를 기입하다|填空|tiánkòng|빈칸을 채우다
+1127|甜品|tiánpǐn|디저트|吃甜品|chī tiánpǐn|디저트를 먹다|甜品店|tiánpǐndiàn|디저트 가게|饭后甜品|fànhòu tiánpǐn|식후 디저트
+1128|挑|tiāo|고르다; 흠을 잡다; 메다|挑礼物|tiāo lǐwù|선물을 고르다|挑毛病|tiāo máobìng|흠을 잡다|挑担子|tiāo dànzi|멜대로 짐을 메다
+1129|挑选|tiāoxuǎn|골라 뽑다|挑选礼物|tiāoxuǎn lǐwù|선물을 고르다|仔细挑选|zǐxì tiāoxuǎn|꼼꼼히 고르다|挑选人才|tiāoxuǎn réncái|인재를 선발하다
+1130|调|tiáo|조절하다, 맞추다|调音量|tiáo yīnliàng|음량을 조절하다|把温度调高|bǎ wēndù tiáo gāo|온도를 높이다|调一下颜色|tiáo yíxià yánsè|색을 조절하다
+1131|调皮|tiáopí|장난꾸러기이다, 짓궂다|调皮的孩子|tiáopí de háizi|장난꾸러기 아이|太调皮了|tài tiáopí le|너무 장난꾸러기다|又可爱又调皮|yòu kě’ài yòu tiáopí|귀엽고 장난스럽다
+1132|调整|tiáozhěng|조정하다|调整时间|tiáozhěng shíjiān|시간을 조정하다|调整状态|tiáozhěng zhuàngtài|컨디션을 조절하다|调整计划|tiáozhěng jìhuà|계획을 조정하다
+1133|挑战|tiǎozhàn|도전하다; 도전|接受挑战|jiēshòu tiǎozhàn|도전을 받아들이다|面临挑战|miànlín tiǎozhàn|도전에 직면하다|挑战自己|tiǎozhàn zìjǐ|자신에게 도전하다
+1134|跳高|tiàogāo|높이뛰기를 하다|跳高比赛|tiàogāo bǐsài|높이뛰기 경기|练习跳高|liànxí tiàogāo|높이뛰기를 연습하다|参加跳高比赛|cānjiā tiàogāo bǐsài|높이뛰기 경기에 참가하다
+1135|跳远|tiàoyuǎn|멀리뛰기를 하다|跳远比赛|tiàoyuǎn bǐsài|멀리뛰기 경기|练习跳远|liànxí tiàoyuǎn|멀리뛰기를 연습하다|参加跳远|cānjiā tiàoyuǎn|멀리뛰기에 참가하다
+1136|贴|tiē|붙이다|贴照片|tiē zhàopiàn|사진을 붙이다|贴在墙上|tiē zài qiáng shàng|벽에 붙이다|贴标签|tiē biāoqiān|라벨을 붙이다
+1137|铁路|tiělù|철도|高速铁路|gāosù tiělù|고속철도|铁路建设|tiělù jiànshè|철도 건설|铁路运输|tiělù yùnshū|철도 운송
+1138|停留|tíngliú|머무르다|停留几天|tíngliú jǐ tiān|며칠 머무르다|暂时停留|zànshí tíngliú|잠시 머무르다|在北京停留|zài Běijīng tíngliú|베이징에 머무르다
+1139|通常|tōngcháng|보통, 일반적으로|通常情况下|tōngcháng qíngkuàng xià|일반적인 상황에서는|通常来说|tōngcháng lái shuō|일반적으로 말하면|通常需要|tōngcháng xūyào|보통 ~이 필요하다
+1140|通行|tōngxíng|통행하다, 지나가다|车辆通行|chēliàng tōngxíng|차량이 통행하다|禁止通行|jìnzhǐ tōngxíng|통행 금지|正常通行|zhèngcháng tōngxíng|정상 통행하다
+1141|同|tóng|같다; ~와, ~과 함께|同一天|tóng yì tiān|같은 날|同朋友一起|tóng péngyou yìqǐ|친구와 함께|同……相比|tóng… xiāngbǐ|~와 비교하면
+1142|同情|tóngqíng|동정하다|同情别人|tóngqíng biérén|다른 사람을 동정하다|值得同情|zhídé tóngqíng|동정할 만하다|表示同情|biǎoshì tóngqíng|동정을 나타내다
+1143|同一|tóngyī|동일한|同一时间|tóngyī shíjiān|같은 시간|同一地点|tóngyī dìdiǎn|같은 장소|同一个问题|tóngyí ge wèntí|같은 문제
+1144|统计|tǒngjì|통계 내다|统计数据|tǒngjì shùjù|데이터를 집계하다|据统计|jù tǒngjì|통계에 따르면|统计人数|tǒngjì rénshù|인원수를 집계하다
+1145|统一|tǒngyī|통일하다; 통일된|统一标准|tǒngyī biāozhǔn|기준을 통일하다|统一安排|tǒngyī ānpái|일괄적으로 배정하다|统一管理|tǒngyī guǎnlǐ|통합 관리하다
+1146|痛苦|tòngkǔ|고통스럽다|感到痛苦|gǎndào tòngkǔ|고통을 느끼다|痛苦的经历|tòngkǔ de jīnglì|고통스러운 경험|十分痛苦|shífēn tòngkǔ|매우 고통스럽다
+1147|投|tóu|던지다; 제출하다; 표를 던지다|投票|tóupiào|투표하다|投简历|tóu jiǎnlì|이력서를 제출하다|投篮|tóulán|슛을 하다
+1148|投入|tóurù|투입하다; 몰두하다|投入资金|tóurù zījīn|자금을 투입하다|投入工作|tóurù gōngzuò|업무에 몰두하다|全身心投入|quánshēnxīn tóurù|온 마음을 다해 몰두하다
+1149|头|tou|~머리, ~부분 등을 나타내는 접미 성분|木头|mùtou|나무, 목재|石头|shítou|돌|念头|niàntou|생각, 마음
+1150|突出|tūchū|두드러지다; 부각하다|特点突出|tèdiǎn tūchū|특징이 두드러지다|表现突出|biǎoxiàn tūchū|활약이 두드러지다|突出重点|tūchū zhòngdiǎn|핵심을 부각하다
+1151|图画|túhuà|그림|一幅图画|yì fú túhuà|그림 한 폭|看图画|kàn túhuà|그림을 보다|儿童图画|értóng túhuà|어린이 그림
+1152|图书|túshū|도서, 책|图书馆|túshūguǎn|도서관|图书资料|túshū zīliào|도서 자료|图书出版|túshū chūbǎn|도서 출판
+1153|土地|tǔdì|토지, 땅|利用土地|lìyòng tǔdì|토지를 이용하다|土地面积|tǔdì miànjī|토지 면적|保护土地|bǎohù tǔdì|토지를 보호하다
+1154|土豆|tǔdòu|감자|吃土豆|chī tǔdòu|감자를 먹다|土豆丝|tǔdòusī|채 썬 감자|炒土豆|chǎo tǔdòu|감자를 볶다
+1155|兔子|tùzi|토끼|一只兔子|yì zhī tùzi|토끼 한 마리|养兔子|yǎng tùzi|토끼를 기르다|小兔子|xiǎo tùzi|작은 토끼
+1156|团|tuán|둥글게 뭉치다; 단체; 덩이(양사)|一团毛线|yì tuán máoxiàn|털실 한 뭉치|团成一团|tuán chéng yì tuán|한 덩어리로 뭉치다|艺术团|yìshùtuán|예술단
+1157|团队|tuánduì|팀|团队合作|tuánduì hézuò|팀워크|团队成员|tuánduì chéngyuán|팀 구성원|加入团队|jiārù tuánduì|팀에 합류하다
+1158|推动|tuīdòng|추진하다, 촉진하다|推动发展|tuīdòng fāzhǎn|발전을 촉진하다|推动改革|tuīdòng gǎigé|개혁을 추진하다|推动合作|tuīdòng hézuò|협력을 촉진하다
+1159|推广|tuīguǎng|보급하다, 홍보하다|推广产品|tuīguǎng chǎnpǐn|제품을 홍보하다|推广应用|tuīguǎng yìngyòng|보급하여 활용하다|大力推广|dàlì tuīguǎng|적극적으로 보급하다
+1160|推荐|tuījiàn|추천하다|推荐产品|tuījiàn chǎnpǐn|제품을 추천하다|推荐给朋友|tuījiàn gěi péngyou|친구에게 추천하다|强烈推荐|qiángliè tuījiàn|강력 추천하다
+1161|推进|tuījìn|추진하다, 진전시키다|推进工作|tuījìn gōngzuò|업무를 추진하다|推进项目|tuījìn xiàngmù|프로젝트를 추진하다|加快推进|jiākuài tuījìn|추진 속도를 높이다
+1162|退|tuì|물러나다; 돌려주다, 환불하다|退一步|tuì yí bù|한 걸음 물러나다|退票|tuìpiào|표를 환불하다|退货|tuìhuò|반품하다
+1163|退出|tuìchū|나가다, 탈퇴하다|退出比赛|tuìchū bǐsài|경기에서 기권하다|退出群聊|tuìchū qúnliáo|단체 채팅방에서 나가다|退出市场|tuìchū shìchǎng|시장에서 철수하다
+1164|退还|tuìhuán|돌려주다, 반환하다|退还押金|tuìhuán yājīn|보증금을 돌려주다|退还商品|tuìhuán shāngpǐn|상품을 반품하다|全额退还|quán’é tuìhuán|전액 환불하다
+1165|退休|tuìxiū|퇴직하다, 은퇴하다|退休以后|tuìxiū yǐhòu|은퇴한 후|正式退休|zhèngshì tuìxiū|정식 퇴직하다|退休生活|tuìxiū shēnghuó|은퇴 생활
+1166|拖鞋|tuōxié|슬리퍼|穿拖鞋|chuān tuōxié|슬리퍼를 신다|一双拖鞋|yì shuāng tuōxié|슬리퍼 한 켤레|换拖鞋|huàn tuōxié|슬리퍼로 갈아 신다
+1167|外部|wàibù|외부|外部环境|wàibù huánjìng|외부 환경|外部条件|wàibù tiáojiàn|외부 조건|公司外部|gōngsī wàibù|회사 외부
+1168|外公|wàigōng|외할아버지|我外公|wǒ wàigōng|우리 외할아버지|去外公家|qù wàigōng jiā|외할아버지 댁에 가다|外公外婆|wàigōng wàipó|외할아버지와 외할머니
+1169|外观|wàiguān|외관, 겉모습|产品外观|chǎnpǐn wàiguān|제품 외관|外观设计|wàiguān shèjì|외관 디자인|外观漂亮|wàiguān piàoliang|겉모습이 예쁘다
+1170|外婆|wàipó|외할머니|我外婆|wǒ wàipó|우리 외할머니|去看外婆|qù kàn wàipó|외할머니를 뵈러 가다|外婆家|wàipó jiā|외할머니 댁
+1171|外形|wàixíng|외형, 겉모양|外形设计|wàixíng shèjì|외형 디자인|外形美观|wàixíng měiguān|외형이 보기 좋다|外形相似|wàixíng xiāngsì|외형이 비슷하다
+1172|弯|wān|굽다; 굽은 곳|弯下腰|wān xià yāo|허리를 굽히다|弯着腿|wānzhe tuǐ|다리를 구부리고 있다|转个弯|zhuǎn ge wān|모퉁이를 돌다
+1173|玩具|wánjù|장난감|买玩具|mǎi wánjù|장난감을 사다|儿童玩具|értóng wánjù|어린이 장난감|一件玩具|yí jiàn wánjù|장난감 하나
+1174|完美|wánměi|완벽하다|完美表现|wánměi biǎoxiàn|완벽한 활약|完美结合|wánměi jiéhé|완벽하게 결합하다|并不完美|bìng bù wánměi|완벽한 것은 아니다
+1175|完善|wánshàn|완비되다; 개선하다|完善制度|wánshàn zhìdù|제도를 보완하다|不断完善|bùduàn wánshàn|지속적으로 개선하다|设施完善|shèshī wánshàn|시설이 잘 갖춰져 있다
+1176|完整|wánzhěng|완전하다, 온전하다|完整内容|wánzhěng nèiróng|전체 내용|保存完整|bǎocún wánzhěng|온전히 보존되다|完整地表达|wánzhěng de biǎodá|빠짐없이 표현하다
+1177|万一|wànyī|만일, 혹시; 만일의 경우|万一下雨|wànyī xiàyǔ|만약 비가 온다면|万一迟到|wànyī chídào|혹시 지각한다면|以防万一|yǐfáng wànyī|만일에 대비해서
+1178|往返|wǎngfǎn|왕복하다|往返两地|wǎngfǎn liǎng dì|두 곳을 오가다|往返车票|wǎngfǎn chēpiào|왕복 승차권|每天往返|měitiān wǎngfǎn|매일 왕복하다
+1179|网络|wǎngluò|네트워크, 인터넷|网络平台|wǎngluò píngtái|온라인 플랫폼|网络安全|wǎngluò ānquán|네트워크 보안|网络连接|wǎngluò liánjiē|네트워크 연결
+1180|危害|wēihài|해치다; 해악|危害健康|wēihài jiànkāng|건강을 해치다|造成危害|zàochéng wēihài|해를 끼치다|严重危害|yánzhòng wēihài|심각하게 해치다
+1181|微笑|wēixiào|미소 짓다; 미소|面带微笑|miàn dài wēixiào|얼굴에 미소를 띠다|微笑着回答|wēixiàozhe huídá|미소 지으며 대답하다|给我一个微笑|gěi wǒ yí ge wēixiào|나에게 미소를 지어 주다
+1182|威胁|wēixié|위협하다|威胁安全|wēixié ānquán|안전을 위협하다|受到威胁|shòudào wēixié|위협을 받다|构成威胁|gòuchéng wēixié|위협이 되다
+1183|围|wéi|둘러싸다, 에워싸다|围着桌子坐|wéizhe zhuōzi zuò|탁자를 둘러앉다|围成一圈|wéi chéng yì quān|원을 이루어 둘러서다|围上来|wéi shànglái|주위로 몰려들다
+1184|为|wéi|~에 의해, ~에게(문어적 피동 구조)|为人所知|wéi rén suǒ zhī|사람들에게 알려져 있다|为大家所接受|wéi dàjiā suǒ jiēshòu|모두에게 받아들여지다|为事实所证明|wéi shìshí suǒ zhèngmíng|사실에 의해 증명되다
+1185|维持|wéichí|유지하다|维持秩序|wéichí zhìxù|질서를 유지하다|维持生活|wéichí shēnghuó|생활을 유지하다|维持现状|wéichí xiànzhuàng|현 상태를 유지하다
+1186|违法|wéifǎ|법을 위반하다|违法行为|wéifǎ xíngwéi|위법 행위|违法经营|wéifǎ jīngyíng|불법 영업을 하다|严重违法|yánzhòng wéifǎ|심각하게 법을 위반하다
+1187|违反|wéifǎn|위반하다|违反规定|wéifǎn guīdìng|규정을 위반하다|违反法律|wéifǎn fǎlǜ|법률을 위반하다|违反规则|wéifǎn guīzé|규칙을 위반하다
+1188|围巾|wéijīn|목도리, 스카프|戴围巾|dài wéijīn|목도리를 두르다|一条围巾|yì tiáo wéijīn|목도리 하나|红色围巾|hóngsè wéijīn|빨간 목도리
+1189|围绕|wéirào|둘러싸다; ~을 중심으로 하다|围绕主题|wéirào zhǔtí|주제를 중심으로 하다|围绕问题展开|wéirào wèntí zhǎnkāi|문제를 중심으로 전개하다|紧紧围绕|jǐnjǐn wéirào|긴밀하게 ~을 중심으로 하다
+1190|维修|wéixiū|수리하다, 정비하다|维修汽车|wéixiū qìchē|자동차를 수리하다|维修设备|wéixiū shèbèi|장비를 수리하다|维修人员|wéixiū rényuán|정비·수리 직원
+1191|唯一|wéiyī|유일하다|唯一的办法|wéiyī de bànfǎ|유일한 방법|唯一选择|wéiyī xuǎnzé|유일한 선택|唯一机会|wéiyī jīhuì|유일한 기회
+1192|尾巴|wěiba|꼬리|摇尾巴|yáo wěiba|꼬리를 흔들다|一条尾巴|yì tiáo wěiba|꼬리 하나|长尾巴|cháng wěiba|긴 꼬리
+1193|伟大|wěidà|위대하다|伟大人物|wěidà rénwù|위대한 인물|伟大成就|wěidà chéngjiù|위대한 성취|伟大的事业|wěidà de shìyè|위대한 사업
+1194|胃|wèi|위|胃疼|wèi téng|위가 아프다|胃不舒服|wèi bù shūfu|속이 불편하다|保护胃|bǎohù wèi|위를 보호하다
+1195|喂|wèi|먹이다|喂孩子|wèi háizi|아이에게 먹이다|喂猫|wèi māo|고양이에게 먹이를 주다|喂饭|wèi fàn|밥을 먹여 주다
+1196|未来|wèilái|미래; 미래의|未来发展|wèilái fāzhǎn|미래 발전|未来生活|wèilái shēnghuó|미래 생활|面向未来|miànxiàng wèilái|미래를 향하다
+1197|位于|wèiyú|~에 위치하다|位于市中心|wèiyú shì zhōngxīn|도심에 위치하다|位于北部|wèiyú běibù|북부에 위치하다|位于两国之间|wèiyú liǎng guó zhījiān|두 나라 사이에 위치하다
+1198|位置|wèizhì|위치, 자리|地理位置|dìlǐ wèizhì|지리적 위치|重要位置|zhòngyào wèizhì|중요한 위치|换个位置|huàn ge wèizhì|자리를 바꾸다
+1199|温暖|wēnnuǎn|따뜻하다; 따뜻하게 하다|温暖的家|wēnnuǎn de jiā|따뜻한 가정|感到温暖|gǎndào wēnnuǎn|따뜻함을 느끼다|温暖人心|wēnnuǎn rénxīn|사람의 마음을 따뜻하게 하다
+1200|文学|wénxué|문학|文学作品|wénxué zuòpǐn|문학 작품|文学创作|wénxué chuàngzuò|문학 창작|中国文学|Zhōngguó wénxué|중국 문학

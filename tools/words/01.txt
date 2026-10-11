@@ -1,0 +1,200 @@
+1|哎|āi|어, 아이고|哎，你看|āi, nǐ kàn|어, 봐봐|哎，等等|āi, děngdeng|어, 잠깐|哎，别走|āi, bié zǒu|어, 가지 마
+2|哎呀|āiyā|아이고, 어머나|哎呀，忘了|āiyā, wàng le|아이고, 깜빡했다|哎呀，真疼|āiyā, zhēn téng|아이고, 정말 아프다|哎呀，不好意思|āiyā, bù hǎoyìsi|어머, 미안해요
+3|唉|ài|에휴, 아휴|唉，别提了|ài, bié tí le|에휴, 말도 마|唉，真可惜|ài, zhēn kěxī|아휴, 정말 아쉽다|唉，没办法|ài, méi bànfǎ|에휴, 방법이 없네
+4|爱护|àihù|아끼다, 보호하다|爱护环境|àihù huánjìng|환경을 보호하다|爱护动物|àihù dòngwù|동물을 아끼다|爱护公共财物|àihù gōnggòng cáiwù|공공재산을 아끼다
+5|安|ān|편안하다; 안정시키다|心安|xīn ān|마음이 놓이다|安下心来|ān xià xīn lái|마음을 가라앉히다|安个家|ān ge jiā|가정을 꾸리고 정착하다
+6|安全带|ānquándài|안전벨트|系安全带|jì ānquándài|안전벨트를 매다|解开安全带|jiěkāi ānquándài|안전벨트를 풀다|请系好安全带|qǐng jì hǎo ānquándài|안전벨트를 잘 매 주세요
+7|安慰|ānwèi|위로하다; 위안|安慰朋友|ānwèi péngyou|친구를 위로하다|得到安慰|dédào ānwèi|위안을 얻다|自我安慰|zìwǒ ānwèi|스스로를 위로하다
+8|安装|ānzhuāng|설치하다|安装软件|ānzhuāng ruǎnjiàn|소프트웨어를 설치하다|安装空调|ānzhuāng kōngtiáo|에어컨을 설치하다|安装设备|ānzhuāng shèbèi|장비를 설치하다
+9|暗|àn|어둡다; 진한 색의|天暗了|tiān àn le|날이 어두워졌다|光线很暗|guāngxiàn hěn àn|빛이 어둡다|暗红色|ànhóngsè|짙은 붉은색
+10|熬夜|áoyè|밤을 새우다|经常熬夜|jīngcháng áoyè|자주 밤을 새우다|熬夜加班|áoyè jiābān|야근하며 밤을 새우다|熬夜到两点|áoyè dào liǎng diǎn|새벽 두 시까지 깨어 있다
+11|把握|bǎwò|파악하다; 자신, 확신|把握机会|bǎwò jīhuì|기회를 붙잡다|有把握|yǒu bǎwò|자신이 있다|没有把握|méiyǒu bǎwò|자신이 없다
+12|白|bái|희다; 헛되이|白纸|báizhǐ|흰 종이|白头发|bái tóufa|흰머리|白跑一趟|bái pǎo yí tàng|헛걸음하다
+13|半夜|bànyè|한밤중, 자정 무렵|半夜醒来|bànyè xǐnglái|한밤중에 깨다|半夜三点|bànyè sān diǎn|새벽 세 시|大半夜|dàbànyè|한밤중
+14|傍晚|bàngwǎn|저녁 무렵, 해질녘|傍晚时分|bàngwǎn shífēn|저녁 무렵|傍晚回家|bàngwǎn huí jiā|저녁 무렵 집에 돌아가다|傍晚六点左右|bàngwǎn liù diǎn zuǒyòu|저녁 여섯 시쯤
+15|包裹|bāoguǒ|소포; 싸다|寄包裹|jì bāoguǒ|소포를 보내다|收到包裹|shōudào bāoguǒ|소포를 받다|用纸包裹起来|yòng zhǐ bāoguǒ qǐlái|종이로 싸다
+16|包含|bāohán|포함하다|包含三个部分|bāohán sān ge bùfen|세 부분을 포함하다|包含重要信息|bāohán zhòngyào xìnxī|중요한 정보를 포함하다|包含在内|bāohán zài nèi|포함되다
+17|包括|bāokuò|포함하다|包括以下内容|bāokuò yǐxià nèiróng|다음 내용을 포함하다|包括我在内|bāokuò wǒ zàinèi|나를 포함해서|主要包括|zhǔyào bāokuò|주로 ~을 포함하다
+18|包装|bāozhuāng|포장하다; 포장|产品包装|chǎnpǐn bāozhuāng|제품 포장|打开包装|dǎkāi bāozhuāng|포장을 뜯다|包装礼物|bāozhuāng lǐwù|선물을 포장하다
+19|薄|báo|얇다|薄衣服|báo yīfu|얇은 옷|纸很薄|zhǐ hěn báo|종이가 얇다|切成薄片|qiē chéng báopiàn|얇게 썰다
+20|宝|bǎo|보물, 귀한 것|当成宝|dàngchéng bǎo|보물처럼 여기다|无价之宝|wújiàzhībǎo|값을 매길 수 없는 보물|心肝宝贝|xīngān bǎobèi|금쪽같이 귀한 사람
+21|保|bǎo|지키다, 보전하다|保平安|bǎo píng’ān|평안을 지키다|保住工作|bǎozhù gōngzuò|직장을 지키다|保你满意|bǎo nǐ mǎnyì|분명 만족하게 해 주다
+22|保安|bǎo’ān|보안요원, 경비원|当保安|dāng bǎo’ān|경비원으로 일하다|小区保安|xiǎoqū bǎo’ān|아파트 단지 경비원|保安人员|bǎo’ān rényuán|보안 인력
+23|宝贝|bǎobèi|보배, 귀염둥이|我的宝贝|wǒ de bǎobèi|내 보물|宝贝女儿|bǎobèi nǚ’ér|사랑하는 딸|当成宝贝|dàngchéng bǎobèi|보물처럼 여기다
+24|保持|bǎochí|유지하다|保持联系|bǎochí liánxì|연락을 유지하다|保持安静|bǎochí ānjìng|조용히 하다|保持健康|bǎochí jiànkāng|건강을 유지하다
+25|保存|bǎocún|보존하다, 저장하다|保存文件|bǎocún wénjiàn|파일을 저장하다|保存照片|bǎocún zhàopiàn|사진을 저장하다|妥善保存|tuǒshàn bǎocún|잘 보관하다
+26|宝贵|bǎoguì|소중하다, 귀중하다|宝贵经验|bǎoguì jīngyàn|귀중한 경험|宝贵时间|bǎoguì shíjiān|소중한 시간|宝贵机会|bǎoguì jīhuì|귀중한 기회
+27|保留|bǎoliú|보류하다, 보존하다|保留意见|bǎoliú yìjiàn|의견을 유보하다|保留座位|bǎoliú zuòwèi|자리를 남겨 두다|保留样品|bǎoliú yàngpǐn|샘플을 보관해 두다
+28|保险|bǎoxiǎn|보험; 안전하다|买保险|mǎi bǎoxiǎn|보험에 가입하다|医疗保险|yīliáo bǎoxiǎn|의료보험|这样更保险|zhèyàng gèng bǎoxiǎn|이렇게 하는 게 더 안전하다
+29|保质期|bǎozhìqī|유통기한, 품질보증기한|保质期内|bǎozhìqī nèi|유통기한 내에|超过保质期|chāoguò bǎozhìqī|유통기한을 넘기다|查看保质期|chákàn bǎozhìqī|유통기한을 확인하다
+30|报到|bàodào|등록하다, 도착 보고하다|到学校报到|dào xuéxiào bàodào|학교에 등록하러 가다|新生报到|xīnshēng bàodào|신입생 등록|按时报到|ànshí bàodào|제시간에 등록·도착 보고하다
+31|报道|bàodào|보도하다; 보도|新闻报道|xīnwén bàodào|뉴스 보도|媒体报道|méitǐ bàodào|언론 보도|报道这件事|bàodào zhè jiàn shì|이 일을 보도하다
+32|报告|bàogào|보고하다; 보고서|做报告|zuò bàogào|발표·보고를 하다|写报告|xiě bàogào|보고서를 쓰다|工作报告|gōngzuò bàogào|업무 보고
+33|报警|bàojǐng|신고하다, 경찰에 신고하다|打电话报警|dǎ diànhuà bàojǐng|전화로 경찰에 신고하다|立即报警|lìjí bàojǐng|즉시 신고하다|报警电话|bàojǐng diànhuà|신고 전화
+34|暴雨|bàoyǔ|폭우|下暴雨|xià bàoyǔ|폭우가 내리다|暴雨天气|bàoyǔ tiānqì|폭우 날씨|暴雨预警|bàoyǔ yùjǐng|폭우 경보
+35|抱怨|bàoyuàn|불평하다|抱怨工作|bàoyuàn gōngzuò|일에 대해 불평하다|向朋友抱怨|xiàng péngyou bàoyuàn|친구에게 불평하다|别抱怨了|bié bàoyuàn le|그만 불평해
+36|背|bèi|등; 외우다|背课文|bèi kèwén|본문을 외우다|背单词|bèi dāncí|단어를 외우다|背很疼|bèi hěn téng|등이 많이 아프다
+37|背后|bèihòu|등 뒤; 배후|背后有人|bèihòu yǒu rén|뒤에 사람이 있다|在背后议论|zài bèihòu yìlùn|뒤에서 험담하다|背后的原因|bèihòu de yuányīn|배후의 원인
+38|背景|bèijǐng|배경|教育背景|jiàoyù bèijǐng|교육 배경|文化背景|wénhuà bèijǐng|문화적 배경|了解背景|liǎojiě bèijǐng|배경을 이해하다
+39|被子|bèizi|이불|盖被子|gài bèizi|이불을 덮다|一床被子|yì chuáng bèizi|이불 한 채|晒被子|shài bèizi|이불을 햇볕에 말리다
+40|本|běn|본래, 원래|本应该|běn yīnggāi|본래 ~해야 한다|本可以|běn kěyǐ|원래 ~할 수 있었다|本不想|běn bù xiǎng|원래는 ~하고 싶지 않았다
+41|本地|běndì|현지, 본고장|本地人|běndìrén|현지인|本地企业|běndì qǐyè|현지 기업|本地新闻|běndì xīnwén|지역 뉴스
+42|本领|běnlǐng|재주, 능력|学本领|xué běnlǐng|재주를 배우다|有本领|yǒu běnlǐng|능력이 있다|真本领|zhēn běnlǐng|진짜 실력
+43|本人|běnrén|본인|本人同意|běnrén tóngyì|본인이 동의하다|由本人签字|yóu běnrén qiānzì|본인이 서명하다|本人负责|běnrén fùzé|본인이 책임지다
+44|本质|běnzhì|본질|问题的本质|wèntí de běnzhì|문제의 본질|本质区别|běnzhì qūbié|본질적인 차이|看清本质|kànqīng běnzhì|본질을 꿰뚫어보다
+45|彼此|bǐcǐ|서로, 서로 간에|彼此了解|bǐcǐ liǎojiě|서로 이해하다|彼此帮助|bǐcǐ bāngzhù|서로 돕다|彼此尊重|bǐcǐ zūnzhòng|서로 존중하다
+46|比分|bǐfēn|점수, 스코어|最终比分|zuìzhōng bǐfēn|최종 점수|比分领先|bǐfēn lǐngxiān|점수에서 앞서다|比分是二比一|bǐfēn shì èr bǐ yī|점수가 2대 1이다
+47|比例|bǐlì|비율|比例很高|bǐlì hěn gāo|비율이 높다|所占比例|suǒ zhàn bǐlì|차지하는 비율|按比例|àn bǐlì|비율에 따라
+48|比喻|bǐyù|비유하다; 비유|用……来比喻|yòng… lái bǐyù|~을 비유하다|比喻成……|bǐyù chéng…|~에 비유하다|形象的比喻|xíngxiàng de bǐyù|생생한 비유
+49|必|bì|반드시, 꼭|必不可少|bìbùkěshǎo|없어서는 안 되다|必将成功|bì jiāng chénggōng|반드시 성공할 것이다|有问必答|yǒu wèn bì dá|질문이 있으면 반드시 답하다
+50|毕竟|bìjìng|결국, 아무래도|毕竟是孩子|bìjìng shì háizi|아무래도 아이니까|毕竟不一样|bìjìng bù yíyàng|아무래도 다르다|毕竟有经验|bìjìng yǒu jīngyàn|아무래도 경험이 있다
+51|避免|bìmiǎn|피하다, 방지하다|避免浪费|bìmiǎn làngfèi|낭비를 피하다|避免发生事故|bìmiǎn fāshēng shìgù|사고 발생을 피하다|尽量避免|jǐnliàng bìmiǎn|되도록 피하다
+52|闭幕式|bìmùshì|폐막식|举行闭幕式|jǔxíng bìmùshì|폐막식을 열다|参加闭幕式|cānjiā bìmùshì|폐막식에 참석하다|闭幕式上|bìmùshì shàng|폐막식에서
+53|必然|bìrán|필연적이다; 필연|必然结果|bìrán jiéguǒ|필연적인 결과|必然趋势|bìrán qūshì|필연적인 추세|必然会发生|bìrán huì fāshēng|반드시 발생하게 되다
+54|必需|bìxū|필요로 하다, 반드시 필요하다|生活必需品|shēnghuó bìxūpǐn|생활필수품|人体必需的营养|réntǐ bìxū de yíngyǎng|인체에 꼭 필요한 영양|工作所必需的技能|gōngzuò suǒ bìxū de jìnéng|업무에 꼭 필요한 기술
+55|必要|bìyào|필요하다; 필요한|有必要|yǒu bìyào|필요가 있다|没有必要|méiyǒu bìyào|필요가 없다|必要条件|bìyào tiáojiàn|필요조건
+56|便|biàn|곧, 바로(문어적)|便可以|biàn kěyǐ|그러면 곧 가능하다|便开始|biàn kāishǐ|곧 시작하다|便成了|biàn chéng le|곧 ~이 되었다
+57|变动|biàndòng|변동하다; 변동|人员变动|rényuán biàndòng|인원 변동|时间有变动|shíjiān yǒu biàndòng|시간에 변동이 있다|发生变动|fāshēng biàndòng|변동이 생기다
+58|便利|biànlì|편리하다; 편의를 제공하다|交通便利|jiāotōng biànlì|교통이 편리하다|生活便利|shēnghuó biànlì|생활이 편리하다|提供便利|tígōng biànlì|편의를 제공하다
+59|便利店|biànlìdiàn|편의점|去便利店|qù biànlìdiàn|편의점에 가다|24小时便利店|èrshísì xiǎoshí biànlìdiàn|24시간 편의점|在便利店买东西|zài biànlìdiàn mǎi dōngxi|편의점에서 물건을 사다
+60|标题|biāotí|제목|文章标题|wénzhāng biāotí|글 제목|标题很吸引人|biāotí hěn xīyǐn rén|제목이 눈길을 끈다|写标题|xiě biāotí|제목을 쓰다
+61|标志|biāozhì|표지, 상징; 나타내다|交通标志|jiāotōng biāozhì|교통 표지|成功的标志|chénggōng de biāozhì|성공의 상징|标志着开始|biāozhìzhe kāishǐ|시작을 의미하다
+62|表达|biǎodá|표현하다|表达意见|biǎodá yìjiàn|의견을 표현하다|表达感谢|biǎodá gǎnxiè|감사를 표현하다|表达清楚|biǎodá qīngchu|분명하게 표현하다
+63|表面|biǎomiàn|표면|表面上|biǎomiàn shàng|겉으로는|从表面看|cóng biǎomiàn kàn|표면적으로 보면|表面现象|biǎomiàn xiànxiàng|표면 현상
+64|表明|biǎomíng|밝히다, 나타내다|表明态度|biǎomíng tàidù|태도를 밝히다|研究表明|yánjiū biǎomíng|연구 결과에 따르면|事实表明|shìshí biǎomíng|사실이 보여 주다
+65|表情|biǎoqíng|표정|面部表情|miànbù biǎoqíng|얼굴 표정|表情严肃|biǎoqíng yánsù|표정이 진지하다|看他的表情|kàn tā de biǎoqíng|그의 표정을 보다
+66|别|bié|꽂다, 달다|别在胸前|bié zài xiōngqián|가슴에 달다|把花别在头发上|bǎ huā bié zài tóufa shàng|꽃을 머리에 꽂다|胸前别着徽章|xiōngqián biézhe huīzhāng|가슴에 배지를 달고 있다
+67|饼|bǐng|전병, 부침개류|吃饼|chī bǐng|전을 먹다|一张饼|yì zhāng bǐng|전 한 장|烙饼|lào bǐng|전병을 굽다
+68|病房|bìngfáng|병실|住进病房|zhùjìn bìngfáng|병실에 입원하다|普通病房|pǔtōng bìngfáng|일반 병실|病房里|bìngfáng li|병실 안
+69|病情|bìngqíng|병세|病情严重|bìngqíng yánzhòng|병세가 심하다|病情好转|bìngqíng hǎozhuǎn|병세가 호전되다|了解病情|liǎojiě bìngqíng|병세를 파악하다
+70|拨打|bōdǎ|전화를 걸다, 번호를 누르다|拨打电话|bōdǎ diànhuà|전화를 걸다|拨打号码|bōdǎ hàomǎ|번호를 누르다|拨打急救电话|bōdǎ jíjiù diànhuà|응급전화를 걸다
+71|玻璃|bōli|유리|玻璃杯|bōlibēi|유리컵|擦玻璃|cā bōli|유리를 닦다|玻璃碎了|bōli suì le|유리가 깨졌다
+72|博物馆|bówùguǎn|박물관|参观博物馆|cānguān bówùguǎn|박물관을 관람하다|历史博物馆|lìshǐ bówùguǎn|역사박물관|博物馆门票|bówùguǎn ménpiào|박물관 입장권
+73|不利|búlì|불리하다|对健康不利|duì jiànkāng búlì|건강에 불리하다|不利条件|búlì tiáojiàn|불리한 조건|不利影响|búlì yǐngxiǎng|부정적인 영향
+74|不幸|búxìng|불행하다; 불행|不幸的消息|búxìng de xiāoxi|불행한 소식|遭遇不幸|zāoyù búxìng|불행을 겪다|不幸的是……|búxìng de shì…|불행한 것은 ~이다
+75|不要紧|búyàojǐn|괜찮다, 문제없다|一点儿也不要紧|yìdiǎnr yě búyàojǐn|전혀 문제없다|晚一点儿不要紧|wǎn yìdiǎnr búyàojǐn|조금 늦어도 괜찮다|伤得不要紧|shāng de búyàojǐn|다친 정도가 심하지 않다
+76|补充|bǔchōng|보충하다|补充说明|bǔchōng shuōmíng|보충 설명하다|补充营养|bǔchōng yíngyǎng|영양을 보충하다|补充一句|bǔchōng yí jù|한마디 덧붙이다
+77|不得了|bùdéliǎo|굉장하다, 매우 심하다|疼得不得了|téng de bùdéliǎo|너무 아프다|忙得不得了|máng de bùdéliǎo|너무 바쁘다|高兴得不得了|gāoxìng de bùdéliǎo|너무 기쁘다
+78|不符|bùfú|부합하지 않다|与事实不符|yǔ shìshí bùfú|사실과 부합하지 않다|与要求不符|yǔ yāoqiú bùfú|요구와 맞지 않다|与实际情况不符|yǔ shíjì qíngkuàng bùfú|실제 상황과 맞지 않다
+79|不良|bùliáng|좋지 않다, 불량하다|不良习惯|bùliáng xíguàn|나쁜 습관|不良反应|bùliáng fǎnyìng|부작용|不良影响|bùliáng yǐngxiǎng|좋지 않은 영향
+80|不然|bùrán|그렇지 않으면; 아니면|不然的话|bùrán de huà|그렇지 않으면|快点儿，不然要迟到了|kuài diǎnr, bùrán yào chídào le|빨리해, 안 그러면 늦겠어|不然怎么办|bùrán zěnme bàn|아니면 어떻게 하지?
+81|步行|bùxíng|걷다, 도보로 가다|步行上班|bùxíng shàngbān|걸어서 출근하다|步行十分钟|bùxíng shí fēnzhōng|걸어서 10분|步行前往|bùxíng qiánwǎng|도보로 가다
+82|不足|bùzú|부족하다; 부족함|经验不足|jīngyàn bùzú|경험이 부족하다|睡眠不足|shuìmián bùzú|수면이 부족하다|不足之处|bùzú zhī chù|부족한 점
+83|才|cái|재능, 재주|很有才|hěn yǒu cái|재능이 많다|多才多艺|duōcái-duōyì|다재다능하다|德才兼备|décái-jiānbèi|덕성과 재능을 겸비하다
+84|裁判|cáipàn|심판; 판정하다|当裁判|dāng cáipàn|심판을 맡다|裁判比赛|cáipàn bǐsài|경기를 판정하다|裁判的决定|cáipàn de juédìng|심판의 결정
+85|采访|cǎifǎng|취재하다, 인터뷰하다|接受采访|jiēshòu cǎifǎng|인터뷰를 받다|采访专家|cǎifǎng zhuānjiā|전문가를 인터뷰하다|现场采访|xiànchǎng cǎifǎng|현장 취재
+86|采取|cǎiqǔ|취하다, 채택하다|采取措施|cǎiqǔ cuòshī|조치를 취하다|采取行动|cǎiqǔ xíngdòng|행동을 취하다|采取办法|cǎiqǔ bànfǎ|방법을 취하다
+87|彩色|cǎisè|컬러의, 색깔이 있는|彩色照片|cǎisè zhàopiàn|컬러 사진|彩色图片|cǎisè túpiàn|컬러 이미지|彩色头发|cǎisè tóufa|컬러로 염색한 머리
+88|采用|cǎiyòng|채택하다, 사용하다|采用新技术|cǎiyòng xīn jìshù|신기술을 채택하다|采用这种方法|cǎiyòng zhè zhǒng fāngfǎ|이 방법을 사용하다|被广泛采用|bèi guǎngfàn cǎiyòng|널리 채택되다
+89|参考|cānkǎo|참고하다|参考资料|cānkǎo zīliào|참고 자료|仅供参考|jǐn gōng cānkǎo|참고용으로만 제공하다|参考一下|cānkǎo yíxià|한번 참고하다
+90|餐饮|cānyǐn|외식업, 요식업|餐饮行业|cānyǐn hángyè|외식업계|餐饮服务|cānyǐn fúwù|외식 서비스|餐饮企业|cānyǐn qǐyè|외식업체
+91|参与|cānyù|참여하다|参与活动|cānyù huódòng|활동에 참여하다|积极参与|jījí cānyù|적극적으로 참여하다|参与讨论|cānyù tǎolùn|토론에 참여하다
+92|藏|cáng|숨기다, 감추다|藏起来|cáng qǐlái|숨기다|藏在柜子里|cáng zài guìzi li|장 안에 숨기다|把钱藏起来|bǎ qián cáng qǐlái|돈을 숨겨 두다
+93|操作|cāozuò|조작하다, 작업하다|操作机器|cāozuò jīqì|기계를 조작하다|操作方法|cāozuò fāngfǎ|조작 방법|实际操作|shíjì cāozuò|실제 조작
+94|册|cè|권(양사); 책, 첩|一册书|yí cè shū|책 한 권|相册|xiàngcè|앨범, 사진첩|上下两册|shàngxià liǎng cè|상하 두 권
+95|测|cè|재다, 측정하다|测体温|cè tǐwēn|체온을 재다|测血压|cè xuèyā|혈압을 재다|测速度|cè sùdù|속도를 측정하다
+96|测试|cèshì|테스트하다; 테스트|进行测试|jìnxíng cèshì|테스트를 진행하다|测试结果|cèshì jiéguǒ|테스트 결과|测试一下|cèshì yíxià|한번 테스트하다
+97|曾|céng|일찍이, ~한 적이 있다|曾在北京学习|céng zài Běijīng xuéxí|베이징에서 공부한 적이 있다|曾多次参加|céng duōcì cānjiā|여러 차례 참가한 적이 있다|曾表示|céng biǎoshì|일찍이 밝힌 적이 있다
+98|曾经|céngjīng|일찍이, 예전에|曾经去过|céngjīng qùguo|가 본 적이 있다|曾经是老师|céngjīng shì lǎoshī|예전에 선생님이었다|曾经有过|céngjīng yǒuguo|예전에 있었던 적이 있다
+99|插|chā|꽂다, 끼우다|插卡|chā kǎ|카드를 꽂다|插上电源|chāshàng diànyuán|전원을 꽂다|把花插在花瓶里|bǎ huā chā zài huāpíng li|꽃을 꽃병에 꽂다
+100|差别|chābié|차이, 차별|有差别|yǒu chābié|차이가 있다|差别很大|chābié hěn dà|차이가 크다|看不出差别|kàn bu chū chābié|차이를 알아볼 수 없다
+101|差距|chājù|차이, 격차|缩小差距|suōxiǎo chājù|격차를 줄이다|差距很大|chājù hěn dà|격차가 크다|存在差距|cúnzài chājù|격차가 존재하다
+102|叉子|chāzi|포크|用叉子吃|yòng chāzi chī|포크로 먹다|一把叉子|yì bǎ chāzi|포크 하나|刀和叉子|dāo hé chāzi|나이프와 포크
+103|拆|chāi|뜯다, 철거하다|拆开包裹|chāikāi bāoguǒ|소포를 뜯다|拆房子|chāi fángzi|집을 철거하다|拆下来|chāi xiàlái|떼어 내다
+104|产|chǎn|생산하다, 나다|产粮食|chǎn liángshi|곡물을 생산하다|产石油|chǎn shíyóu|석유가 나다|产于中国|chǎn yú Zhōngguó|중국에서 생산되다
+105|产量|chǎnliàng|생산량|提高产量|tígāo chǎnliàng|생산량을 높이다|年产量|nián chǎnliàng|연간 생산량|产量增加|chǎnliàng zēngjiā|생산량이 증가하다
+106|产品|chǎnpǐn|제품|产品质量|chǎnpǐn zhìliàng|제품 품질|新产品|xīn chǎnpǐn|신제품|购买产品|gòumǎi chǎnpǐn|제품을 구매하다
+107|产业|chǎnyè|산업|旅游产业|lǚyóu chǎnyè|관광 산업|产业发展|chǎnyè fāzhǎn|산업 발전|高科技产业|gāokējì chǎnyè|첨단기술 산업
+108|长处|chángchù|장점, 강점|发挥长处|fāhuī chángchù|장점을 발휘하다|发现长处|fāxiàn chángchù|장점을 발견하다|每个人都有长处|měi ge rén dōu yǒu chángchù|누구나 장점이 있다
+109|长度|chángdù|길이|测量长度|cèliáng chángdù|길이를 측정하다|长度相同|chángdù xiāngtóng|길이가 같다|长度为十米|chángdù wéi shí mǐ|길이가 10미터이다
+110|长久|chángjiǔ|오래다, 오래 지속되다|长久以来|chángjiǔ yǐlái|오랫동안|长久的友谊|chángjiǔ de yǒuyì|오랜 우정|感情长久|gǎnqíng chángjiǔ|관계가 오래가다
+111|长期|chángqī|장기간; 장기적인|长期使用|chángqī shǐyòng|장기간 사용하다|长期以来|chángqī yǐlái|오랫동안|长期工作|chángqī gōngzuò|장기간 일하다
+112|常识|chángshí|상식|生活常识|shēnghuó chángshí|생활 상식|基本常识|jīběn chángshí|기본 상식|缺乏常识|quēfá chángshí|상식이 부족하다
+113|尝试|chángshì|시도하다|尝试一下|chángshì yíxià|한번 시도해 보다|尝试新方法|chángshì xīn fāngfǎ|새로운 방법을 시도하다|第一次尝试|dì-yī cì chángshì|첫 번째 시도
+114|长途|chángtú|장거리의|长途汽车|chángtú qìchē|장거리 버스|长途旅行|chángtú lǚxíng|장거리 여행|长途电话|chángtú diànhuà|장거리 전화
+115|长远|chángyuǎn|장기적이다, 먼 앞날의|长远发展|chángyuǎn fāzhǎn|장기적인 발전|长远目标|chángyuǎn mùbiāo|장기 목표|从长远来看|cóng chángyuǎn lái kàn|장기적으로 보면
+116|场所|chǎngsuǒ|장소|公共场所|gōnggòng chǎngsuǒ|공공장소|活动场所|huódòng chǎngsuǒ|활동 장소|工作场所|gōngzuò chǎngsuǒ|근무 장소
+117|超|chāo|넘다, 초과하다|超预算|chāo yùsuàn|예산을 초과하다|超范围|chāo fànwéi|범위를 넘다|超标准|chāo biāozhǔn|기준을 초과하다
+118|超出|chāochū|초과하다, 벗어나다|超出范围|chāochū fànwéi|범위를 벗어나다|超出预算|chāochū yùsuàn|예산을 초과하다|超出想象|chāochū xiǎngxiàng|상상을 뛰어넘다
+119|超级|chāojí|초급을 넘는 정도의, 매우(구어)|超级可爱|chāojí kě’ài|엄청 귀엽다|超级方便|chāojí fāngbiàn|엄청 편리하다|超级厉害|chāojí lìhai|엄청 대단하다
+120|超速|chāosù|과속하다|超速行驶|chāosù xíngshǐ|과속 주행하다|超速驾驶|chāosù jiàshǐ|과속 운전하다|严重超速|yánzhòng chāosù|심하게 과속하다
+121|朝|cháo|~을 향해|朝前走|cháo qián zǒu|앞을 향해 걷다|朝我笑|cháo wǒ xiào|나를 향해 웃다|面朝大海|miàn cháo dàhǎi|바다를 마주하다
+122|吵|chǎo|시끄럽다; 다투다|吵架|chǎojià|말다툼하다|太吵了|tài chǎo le|너무 시끄럽다|吵得睡不着|chǎo de shuìbuzháo|시끄러워서 잠들 수 없다
+123|炒|chǎo|볶다|炒菜|chǎo cài|요리하다, 채소를 볶다|炒鸡蛋|chǎo jīdàn|달걀을 볶다|炒饭|chǎofàn|볶음밥
+124|车祸|chēhuò|교통사고|发生车祸|fāshēng chēhuò|교통사고가 나다|遭遇车祸|zāoyù chēhuò|교통사고를 당하다|车祸现场|chēhuò xiànchǎng|교통사고 현장
+125|车库|chēkù|차고, 주차장|地下车库|dìxià chēkù|지하 주차장|停进车库|tíng jìn chēkù|차고에 주차하다|车库门|chēkùmén|차고 문
+126|车辆|chēliàng|차량|机动车辆|jīdòng chēliàng|자동차 등 동력 차량|过往车辆|guòwǎng chēliàng|지나가는 차량|车辆管理|chēliàng guǎnlǐ|차량 관리
+127|车厢|chēxiāng|차량·기차의 객실, 칸|火车车厢|huǒchē chēxiāng|기차 객실|走进车厢|zǒu jìn chēxiāng|객실로 들어가다|车厢里|chēxiāng li|차량 안
+128|车主|chēzhǔ|차주, 차량 소유자|联系车主|liánxì chēzhǔ|차주에게 연락하다|车主本人|chēzhǔ běnrén|차주 본인|私家车车主|sījiāchē chēzhǔ|자가용 차주
+129|彻底|chèdǐ|철저하다, 완전히|彻底解决|chèdǐ jiějué|철저히 해결하다|彻底改变|chèdǐ gǎibiàn|완전히 바꾸다|彻底清理|chèdǐ qīnglǐ|철저히 정리하다
+130|沉|chén|가라앉다, 침몰하다|船沉了|chuán chén le|배가 가라앉았다|沉到水底|chén dào shuǐdǐ|물밑으로 가라앉다|慢慢下沉|mànmàn xiàchén|천천히 가라앉다
+131|沉默|chénmò|침묵하다|保持沉默|bǎochí chénmò|침묵을 지키다|陷入沉默|xiànrù chénmò|침묵에 빠지다|沉默不语|chénmò bù yǔ|말없이 침묵하다
+132|称|chēng|부르다, 칭하다|称他为专家|chēng tā wéi zhuānjiā|그를 전문가라고 부르다|人们称他为老师|rénmen chēng tā wéi lǎoshī|사람들이 그를 선생님이라 부르다|称自己为……|chēng zìjǐ wéi…|자신을 ~라고 칭하다
+133|称|chēng|무게를 달다|称体重|chēng tǐzhòng|체중을 재다|称重量|chēng zhòngliàng|무게를 달다|称一称|chēng yi chēng|한번 달아 보다
+134|称为|chēngwéi|~라고 부르다, ~라고 칭하다|被称为专家|bèi chēngwéi zhuānjiā|전문가라고 불리다|通常称为……|tōngcháng chēngwéi…|보통 ~라고 부르다|可称为……|kě chēngwéi…|~라고 할 수 있다
+135|称赞|chēngzàn|칭찬하다|称赞孩子|chēngzàn háizi|아이를 칭찬하다|受到称赞|shòudào chēngzàn|칭찬을 받다|大家都称赞他|dàjiā dōu chēngzàn tā|모두가 그를 칭찬하다
+136|成本|chéngběn|원가, 비용|降低成本|jiàngdī chéngběn|비용을 낮추다|生产成本|shēngchǎn chéngběn|생산 비용|成本太高|chéngběn tài gāo|비용이 너무 높다
+137|承担|chéngdān|부담하다, 맡다|承担责任|chéngdān zérèn|책임을 지다|承担费用|chéngdān fèiyòng|비용을 부담하다|承担风险|chéngdān fēngxiǎn|위험을 감수하다
+138|程度|chéngdù|정도|一定程度|yídìng chéngdù|어느 정도|不同程度|bùtóng chéngdù|서로 다른 정도|在很大程度上|zài hěn dà chéngdù shàng|상당한 정도로
+139|成分|chéngfèn|성분, 구성 요소|主要成分|zhǔyào chéngfèn|주요 성분|营养成分|yíngyǎng chéngfèn|영양 성분|化学成分|huàxué chéngfèn|화학 성분
+140|成果|chéngguǒ|성과|取得成果|qǔdé chéngguǒ|성과를 거두다|研究成果|yánjiū chéngguǒ|연구 성과|劳动成果|láodòng chéngguǒ|노동의 성과
+141|成就|chéngjiù|성과, 성취; 성취하다|取得成就|qǔdé chéngjiù|성취를 이루다|伟大成就|wěidà chéngjiù|위대한 성취|很有成就|hěn yǒu chéngjiù|큰 성취가 있다
+142|成立|chénglì|설립되다, 성립하다|成立公司|chénglì gōngsī|회사를 설립하다|正式成立|zhèngshì chénglì|정식으로 설립되다|成立于2010年|chénglì yú èr líng yī líng nián|2010년에 설립되다
+143|成年|chéngnián|성년이 되다|已经成年|yǐjīng chéngnián|이미 성인이 되다|还没成年|hái méi chéngnián|아직 미성년이다|成年以后|chéngnián yǐhòu|성인이 된 뒤
+144|城区|chéngqū|도시 지역, 시가지|城区人口|chéngqū rénkǒu|도시 지역 인구|住在城区|zhù zài chéngqū|시가지에 살다|城区面积|chéngqū miànjī|도시 지역 면적
+145|成人|chéngrén|성인이 되다; 성인|长大成人|zhǎngdà chéngrén|성장해 성인이 되다|成人教育|chéngrén jiàoyù|성인 교육|成人票|chéngrénpiào|성인표
+146|承认|chéngrèn|인정하다, 시인하다|承认错误|chéngrèn cuòwù|잘못을 인정하다|承认事实|chéngrèn shìshí|사실을 인정하다|不得不承认|bùdébù chéngrèn|인정하지 않을 수 없다
+147|承受|chéngshòu|견디다, 감당하다|承受压力|chéngshòu yālì|압박을 견디다|承受痛苦|chéngshòu tòngkǔ|고통을 견디다|无法承受|wúfǎ chéngshòu|감당할 수 없다
+148|成熟|chéngshú|성숙하다, 익다|逐渐成熟|zhújiàn chéngshú|점차 성숙하다|技术成熟|jìshù chéngshú|기술이 성숙하다|成熟的想法|chéngshú de xiǎngfǎ|성숙한 생각
+149|乘务员|chéngwùyuán|승무원|列车乘务员|lièchē chéngwùyuán|열차 승무원|一名乘务员|yì míng chéngwùyuán|승무원 한 명|向乘务员求助|xiàng chéngwùyuán qiúzhù|승무원에게 도움을 청하다
+150|程序|chéngxù|절차; 프로그램|按程序办理|àn chéngxù bànlǐ|절차에 따라 처리하다|电脑程序|diànnǎo chéngxù|컴퓨터 프로그램|办理程序|bànlǐ chéngxù|처리 절차
+151|成员|chéngyuán|구성원, 멤버|团队成员|tuánduì chéngyuán|팀 구성원|家庭成员|jiātíng chéngyuán|가족 구성원|成为成员|chéngwéi chéngyuán|구성원이 되다
+152|成长|chéngzhǎng|성장하다|健康成长|jiànkāng chéngzhǎng|건강하게 성장하다|成长过程|chéngzhǎng guòchéng|성장 과정|陪伴孩子成长|péibàn háizi chéngzhǎng|아이의 성장을 함께하다
+153|橙子|chéngzi|오렌지|吃橙子|chī chéngzi|오렌지를 먹다|一个橙子|yí ge chéngzi|오렌지 한 개|剥橙子|bāo chéngzi|오렌지 껍질을 벗기다
+154|池|chí|못, 연못|水池|shuǐchí|물웅덩이, 수조|泳池|yǒngchí|수영장|池边|chíbiān|연못가
+155|持续|chíxù|지속하다|持续发展|chíxù fāzhǎn|지속적으로 발전하다|持续增长|chíxù zēngzhǎng|계속 증가하다|持续下雨|chíxù xiàyǔ|계속 비가 오다
+156|尺子|chǐzi|자, 자尺|一把尺子|yì bǎ chǐzi|자 하나|用尺子量|yòng chǐzi liáng|자로 재다|拿尺子|ná chǐzi|자를 들다
+157|翅膀|chìbǎng|날개|张开翅膀|zhāngkāi chìbǎng|날개를 펴다|一双翅膀|yì shuāng chìbǎng|한 쌍의 날개|鸟的翅膀|niǎo de chìbǎng|새의 날개
+158|冲|chōng|돌진하다, 뛰쳐나가다|冲出去|chōng chūqu|뛰쳐나가다|冲进房间|chōng jìn fángjiān|방으로 뛰어들다|冲上去|chōng shàngqu|달려들다
+159|充电|chōngdiàn|충전하다|给手机充电|gěi shǒujī chōngdiàn|휴대전화를 충전하다|充电五分钟|chōngdiàn wǔ fēnzhōng|5분 충전하다|正在充电|zhèngzài chōngdiàn|충전 중이다
+160|充分|chōngfèn|충분하다; 충분히|充分准备|chōngfèn zhǔnbèi|충분히 준비하다|充分利用|chōngfèn lìyòng|충분히 활용하다|充分说明|chōngfèn shuōmíng|충분히 설명하다
+161|充满|chōngmǎn|가득 차다|充满希望|chōngmǎn xīwàng|희망으로 가득 차다|充满活力|chōngmǎn huólì|활력이 넘치다|充满信心|chōngmǎn xìnxīn|자신감으로 가득하다
+162|充值|chōngzhí|충전하다, 금액을 충전하다|手机充值|shǒujī chōngzhí|휴대전화 요금 충전|充值话费|chōngzhí huàfèi|전화요금을 충전하다|在线充值|zàixiàn chōngzhí|온라인 충전
+163|充足|chōngzú|충족하다, 충분하다|时间充足|shíjiān chōngzú|시간이 충분하다|阳光充足|yángguāng chōngzú|햇빛이 충분하다|准备充足|zhǔnbèi chōngzú|준비가 충분하다
+164|重复|chóngfù|반복하다|重复一遍|chóngfù yí biàn|한 번 반복하다|重复练习|chóngfù liànxí|반복 연습하다|重复出现|chóngfù chūxiàn|반복해서 나타나다
+165|虫子|chóngzi|벌레|一只虫子|yì zhī chóngzi|벌레 한 마리|小虫子|xiǎo chóngzi|작은 벌레|被虫子咬|bèi chóngzi yǎo|벌레에게 물리다
+166|宠物|chǒngwù|반려동물|养宠物|yǎng chǒngwù|반려동물을 키우다|宠物店|chǒngwùdiàn|펫숍|宠物医院|chǒngwù yīyuàn|동물병원
+167|抽|chōu|뽑다; 피우다; 시간을 내다|抽时间|chōu shíjiān|시간을 내다|抽烟|chōuyān|담배를 피우다|抽血|chōuxuè|채혈하다
+168|丑|chǒu|못생기다, 추하다|长得很丑|zhǎng de hěn chǒu|생김새가 못생겼다|又丑又旧|yòu chǒu yòu jiù|못생기고 낡았다|丑得要命|chǒu de yàomìng|엄청 못생겼다
+169|臭|chòu|냄새가 나다, 지독하다|很臭|hěn chòu|냄새가 심하다|臭味|chòuwèi|악취|鞋子很臭|xiézi hěn chòu|신발 냄새가 심하다
+170|初|chū|처음, 초; 초기의|年初|niánchū|연초|月初|yuèchū|월초|初次见面|chūcì jiànmiàn|처음 만나다
+171|出版|chūbǎn|출판하다|出版图书|chūbǎn túshū|도서를 출판하다|正式出版|zhèngshì chūbǎn|정식 출판하다|出版社|chūbǎnshè|출판사
+172|初级|chūjí|초급의|初级水平|chūjí shuǐpíng|초급 수준|初级课程|chūjí kèchéng|초급 과정|初级阶段|chūjí jiēduàn|초급 단계
+173|初期|chūqī|초기|发展初期|fāzhǎn chūqī|발전 초기|怀孕初期|huáiyùn chūqī|임신 초기|项目初期|xiàngmù chūqī|프로젝트 초기
+174|出色|chūsè|뛰어나다|表现出色|biǎoxiàn chūsè|활약이 뛰어나다|出色完成|chūsè wánchéng|훌륭하게 완수하다|出色的演员|chūsè de yǎnyuán|뛰어난 배우
+175|出售|chūshòu|판매하다|出售房屋|chūshòu fángwū|주택을 판매하다|公开出售|gōngkāi chūshòu|공개 판매하다|低价出售|dījià chūshòu|저가로 판매하다
+176|出席|chūxí|출석하다, 참석하다|出席会议|chūxí huìyì|회의에 참석하다|出席活动|chūxí huódòng|행사에 참석하다|正式出席|zhèngshì chūxí|공식 참석하다
+177|出自|chūzì|~에서 나오다, ~에서 유래하다|这句话出自……|zhè jù huà chūzì…|이 말은 ~에서 나왔다|出自名家之手|chūzì míngjiā zhī shǒu|명가의 손에서 나오다|出自内心|chūzì nèixīn|진심에서 우러나다
+178|除夕|chúxī|섣달그믐, 춘절 전날|除夕夜|Chúxīyè|섣달그믐밤|除夕当天|Chúxī dāngtiān|섣달그믐 당일|除夕团圆饭|Chúxī tuányuánfàn|섣달그믐 가족 식사
+179|处|chǔ|지내다, 처하다|处得很好|chǔ de hěn hǎo|사이좋게 지내다|处不来|chǔ bu lái|잘 지내지 못하다|和平共处|hépíng gòngchǔ|평화롭게 공존하다
+180|处理|chǔlǐ|처리하다|处理问题|chǔlǐ wèntí|문제를 처리하다|及时处理|jíshí chǔlǐ|제때 처리하다|处理垃圾|chǔlǐ lājī|쓰레기를 처리하다
+181|处于|chǔyú|~한 상태에 있다|处于危险中|chǔyú wēixiǎn zhōng|위험한 상태에 있다|处于领先地位|chǔyú lǐngxiān dìwèi|선두에 있다|处于发展阶段|chǔyú fāzhǎn jiēduàn|발전 단계에 있다
+182|处|chù|곳, 장소|住处|zhùchù|거처|去处|qùchù|갈 곳|到处|dàochù|곳곳에
+183|传|chuán|전하다, 전달하다|传消息|chuán xiāoxi|소식을 전하다|传照片|chuán zhàopiàn|사진을 보내다|传给朋友|chuán gěi péngyou|친구에게 전달하다
+184|传播|chuánbō|전파하다|传播文化|chuánbō wénhuà|문화를 전파하다|传播消息|chuánbō xiāoxi|소식을 퍼뜨리다|传播知识|chuánbō zhīshi|지식을 전파하다
+185|传递|chuándì|전달하다|传递信息|chuándì xìnxī|정보를 전달하다|传递消息|chuándì xiāoxi|소식을 전달하다|传递爱心|chuándì àixīn|사랑을 전하다
+186|传说|chuánshuō|전해지다; 전설|民间传说|mínjiān chuánshuō|민간 전설|有一个传说|yǒu yí ge chuánshuō|전설이 하나 있다|神话传说|shénhuà chuánshuō|신화와 전설
+187|传统|chuántǒng|전통; 전통적인|传统文化|chuántǒng wénhuà|전통문화|传统习俗|chuántǒng xísú|전통 풍습|保持传统|bǎochí chuántǒng|전통을 유지하다
+188|窗台|chuāngtái|창턱|放在窗台上|fàng zài chuāngtái shàng|창턱에 놓다|窗台上的花|chuāngtái shàng de huā|창턱의 꽃|擦窗台|cā chuāngtái|창턱을 닦다
+189|床单|chuángdān|침대 시트|换床单|huàn chuángdān|침대 시트를 갈다|洗床单|xǐ chuángdān|침대 시트를 빨다|一张床单|yì zhāng chuángdān|침대 시트 한 장
+190|创新|chuàngxīn|혁신하다; 혁신|科技创新|kējì chuàngxīn|과학기술 혁신|不断创新|bùduàn chuàngxīn|계속 혁신하다|创新能力|chuàngxīn nénglì|혁신 능력
+191|创业|chuàngyè|창업하다|创业公司|chuàngyè gōngsī|스타트업, 창업 회사|创业成功|chuàngyè chénggōng|창업에 성공하다|自主创业|zìzhǔ chuàngyè|자기 주도로 창업하다
+192|创造|chuàngzào|창조하다, 만들어 내다|创造机会|chuàngzào jīhuì|기회를 만들다|创造条件|chuàngzào tiáojiàn|조건을 마련하다|创造价值|chuàngzào jiàzhí|가치를 창출하다
+193|创作|chuàngzuò|창작하다; 창작|文学创作|wénxué chuàngzuò|문학 창작|创作歌曲|chuàngzuò gēqǔ|노래를 창작하다|创作作品|chuàngzuò zuòpǐn|작품을 창작하다
+194|词汇|cíhuì|어휘|词汇量|cíhuìliàng|어휘량|学习词汇|xuéxí cíhuì|어휘를 학습하다|积累词汇|jīlěi cíhuì|어휘를 쌓다
+195|辞职|cízhí|사직하다, 퇴사하다|提出辞职|tíchū cízhí|사직 의사를 밝히다|正式辞职|zhèngshì cízhí|정식으로 사직하다|辞职申请|cízhí shēnqǐng|사직 신청
+196|此后|cǐhòu|그 후, 이후|此后不久|cǐhòu bùjiǔ|그 후 얼마 지나지 않아|此后多年|cǐhòu duōnián|그 후 여러 해 동안|此后一直|cǐhòu yìzhí|그 후 줄곧
+197|此前|cǐqián|그 이전, 이에 앞서|此前曾……|cǐqián céng…|이에 앞서 ~한 적이 있다|此前已经……|cǐqián yǐjīng…|그 전에 이미 ~했다|此前不久|cǐqián bùjiǔ|얼마 전
+198|此时|cǐshí|이때, 이 시각|此时此刻|cǐshí cǐkè|바로 이 순간|此时已经……|cǐshí yǐjīng…|이때 이미 ~했다|就在此时|jiù zài cǐshí|바로 이때
+199|刺激|cìjī|자극하다; 자극|刺激消费|cìjī xiāofèi|소비를 자극하다|受到刺激|shòudào cìjī|자극을 받다|强烈的刺激|qiángliè de cìjī|강한 자극
+200|从不|cóng bù|전혀 ~하지 않다|从不迟到|cóng bù chídào|전혀 지각하지 않다|从不抱怨|cóng bù bàoyuàn|전혀 불평하지 않다|从不放弃|cóng bù fàngqì|절대 포기하지 않다

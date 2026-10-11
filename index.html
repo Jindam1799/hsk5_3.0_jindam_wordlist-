@@ -1,0 +1,171 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover">
+  <meta name="theme-color" content="#4394ff">
+  <meta name="author" content="진담중국어">
+  <meta name="copyright" content="© 2026 진담중국어. All rights reserved.">
+  <meta name="description" content="HSK 3.0 5급 필수 어휘 1600개와 진담중국어 짝꿍어휘를 휴대폰에서 넘기며 익히는 단어장">
+  <title>진담 짝꿍어휘 단어장 · HSK 5급</title>
+  <!-- 홈 화면 아이콘: 진담중국어 무화과 짝꿍 (브라우저와 같은 기록을 쓰도록 display: browser) -->
+  <link rel="icon" type="image/png" sizes="32x32" href="img/favicon-32.png">
+  <link rel="icon" type="image/png" sizes="64x64" href="img/favicon-64.png">
+  <link rel="apple-touch-icon" href="img/apple-touch-icon.png">
+  <link rel="manifest" href="manifest.webmanifest">
+  <meta name="apple-mobile-web-app-title" content="진담 HSK5">
+  <!-- 카카오톡·SNS로 링크를 보냈을 때 보이는 미리보기 -->
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="진담중국어">
+  <meta property="og:title" content="진담 짝꿍어휘 단어장 · HSK 5급 | 진담중국어">
+  <meta property="og:description" content="HSK 3.0 필수 어휘 1600개, 단어마다 짝꿍어휘 3개. 덩어리로 익히면, 중국어가 툭!">
+  <meta property="og:url" content="https://jindam1799.github.io/hsk5_3.0_jindam_wordlist-/">
+  <meta property="og:image" content="https://jindam1799.github.io/hsk5_3.0_jindam_wordlist-/og-fig.png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="진담 짝꿍어휘 단어장 HSK 5급 — 무화과 짝꿍과 表达 짝꿍어휘 카드">
+  <meta name="twitter:card" content="summary_large_image">
+  <script src="inapp.js"></script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;500&family=Noto+Sans+KR:wght@400;500;700;900&family=Noto+Sans+SC:wght@500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body class="mode-all">
+
+  <!-- ===== 홈 (표지) ===== -->
+  <section class="home" id="home" aria-label="홈">
+    <button class="icon-btn stats-btn home-stats" data-stats aria-label="내 공부 현황"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 19.2S6.2 13.3 6.2 8.9a5.8 5.8 0 0 1 11.6 0c0 4.4-5.8 10.3-5.8 10.3z"/><circle cx="12" cy="8.9" r="2.4"/><ellipse cx="12" cy="20.4" rx="6.2" ry="1.7"/></svg></button>
+    <div class="home-inner">
+      <div class="cover-wrap">
+        <!-- 진담중국어 단어장 표지 원본 그림 (배경 점무늬만 투명하게 뺀 것) -->
+        <img class="cover" src="img/cover.png" alt="HSK 3.0 버전 진담 짝꿍어휘 단어장 · HSK 5급 — 필수 어휘 1600 · 단어마다 짝꿍어휘 3개. 덩어리로 익히면, 중국어가 툭!" draggable="false">
+      </div>
+
+      <div class="home-actions">
+        <button class="review-pill" id="reviewBtn" hidden></button>
+        <button class="cta" id="cardsBtn"><b>시작하기</b><small id="continueSub"></small></button>
+        <div class="home-row">
+          <button class="ghost" id="homeSectionBtn">구간 고르기</button>
+          <button class="ghost" id="guideBtn">공부 방법</button>
+        </div>
+      </div>
+    </div>
+
+    <footer class="wave">
+      <svg class="wave-top" viewBox="0 0 1414 60" preserveAspectRatio="none" aria-hidden="true">
+        <path d="M0 30 C120 -4 240 -4 354 26 S590 62 707 30 S940 -4 1060 26 S1300 62 1414 22 V60 H0 Z"/>
+      </svg>
+      <b>진담중국어</b>
+      <small>진심을 담은 중국어 · 아웃풋에 진심</small>
+      <small class="copy">© 2026 진담중국어. All rights reserved.</small>
+    </footer>
+  </section>
+
+  <!-- ===== 🃏 카드로 외우기: 한 화면에 1단어. 꾹 누르면 정답, 톡 치면 뒤집기, 밀면 넘기기 ===== -->
+  <div class="app" id="cards" hidden>
+    <header class="top four">
+      <button class="icon-btn" data-home aria-label="홈으로"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 11 12 4l9 7"/><path d="M5.5 9.5V20h13V9.5"/><path d="M10 20v-5h4v5"/></svg></button>
+      <button class="band" id="cardBandBtn" aria-label="구간 고르기">
+        <b id="cardBandTitle"></b><span class="band-more">구간 ▾</span>
+      </button>
+      <button class="icon-btn" id="listBtn" aria-label="단어 목록">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><rect x="4" y="3.5" width="16" height="17" rx="3"/><path d="M8.5 9h7M8.5 13h7M8.5 17h4"/></svg>
+      </button>
+      <button class="icon-btn stats-btn" data-stats aria-label="내 공부 현황"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 19.2S6.2 13.3 6.2 8.9a5.8 5.8 0 0 1 11.6 0c0 4.4-5.8 10.3-5.8 10.3z"/><circle cx="12" cy="8.9" r="2.4"/><ellipse cx="12" cy="20.4" rx="6.2" ry="1.7"/></svg></button>
+      <div class="seg" id="dirSeg" aria-label="연습 방향">
+        <button data-dir="zh" class="on" aria-label="중국어 보고 한국어 뜻 떠올리기">중국어<i class="arr">→</i>한국어</button>
+        <button data-dir="ko" aria-label="한국어 뜻 보고 중국어 말하기">한국어<i class="arr">→</i>중국어</button>
+      </div>
+    </header>
+
+    <main class="card-stage" id="cardStage"></main>
+
+    <!-- 밀기 안내: 왼쪽 = 알아요 / 오른쪽 = 몰라요 -->
+    <div class="judge" id="judge">
+      <span class="sg left">← ⭕ 알아요</span>
+      <span class="sg right">❌ 몰라요 →</span>
+    </div>
+    <footer class="card-foot" id="cardFoot"></footer>
+  </div>
+
+  <!-- ===== 📍 내 공부 현황 ===== -->
+  <section class="sheet" id="statsSheet" hidden aria-label="내 공부 현황">
+    <div class="sheet-panel stats">
+      <div class="sheet-head"><b class="st-title"><svg class="pin" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 19.2S6.2 13.3 6.2 8.9a5.8 5.8 0 0 1 11.6 0c0 4.4-5.8 10.3-5.8 10.3z"/><circle cx="12" cy="8.9" r="2.4"/><ellipse cx="12" cy="20.4" rx="6.2" ry="1.7"/></svg> 내 공부 현황</b><button class="st-reset" id="resetBtn">기록 초기화</button><button class="sheet-close" data-close aria-label="닫기">✕</button></div>
+      <div class="stats-body" id="statsBody"></div>
+    </div>
+  </section>
+
+  <!-- ===== 구간 고르기 ===== -->
+  <section class="sheet" id="sectionSheet" hidden aria-label="구간 고르기">
+    <div class="sheet-panel">
+      <div class="sheet-head"><b>구간 고르기</b><button class="sheet-close" data-close aria-label="닫기">✕</button></div>
+      <div class="section-grid" id="sectionGrid"></div>
+    </div>
+  </section>
+
+  <!-- ===== 📋 단어 목록 (검색 · 이 구간 · 오늘 본 단어 · 몰라요 단어) ===== -->
+  <section class="sheet" id="listSheet" hidden aria-label="단어 목록">
+    <div class="sheet-panel tall">
+      <div class="sheet-head">
+        <b class="st-title"><svg class="pin" viewBox="0 0 24 24" aria-hidden="true"><rect x="4" y="3.5" width="16" height="17" rx="3"/><path d="M8.5 9h7M8.5 13h7M8.5 17h4"/></svg> 단어 목록</b>
+        <button class="st-reset" id="maskBtn" aria-pressed="false">뜻 가리기</button>
+        <button class="sheet-close" data-close aria-label="닫기">✕</button>
+      </div>
+      <label class="search">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-4-4"/></svg>
+        <input id="search" type="search" placeholder="한자 · 병음 · 뜻 · 번호로 찾기" autocomplete="off">
+      </label>
+      <div class="seg list-tabs" id="listTabs">
+        <button data-tab="sec" class="on">이 구간</button>
+        <button data-tab="today">오늘 본 단어</button>
+        <button data-tab="weak">❌ 몰라요</button>
+      </div>
+      <ul class="results" id="results"></ul>
+    </div>
+  </section>
+
+  <!-- ===== 미리보기 카드 (보기만 하고 기록은 바뀌지 않음) ===== -->
+  <section class="sheet preview-sheet" id="previewSheet" hidden aria-label="단어 미리보기">
+    <div class="preview" id="preview"></div>
+  </section>
+
+  <!-- ===== 공부 방법 (이렇게 공부해요) ===== -->
+  <section class="sheet" id="guideSheet" hidden aria-label="이렇게 공부해요">
+    <div class="sheet-panel guide">
+      <div class="sheet-head"><b>이렇게 공부해요</b><button class="sheet-close" data-close aria-label="닫기">✕</button></div>
+      <ol class="steps">
+        <li>
+          <span class="step-no">1</span>
+          <div><b>체크박스로 공부한 횟수 표시</b>
+            <p>체크박스 3개는 <b>서로 다른 날</b> 기억해 낼 때마다 채워져요. 처음 ⭕ → 1칸, 하루 뒤 또 ⭕ → 2칸, 3일 뒤 또 ⭕ → 3칸 완료! ❌ 몰라요면 한 칸 내려가요.</p></div>
+        </li>
+        <li>
+          <span class="step-no">2</span>
+          <div><b>단어 → 짝꿍어휘 순서로</b>
+            <p>앞면의 큰 글씨 단어를 먼저 떠올리고, 카드를 뒤집어 ①②③ 짝꿍어휘로 실제 쓰임을 확인해요.</p></div>
+        </li>
+        <li>
+          <span class="step-no">3</span>
+          <div><b>번호로 진도 확인</b>
+            <p>0001부터 1600까지 번호가 붙어 있고, 50개씩 파란 띠의 구간 32개로 나뉘어 있어요.</p></div>
+        </li>
+      </ol>
+      <ul class="app-tips">
+        <li><b>꾹</b>누르고 있으면 뜻·병음이 보이고, 손을 떼면 사라져요.</li>
+        <li><b>톡</b>치면 카드가 뒤집혀 짝꿍어휘가 나와요. 짝꿍어휘도 한 줄씩 꾹 눌러 확인해요.</li>
+        <li><b>📅 복습</b>체크한 단어는 하루 뒤, 3일 뒤에 ‘오늘 복습할 단어’로 다시 나와요. 홈에서 매일 먼저 해요.</li>
+        <li><b>밀기</b>떠올렸으면 왼쪽으로 밀어 ⭕ 알아요, 헷갈리면 오른쪽으로 밀어 ❌ 몰라요 — 몰라요 단어는 4장 뒤에 또 나와요.</li>
+        <li><b>🔊</b>소리 버튼을 누르면 중국어 발음이 나와요. 따라 말해 보세요.<br><small class="voice">발음 목소리: <span id="voiceName">확인 중…</span></small></li>
+        <li><b>방향</b>위쪽에서 ‘한국어 → 중국어’로 바꾸면 한국어 뜻을 보고 중국어를 먼저 말해요.</li>
+      </ul>
+      <p class="source">HSK 단어 및 급수는 중외언어교류협력센터의 《HSK考试大纲》 어휘 목록을 기준으로 확인했으며, 짝꿍어휘는 실제 말하기 연습을 위해 진담중국어가 추가하였다.</p>
+      <p class="copyright">© 2026 진담중국어(진심을 담은 중국어). All rights reserved.<br>단어장의 짝꿍어휘·구성·디자인·캐릭터는 진담중국어의 저작물로, 무단 복제·배포를 금합니다.</p>
+    </div>
+  </section>
+
+  <script src="data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

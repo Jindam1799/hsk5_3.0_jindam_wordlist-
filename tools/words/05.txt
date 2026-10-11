@@ -1,0 +1,200 @@
+801|念|niàn|읽다, 소리 내어 읽다; 공부하다|念课文|niàn kèwén|본문을 소리 내어 읽다|念大学|niàn dàxué|대학을 다니다|念给我听|niàn gěi wǒ tīng|나에게 읽어 주다
+802|牛仔裤|niúzǎikù|청바지|穿牛仔裤|chuān niúzǎikù|청바지를 입다|一条牛仔裤|yì tiáo niúzǎikù|청바지 한 벌|蓝色牛仔裤|lánsè niúzǎikù|파란 청바지
+803|浓|nóng|진하다, 짙다|咖啡太浓|kāfēi tài nóng|커피가 너무 진하다|味道很浓|wèidào hěn nóng|맛·향이 진하다|浓茶|nóng chá|진한 차
+804|农民|nóngmín|농민|当地农民|dāngdì nóngmín|현지 농민|农民收入|nóngmín shōurù|농민 소득|农民生活|nóngmín shēnghuó|농민 생활
+805|农业|nóngyè|농업|发展农业|fāzhǎn nóngyè|농업을 발전시키다|现代农业|xiàndài nóngyè|현대 농업|农业生产|nóngyè shēngchǎn|농업 생산
+806|女子|nǚzǐ|여성, 여자|一名女子|yì míng nǚzǐ|여성 한 명|年轻女子|niánqīng nǚzǐ|젊은 여성|女子比赛|nǚzǐ bǐsài|여자 경기
+807|哦|ò|아, 어(이해·깨달음 등을 나타냄)|哦，原来如此|ò, yuánlái rúcǐ|아, 그렇구나|哦，我知道了|ò, wǒ zhīdào le|아, 알겠어|哦，是吗？|ò, shì ma|아, 그래요?
+808|欧洲|Ōuzhōu|유럽|欧洲国家|Ōuzhōu guójiā|유럽 국가|欧洲市场|Ōuzhōu shìchǎng|유럽 시장|去欧洲旅行|qù Ōuzhōu lǚxíng|유럽으로 여행 가다
+809|偶然|ǒurán|우연한|偶然现象|ǒurán xiànxiàng|우연한 현상|偶然因素|ǒurán yīnsù|우연적인 요인|一次偶然的机会|yí cì ǒurán de jīhuì|우연히 생긴 한 번의 기회
+810|拍摄|pāishè|촬영하다|拍摄电影|pāishè diànyǐng|영화를 촬영하다|拍摄视频|pāishè shìpín|영상을 촬영하다|拍摄照片|pāishè zhàopiàn|사진을 촬영하다
+811|排列|páiliè|배열하다, 늘어놓다|按顺序排列|àn shùnxù páiliè|순서대로 배열하다|排列整齐|páiliè zhěngqí|가지런히 배열하다|排列成一排|páiliè chéng yì pái|한 줄로 늘어서다
+812|派|pài|보내다, 파견하다|派人去|pài rén qù|사람을 보내다|派代表参加|pài dàibiǎo cānjiā|대표를 보내 참가시키다|派到国外工作|pài dào guówài gōngzuò|해외로 파견해 일하게 하다
+813|派出所|pàichūsuǒ|파출소, 경찰지구대|去派出所|qù pàichūsuǒ|파출소에 가다|当地派出所|dāngdì pàichūsuǒ|관할 파출소|派出所民警|pàichūsuǒ mínjǐng|파출소 경찰관
+814|跑道|pǎodào|활주로, 트랙|机场跑道|jīchǎng pǎodào|공항 활주로|塑胶跑道|sùjiāo pǎodào|우레탄 트랙|在跑道上跑步|zài pǎodào shàng pǎobù|트랙에서 달리다
+815|赔|péi|배상하다; 손해 보다|赔钱|péi qián|돈을 물어주다·손해 보다|赔礼道歉|péilǐ dàoqiàn|정중히 사과하다|赔了很多钱|péi le hěn duō qián|돈을 많이 손해 봤다
+816|陪伴|péibàn|곁에서 함께하다|陪伴家人|péibàn jiārén|가족과 함께하다|陪伴孩子成长|péibàn háizi chéngzhǎng|아이의 성장을 함께하다|一路陪伴|yílù péibàn|줄곧 곁을 지키다
+817|培训|péixùn|교육하다, 훈련하다|参加培训|cānjiā péixùn|교육에 참가하다|培训课程|péixùn kèchéng|교육 과정|职业培训|zhíyè péixùn|직업훈련
+818|培养|péiyǎng|기르다, 양성하다|培养兴趣|péiyǎng xìngqù|흥미를 기르다|培养习惯|péiyǎng xíguàn|습관을 기르다|培养人才|péiyǎng réncái|인재를 양성하다
+819|配|pèi|맞추다, 배합하다|配眼镜|pèi yǎnjìng|안경을 맞추다|配钥匙|pèi yàoshi|열쇠를 복제하다|两个人很配|liǎng ge rén hěn pèi|두 사람이 잘 어울리다
+820|配合|pèihé|협력하다, 호흡을 맞추다|积极配合|jījí pèihé|적극적으로 협조하다|配合工作|pèihé gōngzuò|업무에 협조하다|互相配合|hùxiāng pèihé|서로 협력하다
+821|配送|pèisòng|배송하다|配送服务|pèisòng fúwù|배송 서비스|免费配送|miǎnfèi pèisòng|무료 배송|配送到家|pèisòng dào jiā|집까지 배송하다
+822|盆|pén|대야, 화분; 대야·화분의 양사|一盆花|yì pén huā|화분 하나|一盆水|yì pén shuǐ|물 한 대야|洗脸盆|xǐliǎnpén|세숫대야
+823|碰|pèng|부딪치다, 건드리다|碰到头|pèng dào tóu|머리를 부딪치다|碰杯|pèngbēi|잔을 부딪쳐 건배하다|别碰它|bié pèng tā|그것을 건드리지 마
+824|碰见|pèngjiàn|우연히 만나다|碰见朋友|pèngjiàn péngyou|친구를 우연히 만나다|偶然碰见|ǒurán pèngjiàn|우연히 마주치다|在路上碰见|zài lùshang pèngjiàn|길에서 마주치다
+825|批|pī|무리, 묶음(양사)|一批货物|yì pī huòwù|화물 한 묶음|一批学生|yì pī xuésheng|학생 한 무리|一批新产品|yì pī xīn chǎnpǐn|신제품 한 묶음
+826|批|pī|검토하다, 채점하다, 결재하다|批作业|pī zuòyè|숙제를 채점하다|批试卷|pī shìjuàn|시험지를 채점하다|批文件|pī wénjiàn|문서를 검토·결재하다
+827|批准|pīzhǔn|허가하다, 승인하다|批准申请|pīzhǔn shēnqǐng|신청을 승인하다|得到批准|dédào pīzhǔn|승인을 받다|正式批准|zhèngshì pīzhǔn|정식으로 승인하다
+828|匹|pǐ|필, 마리(말·천 등의 양사)|一匹马|yì pǐ mǎ|말 한 마리|两匹马|liǎng pǐ mǎ|말 두 마리|一匹布|yì pǐ bù|천 한 필
+829|骗|piàn|속이다|骗人|piàn rén|사람을 속이다|骗钱|piàn qián|돈을 속여 빼앗다|别骗我|bié piàn wǒ|나를 속이지 마
+830|拼|pīn|맞추다, 합치다; 힘을 다하다|拼在一起|pīn zài yìqǐ|서로 맞추다|拼成一张图|pīn chéng yì zhāng tú|한 장의 그림으로 맞추다|拼尽全力|pīnjìn quánlì|온 힘을 다하다
+831|拼音|pīnyīn|병음으로 표기하다; 병음|汉语拼音|Hànyǔ pīnyīn|한어병음|拼音输入法|pīnyīn shūrùfǎ|병음 입력법|用拼音打字|yòng pīnyīn dǎzì|병음으로 타이핑하다
+832|品|pǐn|~품, 물품·작품 등을 나타내는 접미 성분|食品|shípǐn|식품|商品|shāngpǐn|상품|艺术品|yìshùpǐn|예술품
+833|品牌|pǐnpái|브랜드|知名品牌|zhīmíng pǐnpái|유명 브랜드|品牌价值|pǐnpái jiàzhí|브랜드 가치|品牌形象|pǐnpái xíngxiàng|브랜드 이미지
+834|品质|pǐnzhì|품질, 질|产品品质|chǎnpǐn pǐnzhì|제품 품질|品质保证|pǐnzhì bǎozhèng|품질 보증|生活品质|shēnghuó pǐnzhì|삶의 질
+835|品种|pǐnzhǒng|품종, 종류|水果品种|shuǐguǒ pǐnzhǒng|과일 품종|不同品种|bùtóng pǐnzhǒng|서로 다른 품종|新品种|xīn pǐnzhǒng|신품종
+836|聘请|pìnqǐng|초빙하다, 고용하다|聘请专家|pìnqǐng zhuānjiā|전문가를 초빙하다|聘请教师|pìnqǐng jiàoshī|교사를 채용하다|正式聘请|zhèngshì pìnqǐng|정식으로 초빙하다
+837|平|píng|평평하다|路很平|lù hěn píng|길이 평평하다|地面很平|dìmiàn hěn píng|바닥이 평평하다|又平又宽|yòu píng yòu kuān|평평하고 넓다
+838|评|píng|평가하다, 평하다|评一评这部电影|píng yi píng zhè bù diànyǐng|이 영화를 한번 평가해 보다|给作文评个分|gěi zuòwén píng ge fēn|작문에 점수를 매기다|评得很客观|píng de hěn kèguān|객관적으로 평가하다
+839|凭|píng|~에 의지하여, ~을 근거로|凭经验|píng jīngyàn|경험에 의지하여|凭实力|píng shílì|실력으로|凭身份证进入|píng shēnfènzhèng jìnrù|신분증으로 들어가다
+840|平安|píng’ān|평안하다, 무사하다|一路平安|yílù píng’ān|가는 길 무사하세요|平安到家|píng’ān dào jiā|무사히 집에 도착하다|平安无事|píng’ān wúshì|아무 일 없이 무사하다
+841|平衡|pínghéng|균형을 이루다; 균형|保持平衡|bǎochí pínghéng|균형을 유지하다|失去平衡|shīqù pínghéng|균형을 잃다|工作和生活的平衡|gōngzuò hé shēnghuó de pínghéng|일과 생활의 균형
+842|评价|píngjià|평가하다; 평가|客观评价|kèguān píngjià|객관적으로 평가하다|给予评价|jǐyǔ píngjià|평가를 내리다|得到高度评价|dédào gāodù píngjià|높은 평가를 받다
+843|凭借|píngjiè|~에 힘입어, ~을 바탕으로|凭借经验|píngjiè jīngyàn|경험을 바탕으로|凭借实力|píngjiè shílì|실력을 바탕으로|凭借优势|píngjiè yōushì|강점에 힘입어
+844|平静|píngjìng|평온하다, 차분하다|恢复平静|huīfù píngjìng|평정을 되찾다|心情平静|xīnqíng píngjìng|마음이 차분하다|平静下来|píngjìng xiàlái|진정하다
+845|平均|píngjūn|평균하다; 평균의|平均年龄|píngjūn niánlíng|평균 연령|平均水平|píngjūn shuǐpíng|평균 수준|平均分配|píngjūn fēnpèi|균등하게 분배하다
+846|屏幕|píngmù|화면, 스크린|手机屏幕|shǒujī píngmù|휴대전화 화면|电脑屏幕|diànnǎo píngmù|컴퓨터 화면|屏幕上|píngmù shàng|화면에
+847|平台|píngtái|플랫폼|网络平台|wǎngluò píngtái|온라인 플랫폼|电商平台|diànshāng píngtái|전자상거래 플랫폼|学习平台|xuéxí píngtái|학습 플랫폼
+848|破坏|pòhuài|파괴하다, 해치다|破坏环境|pòhuài huánjìng|환경을 파괴하다|破坏关系|pòhuài guānxi|관계를 해치다|严重破坏|yánzhòng pòhuài|심각하게 훼손하다
+849|普及|pǔjí|보급하다, 널리 퍼뜨리다|普及知识|pǔjí zhīshi|지식을 보급하다|普及教育|pǔjí jiàoyù|교육을 보급하다|得到普及|dédào pǔjí|널리 보급되다
+850|期待|qīdài|기대하다|期待见面|qīdài jiànmiàn|만나기를 기대하다|期待你的回复|qīdài nǐ de huífù|네 답장을 기다리다|期待已久|qīdài yǐjiǔ|오래전부터 기대하다
+851|期间|qījiān|기간, ~하는 동안|春节期间|Chūnjié qījiān|춘절 기간|学习期间|xuéxí qījiān|공부하는 동안|在此期间|zài cǐ qījiān|이 기간 동안
+852|齐|qí|가지런하다; 모두 갖추어지다|人都到齐了|rén dōu dào qí le|사람들이 모두 도착했다|材料都齐了|cáiliào dōu qí le|자료가 모두 갖춰졌다|排得很齐|pái de hěn qí|가지런히 늘어서 있다
+853|其|qí|그, 그것의(주로 문어체)|其原因|qí yuányīn|그 원인|其特点|qí tèdiǎn|그 특징|其作用|qí zuòyòng|그것의 역할
+854|奇迹|qíjì|기적|创造奇迹|chuàngzào qíjì|기적을 만들다|发生奇迹|fāshēng qíjì|기적이 일어나다|医学奇迹|yīxué qíjì|의학적 기적
+855|其余|qíyú|나머지|其余的人|qíyú de rén|나머지 사람들|其余部分|qíyú bùfen|나머지 부분|其余时间|qíyú shíjiān|나머지 시간
+856|企业|qǐyè|기업|大型企业|dàxíng qǐyè|대기업|企业管理|qǐyè guǎnlǐ|기업 관리|企业发展|qǐyè fāzhǎn|기업 발전
+857|气球|qìqiú|풍선|吹气球|chuī qìqiú|풍선을 불다|一个气球|yí ge qìqiú|풍선 하나|放气球|fàng qìqiú|풍선을 날리다
+858|汽油|qìyóu|휘발유|加汽油|jiā qìyóu|휘발유를 넣다|汽油价格|qìyóu jiàgé|휘발유 가격|一升汽油|yì shēng qìyóu|휘발유 1리터
+859|签|qiān|서명하다|签合同|qiān hétong|계약서에 서명하다|签协议|qiān xiéyì|협약에 서명하다|签文件|qiān wénjiàn|문서에 서명하다
+860|签订|qiāndìng|체결하다|签订合同|qiāndìng hétong|계약을 체결하다|签订协议|qiāndìng xiéyì|협약을 체결하다|正式签订|zhèngshì qiāndìng|정식으로 체결하다
+861|签名|qiānmíng|서명하다; 서명|请签名|qǐng qiānmíng|서명해 주세요|亲笔签名|qīnbǐ qiānmíng|친필 서명|签名留念|qiānmíng liúniàn|서명하여 기념으로 남기다
+862|签字|qiānzì|서명하다; 서명|请签字|qǐng qiānzì|서명해 주세요|签字确认|qiānzì quèrèn|서명하여 확인하다|签字同意|qiānzì tóngyì|서명하여 동의하다
+863|前进|qiánjìn|전진하다, 앞으로 나아가다|继续前进|jìxù qiánjìn|계속 전진하다|不断前进|bùduàn qiánjìn|계속 나아가다|前进一百米|qiánjìn yìbǎi mǐ|100미터 전진하다
+864|前来|qiánlái|오다, 찾아오다(문어적)|前来参加|qiánlái cānjiā|참가하러 오다|前来参观|qiánlái cānguān|관람하러 오다|前来咨询|qiánlái zīxún|상담하러 오다
+865|前途|qiántú|앞날, 장래|前途光明|qiántú guāngmíng|앞날이 밝다|很有前途|hěn yǒu qiántú|장래성이 있다|没有前途|méiyǒu qiántú|장래성이 없다
+866|前往|qiánwǎng|~로 향하다, 가다|前往机场|qiánwǎng jīchǎng|공항으로 가다|前往北京|qiánwǎng Běijīng|베이징으로 향하다|前往现场|qiánwǎng xiànchǎng|현장으로 가다
+867|浅|qiǎn|얕다, 연하다|水很浅|shuǐ hěn qiǎn|물이 얕다|颜色很浅|yánsè hěn qiǎn|색이 연하다|睡得很浅|shuì de hěn qiǎn|잠을 얕게 자다
+868|欠|qiàn|빚지다, 부족하다|欠钱|qiàn qián|돈을 빚지다|欠债|qiànzhài|빚을 지다|欠你一个人情|qiàn nǐ yí ge rénqíng|네게 신세를 하나 지다
+869|墙|qiáng|벽|一堵墙|yì dǔ qiáng|벽 하나|墙上挂着照片|qiáng shàng guàzhe zhàopiàn|벽에 사진이 걸려 있다|靠墙站|kào qiáng zhàn|벽에 기대 서다
+870|强大|qiángdà|강대하다, 강력하다|强大的力量|qiángdà de lìliàng|강력한 힘|实力强大|shílì qiángdà|실력이 강하다|变得强大|biàn de qiángdà|강해지다
+871|强调|qiángdiào|강조하다|强调重要性|qiángdiào zhòngyàoxìng|중요성을 강조하다|反复强调|fǎnfù qiángdiào|거듭 강조하다|特别强调|tèbié qiángdiào|특별히 강조하다
+872|强度|qiángdù|강도, 세기|工作强度|gōngzuò qiángdù|업무 강도|运动强度|yùndòng qiángdù|운동 강도|劳动强度|láodòng qiángdù|노동 강도
+873|强烈|qiángliè|강렬하다, 강하다|强烈反对|qiángliè fǎnduì|강하게 반대하다|强烈要求|qiángliè yāoqiú|강력히 요구하다|强烈愿望|qiángliè yuànwàng|강한 바람
+874|抢|qiǎng|빼앗다; 서둘러 차지하다|抢票|qiǎng piào|표를 선점하다|抢红包|qiǎng hóngbāo|홍바오를 받기 위해 빠르게 누르다|抢座位|qiǎng zuòwèi|자리를 선점하다
+875|抢救|qiǎngjiù|응급 구조하다, 긴급히 살리다|抢救病人|qiǎngjiù bìngrén|환자를 응급 구조하다|正在抢救|zhèngzài qiǎngjiù|응급처치 중이다|及时抢救|jíshí qiǎngjiù|제때 응급 구조하다
+876|悄悄|qiāoqiāo|조용히, 몰래|悄悄告诉你|qiāoqiāo gàosu nǐ|너에게 몰래 알려 주다|悄悄离开|qiāoqiāo líkāi|조용히 떠나다|悄悄地走进去|qiāoqiāo de zǒu jìnqu|살며시 들어가다
+877|切|qiē|썰다, 자르다|切菜|qiē cài|채소를 썰다|切水果|qiē shuǐguǒ|과일을 자르다|切成小块|qiē chéng xiǎo kuài|작은 조각으로 자르다
+878|亲|qīn|친한, 가까운; 입맞추다|亲兄弟|qīn xiōngdì|친형제|亲一下|qīn yíxià|한번 뽀뽀하다|亲孩子一口|qīn háizi yì kǒu|아이에게 한 번 뽀뽀하다
+879|亲爱|qīn’ài|사랑하는, 친애하는|亲爱的妈妈|qīn’ài de māma|사랑하는 엄마|亲爱的朋友|qīn’ài de péngyou|사랑하는 친구|亲爱的同学们|qīn’ài de tóngxuémen|친애하는 학생 여러분
+880|亲朋好友|qīnpéng-hǎoyǒu|친척과 친구들|邀请亲朋好友|yāoqǐng qīnpéng-hǎoyǒu|친척과 친구들을 초대하다|和亲朋好友团聚|hé qīnpéng-hǎoyǒu tuánjù|친척·친구들과 모이다|亲朋好友聚在一起|qīnpéng-hǎoyǒu jù zài yìqǐ|친척과 친구들이 한자리에 모이다
+881|亲切|qīnqiè|친근하다, 다정하다|感到亲切|gǎndào qīnqiè|친근하게 느끼다|亲切地问候|qīnqiè de wènhòu|다정하게 안부를 묻다|态度亲切|tàidù qīnqiè|태도가 친절하다
+882|亲情|qīnqíng|가족 간의 정|珍惜亲情|zhēnxī qīnqíng|가족의 정을 소중히 여기다|浓浓的亲情|nóngnóng de qīnqíng|깊은 가족애|感受亲情|gǎnshòu qīnqíng|가족의 정을 느끼다
+883|亲人|qīnrén|가족, 가까운 혈육|家乡的亲人|jiāxiāng de qīnrén|고향의 가족|失去亲人|shīqù qīnrén|가족을 잃다|照顾亲人|zhàogù qīnrén|가족을 돌보다
+884|亲自|qīnzì|직접, 몸소|亲自参加|qīnzì cānjiā|직접 참가하다|亲自去一趟|qīnzì qù yí tàng|직접 한번 가다|亲自确认|qīnzì quèrèn|직접 확인하다
+885|勤奋|qínfèn|부지런하다, 근면하다|学习勤奋|xuéxí qínfèn|공부를 부지런히 하다|勤奋努力|qínfèn nǔlì|부지런히 노력하다|工作勤奋|gōngzuò qínfèn|일을 성실하게 하다
+886|青|qīng|푸르다, 파랗다|青山|qīngshān|푸른 산|青草|qīngcǎo|푸른 풀|青苹果|qīng píngguǒ|풋사과
+887|轻易|qīngyì|쉽게, 함부로|不轻易放弃|bù qīngyì fàngqì|쉽게 포기하지 않다|轻易相信别人|qīngyì xiāngxìn biérén|남을 쉽게 믿다|不要轻易决定|búyào qīngyì juédìng|함부로 결정하지 마라
+888|轻重|qīngzhòng|경중, 중요도의 차이|不知轻重|bù zhī qīngzhòng|분별없이 굴다|分清轻重|fēnqīng qīngzhòng|중요도의 경중을 구분하다|有轻有重|yǒu qīng yǒu zhòng|경중이 있다
+889|情感|qínggǎn|감정, 정서|表达情感|biǎodá qínggǎn|감정을 표현하다|情感交流|qínggǎn jiāoliú|정서적 교류|情感丰富|qínggǎn fēngfù|감정이 풍부하다
+890|情景|qíngjǐng|상황, 장면|当时的情景|dāngshí de qíngjǐng|당시의 상황|熟悉的情景|shúxī de qíngjǐng|익숙한 장면|情景再现|qíngjǐng zàixiàn|상황을 재현하다
+891|情绪|qíngxù|감정, 정서 상태|控制情绪|kòngzhì qíngxù|감정을 조절하다|情绪低落|qíngxù dīluò|기분이 가라앉다|情绪稳定|qíngxù wěndìng|감정이 안정적이다
+892|请教|qǐngjiào|가르침을 청하다, 물어보다|向老师请教|xiàng lǎoshī qǐngjiào|선생님께 여쭤보다|请教问题|qǐngjiào wèntí|문제를 물어보다|虚心请教|xūxīn qǐngjiào|겸손하게 가르침을 청하다
+893|请求|qǐngqiú|요청하다; 요청|请求帮助|qǐngqiú bāngzhù|도움을 요청하다|提出请求|tíchū qǐngqiú|요청을 제기하다|拒绝请求|jùjué qǐngqiú|요청을 거절하다
+894|穷|qióng|가난하다|穷人|qióngrén|가난한 사람|家里很穷|jiāli hěn qióng|집안 형편이 어렵다|越来越穷|yuèláiyuè qióng|점점 가난해지다
+895|趋势|qūshì|추세, 흐름|发展趋势|fāzhǎn qūshì|발전 추세|上升趋势|shàngshēng qūshì|상승 추세|总体趋势|zǒngtǐ qūshì|전체적인 추세
+896|区域|qūyù|구역, 지역|不同区域|bùtóng qūyù|서로 다른 지역|区域发展|qūyù fāzhǎn|지역 발전|区域合作|qūyù hézuò|지역 간 협력
+897|去世|qùshì|세상을 떠나다, 별세하다|因病去世|yīn bìng qùshì|병으로 세상을 떠나다|已经去世|yǐjīng qùshì|이미 별세하다|去世多年|qùshì duōnián|세상을 떠난 지 여러 해 되다
+898|权|quán|권리, 권한|使用权|shǐyòngquán|사용권|所有权|suǒyǒuquán|소유권|选择权|xuǎnzéquán|선택권
+899|权利|quánlì|권리|享有权利|xiǎngyǒu quánlì|권리를 누리다|基本权利|jīběn quánlì|기본권|合法权利|héfǎ quánlì|합법적인 권리
+900|全力|quánlì|온 힘; 온 힘을 다해|全力支持|quánlì zhīchí|전력을 다해 지지하다|全力以赴|quánlìyǐfù|온 힘을 다하다|全力配合|quánlì pèihé|전적으로 협조하다
+901|全面|quánmiàn|전면적이다, 종합적이다|全面发展|quánmiàn fāzhǎn|전면적으로 발전하다|全面了解|quánmiàn liǎojiě|전반적으로 이해하다|全面提高|quánmiàn tígāo|전반적으로 향상시키다
+902|全体|quántǐ|전체, 전원|全体员工|quántǐ yuángōng|전 직원|全体学生|quántǐ xuésheng|전체 학생|全体人员|quántǐ rényuán|전 인원
+903|全新|quánxīn|완전히 새로운|全新产品|quánxīn chǎnpǐn|완전히 새로운 제품|全新设计|quánxīn shèjì|새로운 디자인|全新体验|quánxīn tǐyàn|새로운 경험
+904|劝|quàn|권하다, 타이르다|劝他别去|quàn tā bié qù|그에게 가지 말라고 말리다|劝你休息|quàn nǐ xiūxi|쉬라고 권하다|劝人戒烟|quàn rén jièyān|금연을 권하다
+905|缺乏|quēfá|부족하다, 결핍되다|缺乏经验|quēfá jīngyàn|경험이 부족하다|缺乏信心|quēfá xìnxīn|자신감이 부족하다|缺乏资金|quēfá zījīn|자금이 부족하다
+906|确保|quèbǎo|확실히 보장하다|确保安全|quèbǎo ānquán|안전을 확보하다|确保质量|quèbǎo zhìliàng|품질을 보장하다|确保按时完成|quèbǎo ànshí wánchéng|제시간에 완성하도록 확실히 하다
+907|确定|quèdìng|확정하다; 확실하다|确定时间|quèdìng shíjiān|시간을 확정하다|确定目标|quèdìng mùbiāo|목표를 정하다|还没确定|hái méi quèdìng|아직 확정되지 않았다
+908|确认|quèrèn|확인하다|确认信息|quèrèn xìnxī|정보를 확인하다|确认订单|quèrèn dìngdān|주문을 확인하다|再次确认|zàicì quèrèn|다시 확인하다
+909|群|qún|무리, 떼(양사)|一群人|yì qún rén|한 무리의 사람|一群孩子|yì qún háizi|아이들 한 무리|一群羊|yì qún yáng|양 한 떼
+910|群体|qúntǐ|집단, 그룹|消费群体|xiāofèi qúntǐ|소비자 집단|年轻群体|niánqīng qúntǐ|젊은 층|社会群体|shèhuì qúntǐ|사회 집단
+911|燃烧|ránshāo|타다, 연소하다|燃烧起来|ránshāo qǐlái|타오르기 시작하다|燃烧的火焰|ránshāo de huǒyàn|타오르는 불꽃|充分燃烧|chōngfèn ránshāo|완전히 연소하다
+912|绕|rào|돌다, 둘러가다|绕一圈|rào yì quān|한 바퀴 돌다|绕过大楼|rào guò dàlóu|건물을 돌아가다|绕着湖走|ràozhe hú zǒu|호수를 따라 빙 둘러 걷다
+913|热爱|rè’ài|매우 사랑하다|热爱生活|rè’ài shēnghuó|삶을 사랑하다|热爱工作|rè’ài gōngzuò|일을 사랑하다|热爱自己的家乡|rè’ài zìjǐ de jiāxiāng|자신의 고향을 사랑하다
+914|热量|rèliàng|열량, 칼로리|热量很高|rèliàng hěn gāo|칼로리가 높다|摄入热量|shèrù rèliàng|열량을 섭취하다|消耗热量|xiāohào rèliàng|칼로리를 소모하다
+915|热烈|rèliè|열렬하다, 뜨겁다|热烈欢迎|rèliè huānyíng|열렬히 환영하다|热烈讨论|rèliè tǎolùn|활발하게 토론하다|气氛热烈|qìfēn rèliè|분위기가 뜨겁다
+916|热心|rèxīn|열성적이다, 남을 잘 돕다|热心帮助别人|rèxīn bāngzhù biérén|다른 사람을 열심히 돕다|热心公益|rèxīn gōngyì|공익 활동에 적극적이다|热心人|rèxīnrén|남을 잘 돕는 사람
+917|人才|réncái|인재|培养人才|péiyǎng réncái|인재를 양성하다|优秀人才|yōuxiù réncái|우수한 인재|人才市场|réncái shìchǎng|인재·구직 시장
+918|人工|réngōng|인공의; 인력, 수작업|人工智能|réngōng zhìnéng|인공지능|人工服务|réngōng fúwù|직원 상담 서비스|人工成本|réngōng chéngběn|인건비
+919|人际|rénjì|인간관계의, 대인 간의|人际关系|rénjì guānxi|인간관계|人际交往|rénjì jiāowǎng|대인관계|人际沟通|rénjì gōutōng|대인 커뮤니케이션
+920|人口|rénkǒu|인구|人口增长|rénkǒu zēngzhǎng|인구 증가|人口数量|rénkǒu shùliàng|인구수|人口密度|rénkǒu mìdù|인구밀도
+921|人类|rénlèi|인류|人类社会|rénlèi shèhuì|인류 사회|人类历史|rénlèi lìshǐ|인류 역사|人类文明|rénlèi wénmíng|인류 문명
+922|人力|rénlì|인력|人力资源|rénlì zīyuán|인적 자원|节省人力|jiéshěng rénlì|인력을 절약하다|投入人力|tóurù rénlì|인력을 투입하다
+923|人民|rénmín|인민, 국민|人民生活|rénmín shēnghuó|국민 생활|为人民服务|wèi rénmín fúwù|국민을 위해 봉사하다|人民群众|rénmín qúnzhòng|일반 국민
+924|人民币|rénmínbì|인민폐, 위안화|人民币汇率|rénmínbì huìlǜ|위안화 환율|兑换人民币|duìhuàn rénmínbì|위안화로 환전하다|人民币现金|rénmínbì xiànjīn|위안화 현금
+925|人群|rénqún|사람들, 군중|人群中|rénqún zhōng|사람들 속에서|拥挤的人群|yōngjǐ de rénqún|붐비는 인파|走进人群|zǒu jìn rénqún|사람들 속으로 들어가다
+926|人体|réntǐ|인체|人体健康|réntǐ jiànkāng|인체 건강|人体需要|réntǐ xūyào|인체가 필요로 하다|人体结构|réntǐ jiégòu|인체 구조
+927|人物|rénwù|인물|主要人物|zhǔyào rénwù|주요 인물|历史人物|lìshǐ rénwù|역사적 인물|人物形象|rénwù xíngxiàng|인물의 이미지·형상
+928|忍|rěn|참다, 견디다|忍不住|rěnbuzhù|참을 수 없다|忍一忍|rěn yi rěn|조금 참아 보다|忍住眼泪|rěnzhù yǎnlèi|눈물을 참다
+929|认|rèn|알아보다; 인정하다|认错|rèncuò|잘못을 인정하다|认出来|rènchūlái|알아보다|认不出来|rèn bu chūlái|알아보지 못하다
+930|日历|rìlì|달력|看日历|kàn rìlì|달력을 보다|一本日历|yì běn rìlì|달력 하나|手机日历|shǒujī rìlì|휴대전화 달력
+931|日用品|rìyòngpǐn|일용품, 생활용품|生活日用品|shēnghuó rìyòngpǐn|생활용품|购买日用品|gòumǎi rìyòngpǐn|생활용품을 구매하다|日用品商店|rìyòngpǐn shāngdiàn|생활용품점
+932|如|rú|~와 같다; 만약 ~라면|如有问题|rú yǒu wèntí|문제가 있으면|如有需要|rú yǒu xūyào|필요하다면|正如你所说|zhèngrú nǐ suǒ shuō|바로 네가 말한 것처럼
+933|如此|rúcǐ|이와 같이, 이렇게|如此重要|rúcǐ zhòngyào|이렇게 중요하다|如此简单|rúcǐ jiǎndān|이렇게 간단하다|原来如此|yuánlái rúcǐ|알고 보니 그렇구나
+934|如何|rúhé|어떻게|如何解决|rúhé jiějué|어떻게 해결할지|如何选择|rúhé xuǎnzé|어떻게 선택할지|该如何做|gāi rúhé zuò|어떻게 해야 하는가
+935|如今|rújīn|지금, 오늘날|如今看来|rújīn kànlái|지금 보면|如今越来越多|rújīn yuèláiyuè duō|오늘날 점점 많아지고 있다|直到如今|zhídào rújīn|오늘날까지
+936|如同|rútóng|~와 같다, 마치 ~와 같다|如同朋友|rútóng péngyou|친구와 같다|如同家人|rútóng jiārén|가족과 같다|如同做梦一般|rútóng zuòmèng yìbān|마치 꿈꾸는 것 같다
+937|如下|rúxià|다음과 같다|如下所示|rúxià suǒ shì|아래와 같다|具体如下|jùtǐ rúxià|구체적인 내용은 다음과 같다|内容如下|nèiróng rúxià|내용은 다음과 같다
+938|软|ruǎn|부드럽다, 말랑하다|面包很软|miànbāo hěn ruǎn|빵이 부드럽다|软沙发|ruǎn shāfā|푹신한 소파|心软|xīnruǎn|마음이 약해지다
+939|软件|ruǎnjiàn|소프트웨어|安装软件|ānzhuāng ruǎnjiàn|소프트웨어를 설치하다|软件开发|ruǎnjiàn kāifā|소프트웨어 개발|手机软件|shǒujī ruǎnjiàn|모바일 앱·소프트웨어
+940|弱|ruò|약하다|身体很弱|shēntǐ hěn ruò|몸이 약하다|信号很弱|xìnhào hěn ruò|신호가 약하다|力量较弱|lìliàng jiào ruò|힘이 비교적 약하다
+941|洒|sǎ|뿌리다, 흘리다|洒水|sǎ shuǐ|물을 뿌리다|洒在地上|sǎ zài dìshang|바닥에 흘리다|洒了一地|sǎ le yí dì|바닥에 온통 쏟다
+942|赛场|sàichǎng|경기장, 경기 현장|赛场上|sàichǎng shàng|경기장에서|走上赛场|zǒushàng sàichǎng|경기장에 나서다|赛场气氛|sàichǎng qìfēn|경기장 분위기
+943|色彩|sècǎi|색채|色彩丰富|sècǎi fēngfù|색채가 풍부하다|鲜艳的色彩|xiānyàn de sècǎi|선명한 색채|色彩搭配|sècǎi dāpèi|색상 조합
+944|沙漠|shāmò|사막|沙漠地区|shāmò dìqū|사막 지역|穿越沙漠|chuānyuè shāmò|사막을 횡단하다|沙漠气候|shāmò qìhòu|사막 기후
+945|沙子|shāzi|모래|一粒沙子|yí lì shāzi|모래 한 알|沙子里|shāzi li|모래 속|玩沙子|wán shāzi|모래놀이를 하다
+946|傻|shǎ|어리석다, 바보스럽다|真傻|zhēn shǎ|정말 바보 같다|傻孩子|shǎ háizi|바보 같은 아이|装傻|zhuāngshǎ|모르는 척하다
+947|晒|shài|햇볕에 쬐다·말리다; (온라인에) 올려 자랑하다|晒太阳|shài tàiyáng|햇볕을 쬐다|晒衣服|shài yīfu|옷을 햇볕에 말리다|晒照片|shài zhàopiàn|사진을 SNS 등에 올리다
+948|删|shān|삭제하다|删照片|shān zhàopiàn|사진을 삭제하다|删掉文件|shāndiào wénjiàn|파일을 삭제하다|删掉信息|shāndiào xìnxī|정보를 삭제하다
+949|扇|shān|부채질하다, 휘젓다|扇扇子|shān shànzi|부채질하다|扇风|shān fēng|바람을 일으키다|扇动翅膀|shāndòng chìbǎng|날개를 퍼덕이다
+950|删除|shānchú|삭제하다|删除文件|shānchú wénjiàn|파일을 삭제하다|删除记录|shānchú jìlù|기록을 삭제하다|删除照片|shānchú zhàopiàn|사진을 삭제하다
+951|山区|shānqū|산간 지역|山区学校|shānqū xuéxiào|산간 지역 학교|住在山区|zhù zài shānqū|산간 지역에 살다|山区道路|shānqū dàolù|산간 지역 도로
+952|擅长|shàncháng|~을 잘하다, 능하다|擅长沟通|shàncháng gōutōng|소통을 잘하다|擅长做饭|shàncháng zuòfàn|요리를 잘하다|擅长游泳|shàncháng yóuyǒng|수영을 잘하다
+953|善良|shànliáng|착하다, 선량하다|善良的人|shànliáng de rén|착한 사람|心地善良|xīndì shànliáng|마음씨가 착하다|善良勇敢|shànliáng yǒnggǎn|착하고 용감하다
+954|善于|shànyú|~에 능하다, 잘하다|善于观察|shànyú guānchá|관찰을 잘하다|善于沟通|shànyú gōutōng|소통에 능하다|善于发现问题|shànyú fāxiàn wèntí|문제를 잘 발견하다
+955|扇子|shànzi|부채|一把扇子|yì bǎ shànzi|부채 하나|拿扇子|ná shànzi|부채를 들다|用扇子扇风|yòng shànzi shān fēng|부채로 부채질하다
+956|伤|shāng|상처; 다치게 하다|腿上的伤|tuǐ shàng de shāng|다리의 상처|伤得很重|shāng de hěn zhòng|심하게 다치다|伤了感情|shāng le gǎnqíng|감정을 상하게 하다
+957|伤害|shānghài|해치다, 상처 입히다|伤害别人|shānghài biérén|다른 사람을 해치다|伤害感情|shānghài gǎnqíng|감정을 상하게 하다|受到伤害|shòudào shānghài|상처를 입다
+958|商家|shāngjiā|판매자, 사업자|联系商家|liánxì shāngjiā|판매자에게 연락하다|商家促销|shāngjiā cùxiāo|판매자가 판촉하다|商家服务|shāngjiā fúwù|판매자 서비스
+959|商人|shāngrén|상인, 사업가|一个商人|yí ge shāngrén|상인 한 명|成功的商人|chénggōng de shāngrén|성공한 사업가|商人做生意|shāngrén zuò shēngyi|상인이 장사하다
+960|商务|shāngwù|상무, 비즈니스 업무|商务合作|shāngwù hézuò|비즈니스 협력|商务活动|shāngwù huódòng|비즈니스 활동|商务会议|shāngwù huìyì|비즈니스 회의
+961|商业|shāngyè|상업|商业活动|shāngyè huódòng|상업 활동|商业中心|shāngyè zhōngxīn|상업 중심지|商业价值|shāngyè jiàzhí|상업적 가치
+962|赏|shǎng|감상하다, 구경하다|赏花|shǎng huā|꽃을 감상하다|赏月|shǎng yuè|달을 감상하다|赏景|shǎng jǐng|경치를 감상하다
+963|上传|shàngchuán|업로드하다|上传照片|shàngchuán zhàopiàn|사진을 업로드하다|上传文件|shàngchuán wénjiàn|파일을 업로드하다|上传视频|shàngchuán shìpín|영상을 업로드하다
+964|上升|shàngshēng|상승하다|温度上升|wēndù shàngshēng|온도가 상승하다|价格上升|jiàgé shàngshēng|가격이 오르다|数量上升|shùliàng shàngshēng|수량이 증가하다
+965|上下|shàngxià|위아래, 상하|全身上下|quánshēn shàngxià|온몸|上下两层|shàngxià liǎng céng|위아래 두 층|上下左右|shàngxià zuǒyòu|위아래와 좌우
+966|上涨|shàngzhǎng|(가격 등이) 오르다|价格上涨|jiàgé shàngzhǎng|가격이 오르다|房价上涨|fángjià shàngzhǎng|집값이 오르다|油价上涨|yóujià shàngzhǎng|유가가 오르다
+967|烧|shāo|태우다; 끓이다, 요리하다|烧水|shāo shuǐ|물을 끓이다|烧菜|shāo cài|요리하다|火烧起来了|huǒ shāo qǐlái le|불이 타오르기 시작했다
+968|烧烤|shāokǎo|바비큐, 구이|吃烧烤|chī shāokǎo|바비큐를 먹다|烧烤店|shāokǎodiàn|바비큐 식당|户外烧烤|hùwài shāokǎo|야외 바비큐
+969|蛇|shé|뱀|一条蛇|yì tiáo shé|뱀 한 마리|毒蛇|dúshé|독사|被蛇咬|bèi shé yǎo|뱀에게 물리다
+970|舍不得|shěbude|아까워서·정들어서 ~하지 못하다|舍不得离开|shěbude líkāi|떠나기 아쉽다|舍不得花钱|shěbude huā qián|돈 쓰기가 아깝다|舍不得扔|shěbude rēng|버리기가 아깝다
+971|舍得|shěde|아끼지 않고 ~할 수 있다|舍得花钱|shěde huā qián|기꺼이 돈을 쓰다|舍得花时间|shěde huā shíjiān|시간을 아끼지 않다|舍得放手|shěde fàngshǒu|놓아줄 수 있다
+972|设备|shèbèi|설비, 장비|机器设备|jīqì shèbèi|기계 설비|医疗设备|yīliáo shèbèi|의료 장비|安装设备|ānzhuāng shèbèi|장비를 설치하다
+973|设计|shèjì|설계하다, 디자인하다; 디자인|设计产品|shèjì chǎnpǐn|제품을 디자인하다|服装设计|fúzhuāng shèjì|의상 디자인|设计方案|shèjì fāng’àn|설계안
+974|设立|shèlì|설립하다, 설치하다|设立公司|shèlì gōngsī|회사를 설립하다|设立部门|shèlì bùmén|부서를 설치하다|设立奖项|shèlì jiǎngxiàng|상을 신설하다
+975|社区|shèqū|지역사회, 커뮤니티|社区服务|shèqū fúwù|지역사회 서비스|社区居民|shèqū jūmín|지역 주민|社区活动|shèqū huódòng|지역사회 활동
+976|设施|shèshī|시설|公共设施|gōnggòng shèshī|공공시설|基础设施|jīchǔ shèshī|기반시설|配套设施|pèitào shèshī|부대시설
+977|摄影|shèyǐng|사진을 찍다; 사진 촬영|学摄影|xué shèyǐng|사진 촬영을 배우다|摄影作品|shèyǐng zuòpǐn|사진 작품|摄影爱好者|shèyǐng àihàozhě|사진 애호가
+978|设置|shèzhì|설정하다, 설치하다|设置密码|shèzhì mìmǎ|비밀번호를 설정하다|设置时间|shèzhì shíjiān|시간을 설정하다|设置提醒|shèzhì tíxǐng|알림을 설정하다
+979|伸|shēn|뻗다, 내밀다|伸手|shēn shǒu|손을 내밀다|伸懒腰|shēn lǎnyāo|기지개를 켜다|伸出手|shēnchū shǒu|손을 뻗다
+980|身材|shēncái|체격, 몸매|身材很好|shēncái hěn hǎo|몸매가 좋다|保持身材|bǎochí shēncái|몸매를 유지하다|身材高大|shēncái gāodà|체격이 크다
+981|深度|shēndù|깊이; 심층적인|水的深度|shuǐ de shēndù|물의 깊이|深度学习|shēndù xuéxí|딥러닝·심층 학습|深度合作|shēndù hézuò|심도 있는 협력
+982|身份|shēnfèn|신분, 정체|身份证明|shēnfèn zhèngmíng|신분 증명|确认身份|quèrèn shēnfèn|신분을 확인하다|真实身份|zhēnshí shēnfèn|실제 신분
+983|深厚|shēnhòu|깊고 두텁다|感情深厚|gǎnqíng shēnhòu|정이 깊다|基础深厚|jīchǔ shēnhòu|기초가 탄탄하다|友谊深厚|yǒuyì shēnhòu|우정이 깊다
+984|深刻|shēnkè|깊다, 깊이 있는|印象深刻|yìnxiàng shēnkè|인상이 깊다|深刻理解|shēnkè lǐjiě|깊이 이해하다|深刻影响|shēnkè yǐngxiǎng|깊은 영향을 주다
+985|深入|shēnrù|깊이 들어가다; 심층적으로|深入了解|shēnrù liǎojiě|깊이 알아보다|深入研究|shēnrù yánjiū|심층적으로 연구하다|深入调查|shēnrù diàochá|철저히 조사하다
+986|深远|shēnyuǎn|영향·의미가 깊고 오래가다|影响深远|yǐngxiǎng shēnyuǎn|영향이 깊고 오래가다|意义深远|yìyì shēnyuǎn|의미가 깊다|产生深远影响|chǎnshēng shēnyuǎn yǐngxiǎng|장기적인 영향을 미치다
+987|神话|shénhuà|신화|神话故事|shénhuà gùshi|신화 이야기|中国神话|Zhōngguó shénhuà|중국 신화|古代神话|gǔdài shénhuà|고대 신화
+988|神秘|shénmì|신비롭다|神秘人物|shénmì rénwù|신비로운 인물|神秘色彩|shénmì sècǎi|신비로운 분위기·색채|非常神秘|fēicháng shénmì|매우 신비롭다
+989|升|shēng|오르다; 올리다|升国旗|shēng guóqí|국기를 게양하다|升到三十度|shēng dào sānshí dù|30도까지 오르다|升为经理|shēng wéi jīnglǐ|매니저로 승진하다
+990|生产|shēngchǎn|생산하다|生产产品|shēngchǎn chǎnpǐn|제품을 생산하다|生产汽车|shēngchǎn qìchē|자동차를 생산하다|生产过程|shēngchǎn guòchéng|생산 과정
+991|生存|shēngcún|생존하다|生存环境|shēngcún huánjìng|생존 환경|生存能力|shēngcún nénglì|생존 능력|生存下来|shēngcún xiàlái|살아남다
+992|生动|shēngdòng|생생하다|生动有趣|shēngdòng yǒuqù|생생하고 재미있다|生动形象|shēngdòng xíngxiàng|생생하고 구체적이다|讲得很生动|jiǎng de hěn shēngdòng|아주 생생하게 이야기하다
+993|升级|shēngjí|업그레이드하다, 등급을 올리다|系统升级|xìtǒng shēngjí|시스템을 업그레이드하다|软件升级|ruǎnjiàn shēngjí|소프트웨어를 업그레이드하다|升级到最新版|shēngjí dào zuìxīn bǎn|최신 버전으로 업그레이드하다
+994|升温|shēngwēn|온도가 오르다; 분위기·관계가 달아오르다|逐渐升温|zhújiàn shēngwēn|점차 온도가 오르다|快速升温|kuàisù shēngwēn|빠르게 온도가 오르다|感情升温|gǎnqíng shēngwēn|관계가 더 가까워지다
+995|生物|shēngwù|생물|海洋生物|hǎiyáng shēngwù|해양 생물|生物技术|shēngwù jìshù|생명공학 기술|生物学|shēngwùxué|생물학
+996|生肖|shēngxiào|띠, 십이지|十二生肖|shí’èr shēngxiào|십이지|生肖文化|shēngxiào wénhuà|띠 문화|你的生肖是什么？|nǐ de shēngxiào shì shénme|무슨 띠예요?
+997|生长|shēngzhǎng|자라다, 성장하다|生长环境|shēngzhǎng huánjìng|성장 환경|健康生长|jiànkāng shēngzhǎng|건강하게 자라다|植物生长|zhíwù shēngzhǎng|식물이 자라다
+998|省|shěng|아끼다, 절약하다|省钱|shěng qián|돈을 절약하다|省时间|shěng shíjiān|시간을 절약하다|省力|shěnglì|힘을 덜 들이다
+999|省份|shěngfèn|성(省), 성급 행정구역|一个省份|yí ge shěngfèn|한 개의 성|不同省份|bùtóng shěngfèn|서로 다른 성|省份名称|shěngfèn míngchēng|성의 명칭
+1000|省会|shěnghuì|성도, 성의 행정 중심 도시|省会城市|shěnghuì chéngshì|성도|各省省会|gè shěng shěnghuì|각 성의 성도|省会所在地|shěnghuì suǒzàidì|성도가 위치한 곳

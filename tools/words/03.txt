@@ -1,0 +1,200 @@
+401|个性|gèxìng|개성, 성격적 특성|很有个性|hěn yǒu gèxìng|개성이 강하다|个性特点|gèxìng tèdiǎn|개성적 특징|展现个性|zhǎnxiàn gèxìng|개성을 드러내다
+402|各自|gèzì|각자|各自回家|gèzì huí jiā|각자 집에 가다|各自负责|gèzì fùzé|각자 책임지다|各自的想法|gèzì de xiǎngfǎ|각자의 생각
+403|根|gēn|뿌리; 개(길고 가는 물건의 양사)|树根|shùgēn|나무뿌리|一根绳子|yì gēn shéngzi|줄 하나|一根头发|yì gēn tóufa|머리카락 한 가닥
+404|根本|gēnběn|근본; 근본적인; 전혀|根本原因|gēnběn yuányīn|근본 원인|根本问题|gēnběn wèntí|근본적인 문제|根本不知道|gēnběn bù zhīdào|전혀 모르다
+405|更换|gēnghuàn|교체하다, 바꾸다|更换设备|gēnghuàn shèbèi|장비를 교체하다|更换密码|gēnghuàn mìmǎ|비밀번호를 바꾸다|更换座位|gēnghuàn zuòwèi|자리를 바꾸다
+406|更新|gēngxīn|갱신하다, 업데이트하다|更新软件|gēngxīn ruǎnjiàn|소프트웨어를 업데이트하다|更新信息|gēngxīn xìnxī|정보를 갱신하다|及时更新|jíshí gēngxīn|제때 업데이트하다
+407|公布|gōngbù|발표하다, 공개하다|公布结果|gōngbù jiéguǒ|결과를 발표하다|公布名单|gōngbù míngdān|명단을 공개하다|正式公布|zhèngshì gōngbù|공식 발표하다
+408|工程|gōngchéng|공사, 공정; 프로젝트|建筑工程|jiànzhù gōngchéng|건축 공사|工程项目|gōngchéng xiàngmù|공사·프로젝트|工程建设|gōngchéng jiànshè|공사 건설
+409|工程师|gōngchéngshī|엔지니어|软件工程师|ruǎnjiàn gōngchéngshī|소프트웨어 엔지니어|一名工程师|yì míng gōngchéngshī|엔지니어 한 명|当工程师|dāng gōngchéngshī|엔지니어로 일하다
+410|工具|gōngjù|도구, 수단|使用工具|shǐyòng gōngjù|도구를 사용하다|交通工具|jiāotōng gōngjù|교통수단|学习工具|xuéxí gōngjù|학습 도구
+411|功能|gōngnéng|기능|主要功能|zhǔyào gōngnéng|주요 기능|功能齐全|gōngnéng qíquán|기능이 잘 갖춰져 있다|增加功能|zēngjiā gōngnéng|기능을 추가하다
+412|公平|gōngpíng|공평하다, 공정하다|公平竞争|gōngpíng jìngzhēng|공정하게 경쟁하다|公平对待|gōngpíng duìdài|공평하게 대하다|这样不公平|zhèyàng bù gōngpíng|이렇게 하는 것은 불공평하다
+413|公务员|gōngwùyuán|공무원|考公务员|kǎo gōngwùyuán|공무원 시험을 보다|国家公务员|guójiā gōngwùyuán|국가공무원|一名公务员|yì míng gōngwùyuán|공무원 한 명
+414|恭喜|gōngxǐ|축하하다|恭喜你|gōngxǐ nǐ|축하해|恭喜发财|gōngxǐ fācái|부자 되세요|恭喜你获奖|gōngxǐ nǐ huòjiǎng|수상을 축하해
+415|工业|gōngyè|공업, 산업|工业发展|gōngyè fāzhǎn|공업 발전|工业生产|gōngyè shēngchǎn|공업 생산|重工业|zhònggōngyè|중공업
+416|工艺|gōngyì|공예; 제작 기술, 공정|传统工艺|chuántǒng gōngyì|전통 공예|制作工艺|zhìzuò gōngyì|제작 공정·기술|生产工艺|shēngchǎn gōngyì|생산 공정
+417|公寓|gōngyù|아파트, 공동주택|租公寓|zū gōngyù|아파트를 빌리다|学生公寓|xuésheng gōngyù|학생 기숙사형 아파트|一套公寓|yí tào gōngyù|아파트 한 채
+418|贡献|gòngxiàn|공헌하다; 공헌|作出贡献|zuòchū gòngxiàn|공헌하다|重大贡献|zhòngdà gòngxiàn|중대한 공헌|为社会作出贡献|wèi shèhuì zuòchū gòngxiàn|사회에 공헌하다
+419|共享|gòngxiǎng|공유하다|共享资源|gòngxiǎng zīyuán|자원을 공유하다|共享单车|gòngxiǎng dānchē|공유 자전거|信息共享|xìnxī gòngxiǎng|정보 공유
+420|沟通|gōutōng|소통하다|与客户沟通|yǔ kèhù gōutōng|고객과 소통하다|加强沟通|jiāqiáng gōutōng|소통을 강화하다|及时沟通|jíshí gōutōng|제때 소통하다
+421|构成|gòuchéng|구성하다; ~을 이루다|由三部分构成|yóu sān bùfen gòuchéng|세 부분으로 구성되다|构成威胁|gòuchéng wēixié|위협이 되다|构成犯罪|gòuchéng fànzuì|범죄가 성립되다
+422|古|gǔ|옛날의, 오래된|古建筑|gǔ jiànzhù|고건축물|古文化|gǔ wénhuà|고대 문화|古城|gǔchéng|옛 도시
+423|鼓|gǔ|북; 북을 치다; 북돋우다|敲鼓|qiāo gǔ|북을 치다|一面鼓|yí miàn gǔ|북 하나|鼓起勇气|gǔqǐ yǒngqì|용기를 내다
+424|古代|gǔdài|고대|古代中国|gǔdài Zhōngguó|고대 중국|古代文化|gǔdài wénhuà|고대 문화|在古代|zài gǔdài|고대에는
+425|古老|gǔlǎo|오래되다, 유서 깊다|古老的城市|gǔlǎo de chéngshì|유서 깊은 도시|古老建筑|gǔlǎo jiànzhù|오래된 건축물|古老传统|gǔlǎo chuántǒng|오래된 전통
+426|鼓掌|gǔzhǎng|박수치다|热烈鼓掌|rèliè gǔzhǎng|열렬히 박수치다|为他鼓掌|wèi tā gǔzhǎng|그에게 박수를 보내다|鼓掌欢迎|gǔzhǎng huānyíng|박수로 환영하다
+427|固定|gùdìng|고정하다; 고정된|固定时间|gùdìng shíjiān|정해진 시간|固定位置|gùdìng wèizhì|고정된 위치|固定下来|gùdìng xiàlái|고정시키다
+428|故乡|gùxiāng|고향|回到故乡|huídào gùxiāng|고향으로 돌아가다|离开故乡|líkāi gùxiāng|고향을 떠나다|故乡的变化|gùxiāng de biànhuà|고향의 변화
+429|挂号|guàhào|접수하다, 진료 등록하다|去医院挂号|qù yīyuàn guàhào|병원에 가서 접수하다|网上挂号|wǎngshàng guàhào|온라인으로 진료 예약·접수하다|挂号看病|guàhào kànbìng|접수하고 진료를 받다
+430|怪|guài|이상하다; 탓하다; 꽤|这人真怪|zhè rén zhēn guài|이 사람 정말 이상하다|别怪我|bié guài wǒ|나를 탓하지 마|怪可爱的|guài kě’ài de|꽤 귀엽다
+431|关闭|guānbì|닫다, 끄다, 폐쇄하다|关闭窗口|guānbì chuāngkǒu|창을 닫다|关闭电源|guānbì diànyuán|전원을 끄다|暂时关闭|zànshí guānbì|일시적으로 폐쇄하다
+432|观察|guānchá|관찰하다|仔细观察|zǐxì guānchá|자세히 관찰하다|观察情况|guānchá qíngkuàng|상황을 관찰하다|观察变化|guānchá biànhuà|변화를 관찰하다
+433|观点|guāndiǎn|관점, 견해|个人观点|gèrén guāndiǎn|개인적인 견해|表达观点|biǎodá guāndiǎn|견해를 표현하다|不同观点|bùtóng guāndiǎn|서로 다른 관점
+434|观念|guānniàn|관념, 인식|传统观念|chuántǒng guānniàn|전통적인 관념|改变观念|gǎibiàn guānniàn|인식을 바꾸다|消费观念|xiāofèi guānniàn|소비 관념
+435|冠军|guànjūn|우승자, 챔피언|获得冠军|huòdé guànjūn|우승하다|世界冠军|shìjiè guànjūn|세계 챔피언|拿到冠军|nádào guànjūn|우승을 차지하다
+436|光临|guānglín|방문하다, 찾아오다(높임말)|欢迎光临|huānyíng guānglín|어서 오세요|感谢光临|gǎnxiè guānglín|방문해 주셔서 감사합니다|再次光临|zàicì guānglín|다시 방문하다
+437|光明|guāngmíng|빛; 밝다, 밝은|光明的未来|guāngmíng de wèilái|밝은 미래|前途光明|qiántú guāngmíng|앞날이 밝다|带来光明|dàilái guāngmíng|빛을 가져오다
+438|光线|guāngxiàn|빛, 광선|光线充足|guāngxiàn chōngzú|채광이 충분하다|光线太暗|guāngxiàn tài àn|빛이 너무 어둡다|自然光线|zìrán guāngxiàn|자연광
+439|广|guǎng|넓다, 광범위하다|范围广|fànwéi guǎng|범위가 넓다|面积广|miànjī guǎng|면적이 넓다|知识面广|zhīshimian guǎng|아는 분야가 넓다
+440|广场|guǎngchǎng|광장|广场上|guǎngchǎng shàng|광장에서|城市广场|chéngshì guǎngchǎng|도시 광장|去广场散步|qù guǎngchǎng sànbù|광장에 산책하러 가다
+441|广大|guǎngdà|광대한; 많은, 광범위한|广大用户|guǎngdà yònghù|수많은 사용자|广大消费者|guǎngdà xiāofèizhě|많은 소비자|广大地区|guǎngdà dìqū|광대한 지역
+442|广泛|guǎngfàn|광범위하다|广泛应用|guǎngfàn yìngyòng|광범위하게 응용되다|广泛使用|guǎngfàn shǐyòng|널리 사용하다|引起广泛关注|yǐnqǐ guǎngfàn guānzhù|큰 관심을 불러일으키다
+443|规律|guīlǜ|규칙, 법칙; 규칙적이다|生活规律|shēnghuó guīlǜ|생활이 규칙적이다|发展规律|fāzhǎn guīlǜ|발전 법칙|找到规律|zhǎodào guīlǜ|규칙을 찾아내다
+444|规模|guīmó|규모|扩大规模|kuòdà guīmó|규모를 확대하다|规模很大|guīmó hěn dà|규모가 크다|生产规模|shēngchǎn guīmó|생산 규모
+445|规则|guīzé|규칙; 규칙적인|遵守规则|zūnshǒu guīzé|규칙을 지키다|游戏规则|yóuxì guīzé|게임 규칙|比赛规则|bǐsài guīzé|경기 규칙
+446|贵姓|guìxìng|성함이 어떻게 되시는지 묻는 높임말|您贵姓？|nín guìxìng|성함이 어떻게 되세요?|请问您贵姓？|qǐngwèn nín guìxìng|실례지만 성함이 어떻게 되세요?|免贵姓王|miǎnguì xìng Wáng|성은 왕입니다
+447|柜子|guìzi|장, 수납장|打开柜子|dǎkāi guìzi|장을 열다|放进柜子里|fàng jìn guìzi li|장 안에 넣다|一个柜子|yí ge guìzi|장 하나
+448|滚|gǔn|구르다, 굴러가다|滚下来|gǔn xiàlái|굴러 내려오다|球滚远了|qiú gǔn yuǎn le|공이 멀리 굴러갔다|在地上滚|zài dìshang gǔn|바닥에서 구르다
+449|锅|guō|냄비, 솥|一口锅|yì kǒu guō|냄비 하나|锅里|guō li|냄비 안|洗锅|xǐ guō|냄비를 씻다
+450|国画|guóhuà|중국 전통 회화|画国画|huà guóhuà|중국화를 그리다|学国画|xué guóhuà|중국화를 배우다|国画作品|guóhuà zuòpǐn|중국화 작품
+451|国庆|guóqìng|국경절|国庆节|Guóqìngjié|국경절|国庆假期|guóqìng jiàqī|국경절 연휴|庆祝国庆|qìngzhù guóqìng|국경절을 경축하다
+452|果然|guǒrán|과연, 역시 예상대로|果然如此|guǒrán rúcǐ|과연 그렇다|果然没来|guǒrán méi lái|역시 오지 않았다|果然成功了|guǒrán chénggōng le|역시 성공했다
+453|果实|guǒshí|열매; 성과|果实成熟|guǒshí chéngshú|열매가 익다|结出果实|jiēchū guǒshí|열매를 맺다|劳动的果实|láodòng de guǒshí|노력의 결실
+454|过度|guòdù|지나치다, 과도하다|过度使用|guòdù shǐyòng|지나치게 사용하다|过度消费|guòdù xiāofèi|과도하게 소비하다|过度紧张|guòdù jǐnzhāng|지나치게 긴장하다
+455|过分|guòfèn|지나치다, 너무하다|太过分了|tài guòfèn le|너무하다|一点儿也不过分|yìdiǎnr yě bú guòfèn|전혀 지나치지 않다|要求太过分|yāoqiú tài guòfèn|요구가 너무 지나치다
+456|过敏|guòmǐn|알레르기가 있다|对花粉过敏|duì huāfěn guòmǐn|꽃가루 알레르기가 있다|皮肤过敏|pífū guòmǐn|피부 알레르기가 생기다|过敏反应|guòmǐn fǎnyìng|알레르기 반응
+457|过期|guòqī|기한이 지나가다, 만료되다|食品过期|shípǐn guòqī|식품의 유통기한이 지나다|签证过期|qiānzhèng guòqī|비자가 만료되다|已经过期|yǐjīng guòqī|이미 만료되었다
+458|过于|guòyú|지나치게, 너무|过于紧张|guòyú jǐnzhāng|지나치게 긴장하다|过于依赖|guòyú yīlài|지나치게 의존하다|过于复杂|guòyú fùzá|지나치게 복잡하다
+459|哈|hā|하하; 어, 아(웃음·감탄)|哈哈大笑|hāhā dàxiào|하하 크게 웃다|哈，原来是你|hā, yuánlái shì nǐ|아, 너였구나|哈，我明白了|hā, wǒ míngbai le|아, 알겠어
+460|海关|hǎiguān|세관|过海关|guò hǎiguān|세관을 통과하다|海关检查|hǎiguān jiǎnchá|세관 검사|中国海关|Zhōngguó hǎiguān|중국 세관
+461|海外|hǎiwài|해외|海外市场|hǎiwài shìchǎng|해외 시장|海外生活|hǎiwài shēnghuó|해외 생활|海外工作|hǎiwài gōngzuò|해외에서 일하다
+462|海鲜|hǎixiān|해산물|吃海鲜|chī hǎixiān|해산물을 먹다|新鲜海鲜|xīnxiān hǎixiān|신선한 해산물|海鲜餐厅|hǎixiān cāntīng|해산물 식당
+463|含|hán|포함하다, 함유하다|含糖饮料|hán táng yǐnliào|당이 든 음료|含酒精|hán jiǔjīng|알코올을 함유하다|含水量|hánshuǐliàng|수분 함량
+464|含量|hánliàng|함량|糖分含量|tángfèn hánliàng|당분 함량|蛋白质含量|dànbáizhì hánliàng|단백질 함량|含量较高|hánliàng jiào gāo|함량이 비교적 높다
+465|含有|hányǒu|함유하다, 포함하고 있다|含有维生素C|hányǒu wéishēngsù C|비타민 C를 함유하다|含有大量水分|hányǒu dàliàng shuǐfèn|많은 수분을 함유하다|含有多种营养成分|hányǒu duō zhǒng yíngyǎng chéngfèn|여러 영양 성분을 포함하다
+466|汗水|hànshuǐ|땀|擦去汗水|cāqù hànshuǐ|땀을 닦다|汗水湿透衣服|hànshuǐ shītòu yīfu|땀으로 옷이 흠뻑 젖다|辛勤的汗水|xīnqín de hànshuǐ|수고의 땀
+467|行|háng|줄, 열; 업종|一行字|yì háng zì|글자 한 줄|一行小字|yì háng xiǎozì|작은 글씨 한 줄|干一行爱一行|gàn yì háng ài yì háng|자기 일을 좋아하며 성실히 하다
+468|行业|hángyè|업종, 산업 분야|进入这个行业|jìnrù zhège hángyè|이 업계에 들어가다|服务行业|fúwù hángyè|서비스업|行业发展|hángyè fāzhǎn|업계 발전
+469|好评|hǎopíng|좋은 평가, 호평|获得好评|huòdé hǎopíng|호평을 받다|一致好评|yízhì hǎopíng|한결같은 호평|用户好评|yònghù hǎopíng|사용자 호평
+470|好运|hǎoyùn|행운|祝你好运|zhù nǐ hǎoyùn|행운을 빌어|带来好运|dàilái hǎoyùn|행운을 가져오다|好运连连|hǎoyùn liánlián|행운이 계속 이어지다
+471|好转|hǎozhuǎn|호전되다, 좋아지다|病情好转|bìngqíng hǎozhuǎn|병세가 호전되다|情况好转|qíngkuàng hǎozhuǎn|상황이 좋아지다|逐渐好转|zhújiàn hǎozhuǎn|점차 호전되다
+472|好|hào|~하기를 좋아하다|好学|hàoxué|배우기를 좋아하다|好客|hàokè|손님 맞기를 좋아하다|好动|hàodòng|움직이기를 좋아하다
+473|好奇|hàoqí|궁금해하다, 호기심이 많다|对……好奇|duì… hàoqí|~에 호기심을 가지다|感到好奇|gǎndào hàoqí|궁금하게 느끼다|好奇心|hàoqíxīn|호기심
+474|合|hé|합치다, 닫다; 잘 맞다|合上书|héshàng shū|책을 덮다|合在一起|hé zài yìqǐ|하나로 합치다|合得来|hé de lái|서로 잘 맞다
+475|合法|héfǎ|합법적이다|合法权益|héfǎ quányì|합법적인 권익|合法经营|héfǎ jīngyíng|합법적으로 영업하다|合法使用|héfǎ shǐyòng|합법적으로 사용하다
+476|盒饭|héfàn|도시락|吃盒饭|chī héfàn|도시락을 먹다|一份盒饭|yí fèn héfàn|도시락 하나|买盒饭|mǎi héfàn|도시락을 사다
+477|合理|hélǐ|합리적이다|合理安排|hélǐ ānpái|합리적으로 배정하다|合理使用|hélǐ shǐyòng|합리적으로 사용하다|价格合理|jiàgé hélǐ|가격이 합리적이다
+478|河流|héliú|하천, 강|一条河流|yì tiáo héliú|강 하나|河流污染|héliú wūrǎn|하천 오염|保护河流|bǎohù héliú|하천을 보호하다
+479|合同|hétóng|계약, 계약서|签订合同|qiāndìng hétong|계약을 체결하다|合同到期|hétong dàoqī|계약이 만료되다|劳动合同|láodòng hétong|근로계약서
+480|合影|héyǐng|함께 사진을 찍다; 단체사진|一起合影|yìqǐ héyǐng|함께 사진을 찍다|合影留念|héyǐng liúniàn|기념사진을 찍다|一张合影|yì zhāng héyǐng|함께 찍은 사진 한 장
+481|合作|hézuò|협력하다|与公司合作|yǔ gōngsī hézuò|회사와 협력하다|加强合作|jiāqiáng hézuò|협력을 강화하다|合作项目|hézuò xiàngmù|협력 프로젝트
+482|黑|hēi|검다, 어둡다|黑头发|hēi tóufa|검은 머리|穿黑衣服|chuān hēi yīfu|검은 옷을 입다|天黑了|tiān hēi le|날이 어두워졌다
+483|红|hóng|붉다, 빨갛다|红衣服|hóng yīfu|빨간 옷|脸红了|liǎn hóng le|얼굴이 빨개졌다|红灯|hóngdēng|빨간불
+484|猴子|hóuzi|원숭이|一只猴子|yì zhī hóuzi|원숭이 한 마리|猴子爬树|hóuzi pá shù|원숭이가 나무에 오르다|看猴子|kàn hóuzi|원숭이를 보다
+485|厚度|hòudù|두께|测量厚度|cèliáng hòudù|두께를 측정하다|厚度为五毫米|hòudù wéi wǔ háomǐ|두께가 5mm이다|增加厚度|zēngjiā hòudù|두께를 늘리다
+486|后果|hòuguǒ|결과, 좋지 않은 결과|严重后果|yánzhòng hòuguǒ|심각한 결과|造成严重后果|zàochéng yánzhòng hòuguǒ|심각한 결과를 초래하다|承担后果|chéngdān hòuguǒ|결과에 책임을 지다
+487|忽视|hūshì|소홀히 하다, 무시하다|忽视问题|hūshì wèntí|문제를 소홀히 하다|忽视细节|hūshì xìjié|세부 사항을 무시하다|不容忽视|bùróng hūshì|결코 간과할 수 없다
+488|呼吸|hūxī|호흡하다|深呼吸|shēn hūxī|심호흡하다|呼吸新鲜空气|hūxī xīnxiān kōngqì|신선한 공기를 마시다|呼吸困难|hūxī kùnnan|호흡이 곤란하다
+489|湖|hú|호수|湖边|húbiān|호숫가|湖水很清|húshuǐ hěn qīng|호수 물이 맑다|湖里有鱼|hú li yǒu yú|호수에 물고기가 있다
+490|蝴蝶|húdié|나비|一只蝴蝶|yì zhī húdié|나비 한 마리|蝴蝶飞走了|húdié fēi zǒu le|나비가 날아갔다|看蝴蝶|kàn húdié|나비를 보다
+491|胡同|hútòng|골목, 후퉁|北京胡同|Běijīng hútòng|베이징 후퉁|逛胡同|guàng hútòng|후퉁을 둘러보다|胡同里|hútòng li|골목 안에서
+492|互动|hùdòng|상호작용하다, 교류하다|课堂互动|kètáng hùdòng|수업 중 상호작용|与观众互动|yǔ guānzhòng hùdòng|관객과 소통하다|加强互动|jiāqiáng hùdòng|상호작용을 강화하다
+493|户外|hùwài|야외|户外活动|hùwài huódòng|야외 활동|户外运动|hùwài yùndòng|야외 운동|户外用品|hùwài yòngpǐn|아웃도어 용품
+494|花费|huāfèi|쓰다, 들이다(시간·돈 등)|花费时间|huāfèi shíjiān|시간을 들이다|花费精力|huāfèi jīnglì|노력을 들이다|花费多少钱|huāfèi duōshao qián|돈이 얼마나 들다
+495|滑|huá|미끄럽다; 미끄러지다|路很滑|lù hěn huá|길이 미끄럽다|地面太滑|dìmiàn tài huá|바닥이 너무 미끄럽다|滑下来|huá xiàlái|미끄러져 내려오다
+496|划|huá|노를 젓다|划船|huá chuán|배를 젓다|划桨|huá jiǎng|노를 젓다|划到岸边|huá dào ànbiān|노를 저어 물가까지 가다
+497|化|huà|~화(접미사)|现代化|xiàndàihuà|현대화|国际化|guójìhuà|국제화|自动化|zìdònghuà|자동화
+498|话费|huàfèi|전화요금|充话费|chōng huàfèi|전화요금을 충전하다|手机话费|shǒujī huàfèi|휴대전화 요금|话费余额|huàfèi yú’é|남은 전화요금 잔액
+499|画面|huàmiàn|화면, 장면|画面清晰|huàmiàn qīngxī|화면이 선명하다|电影画面|diànyǐng huàmiàn|영화 장면|画面很美|huàmiàn hěn měi|화면이 아름답다
+500|话题|huàtí|화제, 이야기 주제|热门话题|rèmén huàtí|인기 화제|讨论话题|tǎolùn huàtí|이야기 주제를 토론하다|转换话题|zhuǎnhuàn huàtí|화제를 바꾸다
+501|化学|huàxué|화학|学习化学|xuéxí huàxué|화학을 공부하다|化学实验|huàxué shíyàn|화학 실험|化学反应|huàxué fǎnyìng|화학 반응
+502|环节|huánjié|단계, 과정의 한 부분|重要环节|zhòngyào huánjié|중요한 단계|关键环节|guānjiàn huánjié|핵심 단계|教学环节|jiàoxué huánjié|수업 과정의 한 단계
+503|缓解|huǎnjiě|완화하다|缓解压力|huǎnjiě yālì|스트레스를 완화하다|缓解疼痛|huǎnjiě téngtòng|통증을 완화하다|缓解症状|huǎnjiě zhèngzhuàng|증상을 완화하다
+504|缓慢|huǎnmàn|느리다, 완만하다|发展缓慢|fāzhǎn huǎnmàn|발전이 느리다|速度缓慢|sùdù huǎnmàn|속도가 느리다|缓慢增长|huǎnmàn zēngzhǎng|천천히 증가하다
+505|黄瓜|huángguā|오이|吃黄瓜|chī huángguā|오이를 먹다|一根黄瓜|yì gēn huángguā|오이 한 개|凉拌黄瓜|liángbàn huángguā|오이무침
+506|黄金|huángjīn|황금, 금|黄金价格|huángjīn jiàgé|금 가격|黄金首饰|huángjīn shǒushi|금 장신구|一克黄金|yí kè huángjīn|금 1그램
+507|灰|huī|재, 먼지; 회색빛의|一层灰|yì céng huī|먼지 한 겹|满是灰|mǎn shì huī|먼지가 가득하다|烧成灰|shāo chéng huī|재로 타 버리다
+508|挥|huī|휘두르다, 흔들다|挥手告别|huīshǒu gàobié|손을 흔들어 작별하다|挥手示意|huīshǒu shìyì|손짓으로 신호하다|挥动双手|huīdòng shuāngshǒu|두 손을 흔들다
+509|恢复|huīfù|회복하다, 복구하다|恢复健康|huīfù jiànkāng|건강을 회복하다|恢复正常|huīfù zhèngcháng|정상으로 회복되다|恢复工作|huīfù gōngzuò|업무를 재개하다
+510|灰色|huīsè|회색; 회색의|灰色外套|huīsè wàitào|회색 외투|灰色毛衣|huīsè máoyī|회색 스웨터|灰色天空|huīsè tiānkōng|잿빛 하늘
+511|回收|huíshōu|회수하다, 재활용하다|回收垃圾|huíshōu lājī|쓰레기를 회수하다|回收旧衣服|huíshōu jiù yīfu|헌 옷을 수거하다|回收利用|huíshōu lìyòng|회수하여 재활용하다
+512|汇率|huìlǜ|환율|人民币汇率|rénmínbì huìlǜ|위안화 환율|汇率变化|huìlǜ biànhuà|환율 변동|汇率上升|huìlǜ shàngshēng|환율이 오르다
+513|婚礼|hūnlǐ|결혼식|举行婚礼|jǔxíng hūnlǐ|결혼식을 올리다|参加婚礼|cānjiā hūnlǐ|결혼식에 참석하다|婚礼现场|hūnlǐ xiànchǎng|결혼식 현장
+514|伙|huǒ|무리, 패(사람의 양사)|一伙人|yì huǒ rén|한 무리의 사람|一伙孩子|yì huǒ háizi|아이들 한 무리|一伙年轻人|yì huǒ niánqīng rén|젊은이 한 무리
+515|伙伴|huǒbàn|동료, 파트너|工作伙伴|gōngzuò huǒbàn|업무 파트너|合作伙伴|hézuò huǒbàn|협력 파트너|小伙伴|xiǎo huǒbàn|친구, 또래 친구
+516|火锅|huǒguō|훠궈|吃火锅|chī huǒguō|훠궈를 먹다|火锅店|huǒguōdiàn|훠궈집|麻辣火锅|málà huǒguō|매운 훠궈
+517|或是|huòshì|또는, 아니면|或是这样|huòshì zhèyàng|또는 이렇게|或是那样|huòshì nàyàng|아니면 저렇게|或是……或是……|huòshì… huòshì…|~이거나 ~이다
+518|货物|huòwù|화물, 물품|运送货物|yùnsòng huòwù|화물을 운송하다|货物运输|huòwù yùnshū|화물 운송|一批货物|yì pī huòwù|화물 한 무더기
+519|或许|huòxǔ|어쩌면, 아마|或许可以|huòxǔ kěyǐ|어쩌면 가능하다|或许是因为……|huòxǔ shì yīnwèi…|어쩌면 ~때문일 것이다|或许有机会|huòxǔ yǒu jīhuì|어쩌면 기회가 있을 것이다
+520|机构|jīgòu|기관, 기구|教育机构|jiàoyù jīgòu|교육기관|医疗机构|yīliáo jīgòu|의료기관|研究机构|yánjiū jīgòu|연구기관
+521|激烈|jīliè|격렬하다, 치열하다|竞争激烈|jìngzhēng jīliè|경쟁이 치열하다|激烈讨论|jīliè tǎolùn|격렬하게 토론하다|比赛很激烈|bǐsài hěn jīliè|경기가 치열하다
+522|机器|jīqì|기계|操作机器|cāozuò jīqì|기계를 조작하다|一台机器|yì tái jīqì|기계 한 대|机器设备|jīqì shèbèi|기계 설비
+523|机器人|jīqìrén|로봇|工业机器人|gōngyè jīqìrén|산업용 로봇|智能机器人|zhìnéng jīqìrén|지능형 로봇|机器人技术|jīqìrén jìshù|로봇 기술
+524|肌肉|jīròu|근육|锻炼肌肉|duànliàn jīròu|근육을 단련하다|肌肉酸痛|jīròu suāntòng|근육이 쑤시다|肌肉力量|jīròu lìliàng|근력
+525|及|jí|및, ~와|老师及学生|lǎoshī jí xuésheng|교사 및 학생|国内及海外|guónèi jí hǎiwài|국내 및 해외|北京及周边地区|Běijīng jí zhōubiān dìqū|베이징 및 주변 지역
+526|级|jí|급, 등급; 급수의 양사|HSK五级|HSK wǔ jí|HSK 5급|一级水平|yì jí shuǐpíng|1급 수준|世界级|shìjièjí|세계적인 수준의
+527|集|jí|회, 편(방송·영상 등의 양사)|第一集|dì-yī jí|제1화|一集电视剧|yì jí diànshìjù|드라마 한 편|上一集|shàng yì jí|지난 회
+528|疾病|jíbìng|질병|预防疾病|yùfáng jíbìng|질병을 예방하다|治疗疾病|zhìliáo jíbìng|질병을 치료하다|常见疾病|chángjiàn jíbìng|흔한 질병
+529|及格|jígé|합격하다, 기준 점수를 넘다|考试及格|kǎoshì jígé|시험에 합격하다|及格分数|jígé fēnshù|합격 점수|刚好及格|gānghǎo jígé|간신히 합격하다
+530|集合|jíhé|모이다, 집합하다|集合地点|jíhé dìdiǎn|집합 장소|集合时间|jíhé shíjiān|집합 시간|迅速集合|xùnsù jíhé|신속히 집합하다
+531|即将|jíjiāng|곧 ~하려 하다|即将开始|jíjiāng kāishǐ|곧 시작하다|即将毕业|jíjiāng bìyè|곧 졸업하다|即将到来|jíjiāng dàolái|곧 다가오다
+532|急忙|jímáng|황급히, 서둘러|急忙赶回家|jímáng gǎn huí jiā|서둘러 집으로 돌아가다|急忙解释|jímáng jiěshì|황급히 설명하다|急忙站起来|jímáng zhàn qǐlái|황급히 일어서다
+533|极其|jíqí|극히, 매우|极其重要|jíqí zhòngyào|극히 중요하다|极其困难|jíqí kùnnan|매우 어렵다|极其危险|jíqí wēixiǎn|매우 위험하다
+534|集体|jítǐ|집단, 단체|集体活动|jítǐ huódòng|단체 활동|集体生活|jítǐ shēnghuó|단체 생활|集体讨论|jítǐ tǎolùn|집단 토론
+535|急需|jíxū|급히 필요로 하다|急需帮助|jíxū bāngzhù|도움이 절실히 필요하다|急需解决|jíxū jiějué|시급히 해결할 필요가 있다|急需人才|jíxū réncái|인재가 절실히 필요하다
+536|急诊|jízhěn|응급진료, 응급실|看急诊|kàn jízhěn|응급진료를 받다|急诊科|jízhěnkē|응급의학과|急诊医生|jízhěn yīshēng|응급실 의사
+537|集中|jízhōng|집중하다; 집중된|集中注意力|jízhōng zhùyìlì|주의를 집중하다|集中精力|jízhōng jīnglì|정신을 집중하다|集中在一起|jízhōng zài yìqǐ|한곳에 모이다
+538|挤|jǐ|비집다, 짜다; 붐비다|挤地铁|jǐ dìtiě|붐비는 지하철을 타다|挤进去|jǐ jìnqu|비집고 들어가다|挤牙膏|jǐ yágāo|치약을 짜다
+539|系|jì|매다, 묶다|系安全带|jì ānquándài|안전벨트를 매다|系鞋带|jì xiédài|신발끈을 매다|系领带|jì lǐngdài|넥타이를 매다
+540|季度|jìdù|분기|第一季度|dì-yī jìdù|1분기|本季度|běn jìdù|이번 분기|季度报告|jìdù bàogào|분기 보고서
+541|记录|jìlù|기록하다; 기록|记录下来|jìlù xiàlái|기록해 두다|会议记录|huìyì jìlù|회의 기록|查询记录|cháxún jìlù|기록을 조회하다
+542|纪录|jìlù|기록, 최고 기록|创造纪录|chuàngzào jìlù|기록을 세우다|打破纪录|dǎpò jìlù|기록을 깨다|世界纪录|shìjiè jìlù|세계 기록
+543|纪录片|jìlùpiàn|다큐멘터리|看纪录片|kàn jìlùpiàn|다큐멘터리를 보다|拍纪录片|pāi jìlùpiàn|다큐멘터리를 찍다|一部纪录片|yí bù jìlùpiàn|다큐멘터리 한 편
+544|技能|jìnéng|기능, 기술|学习技能|xuéxí jìnéng|기술을 배우다|掌握技能|zhǎngwò jìnéng|기술을 익히다|专业技能|zhuānyè jìnéng|전문 기술
+545|纪念|jìniàn|기념하다; 기념|纪念活动|jìniàn huódòng|기념 행사|纪念这一天|jìniàn zhè yì tiān|이날을 기념하다|留作纪念|liú zuò jìniàn|기념으로 남겨 두다
+546|纪念日|jìniànrì|기념일|结婚纪念日|jiéhūn jìniànrì|결혼기념일|成立纪念日|chénglì jìniànrì|창립 기념일|纪念日礼物|jìniànrì lǐwù|기념일 선물
+547|计算|jìsuàn|계산하다|计算时间|jìsuàn shíjiān|시간을 계산하다|计算成本|jìsuàn chéngběn|비용을 계산하다|计算结果|jìsuàn jiéguǒ|계산 결과
+548|计算机|jìsuànjī|컴퓨터|计算机技术|jìsuànjī jìshù|컴퓨터 기술|计算机专业|jìsuànjī zhuānyè|컴퓨터 전공|使用计算机|shǐyòng jìsuànjī|컴퓨터를 사용하다
+549|记忆|jìyì|기억; 기억하다|恢复记忆|huīfù jìyì|기억을 되찾다|美好的记忆|měihǎo de jìyì|아름다운 기억|记忆深刻|jìyì shēnkè|기억에 깊이 남다
+550|记载|jìzǎi|기록하다, 기재하다|史书记载|shǐshū jìzǎi|역사서에 기록되다|资料记载|zīliào jìzǎi|자료에 기록되어 있다|详细记载|xiángxì jìzǎi|자세히 기록하다
+551|嘉宾|jiābīn|귀빈, 초대 손님|特邀嘉宾|tèyāo jiābīn|특별 초대 손님|嘉宾名单|jiābīn míngdān|초대 손님 명단|邀请嘉宾|yāoqǐng jiābīn|손님을 초대하다
+552|家电|jiādiàn|가전제품|家电产品|jiādiàn chǎnpǐn|가전제품|家电卖场|jiādiàn màichǎng|가전제품 매장|购买家电|gòumǎi jiādiàn|가전제품을 구매하다
+553|加工|jiāgōng|가공하다|加工食品|jiāgōng shípǐn|가공식품|加工产品|jiāgōng chǎnpǐn|제품을 가공하다|进行加工|jìnxíng jiāgōng|가공 작업을 하다
+554|加热|jiārè|가열하다, 데우다|加热食物|jiārè shíwù|음식을 데우다|重新加热|chóngxīn jiārè|다시 데우다|加热到八十度|jiārè dào bāshí dù|80도까지 가열하다
+555|加深|jiāshēn|깊게 하다, 심화하다|加深印象|jiāshēn yìnxiàng|인상을 깊게 하다|加深了解|jiāshēn liǎojiě|이해를 깊게 하다|加深理解|jiāshēn lǐjiě|이해를 심화하다
+556|加速|jiāsù|가속하다|加速发展|jiāsù fāzhǎn|발전을 가속하다|加速增长|jiāsù zēngzhǎng|성장 속도를 높이다|车辆加速|chēliàng jiāsù|차량이 가속하다
+557|家务|jiāwù|집안일|做家务|zuò jiāwù|집안일을 하다|分担家务|fēndān jiāwù|집안일을 분담하다|家务劳动|jiāwù láodòng|가사 노동
+558|甲|jiǎ|갑, 첫째 항목·A|甲方|jiǎfāng|계약의 갑|甲乙双方|jiǎyǐ shuāngfāng|갑과 을 양측|甲组|jiǎzǔ|A조
+559|假如|jiǎrú|만약 ~라면|假如有一天|jiǎrú yǒu yì tiān|만약 어느 날|假如我是你|jiǎrú wǒ shì nǐ|내가 너라면|假如没有……|jiǎrú méiyǒu…|만약 ~이 없다면
+560|架|jià|받침대·틀; 대(기계 등의 양사); 걸치다|一架飞机|yí jià fēijī|비행기 한 대|一架钢琴|yí jià gāngqín|피아노 한 대|架起一座桥|jiàqǐ yí zuò qiáo|다리를 놓다
+561|驾驶|jiàshǐ|운전하다, 조종하다|驾驶汽车|jiàshǐ qìchē|자동차를 운전하다|驾驶飞机|jiàshǐ fēijī|비행기를 조종하다|驾驶技术|jiàshǐ jìshù|운전 기술
+562|驾照|jiàzhào|운전면허증|考驾照|kǎo jiàzhào|운전면허 시험을 보다|拿到驾照|nádào jiàzhào|운전면허증을 따다|驾照考试|jiàzhào kǎoshì|운전면허 시험
+563|价值|jiàzhí|가치|有价值|yǒu jiàzhí|가치가 있다|价值很高|jiàzhí hěn gāo|가치가 높다|实用价值|shíyòng jiàzhí|실용적 가치
+564|艰苦|jiānkǔ|힘들고 고생스럽다|条件艰苦|tiáojiàn jiānkǔ|조건이 열악하다|艰苦生活|jiānkǔ shēnghuó|고된 생활|艰苦奋斗|jiānkǔ fèndòu|힘든 상황에서 분투하다
+565|坚强|jiānqiáng|강인하다|意志坚强|yìzhì jiānqiáng|의지가 강하다|坚强勇敢|jiānqiáng yǒnggǎn|강인하고 용감하다|变得坚强|biàn de jiānqiáng|강해지다
+566|捡|jiǎn|줍다|捡垃圾|jiǎn lājī|쓰레기를 줍다|捡起来|jiǎn qǐlái|주워 올리다|捡到钱包|jiǎn dào qiánbāo|지갑을 줍다
+567|剪|jiǎn|자르다, 가위질하다|剪头发|jiǎn tóufa|머리를 자르다|剪纸|jiǎn zhǐ|종이를 자르다|剪下来|jiǎn xiàlái|잘라 내다
+568|剪刀|jiǎndāo|가위|一把剪刀|yì bǎ jiǎndāo|가위 하나|用剪刀剪|yòng jiǎndāo jiǎn|가위로 자르다|拿剪刀|ná jiǎndāo|가위를 들다
+569|减肥|jiǎnféi|살을 빼다, 다이어트하다|想减肥|xiǎng jiǎnféi|살을 빼고 싶다|减肥成功|jiǎnféi chénggōng|다이어트에 성공하다|运动减肥|yùndòng jiǎnféi|운동으로 살을 빼다
+570|简历|jiǎnlì|이력서|投简历|tóu jiǎnlì|이력서를 제출하다|写简历|xiě jiǎnlì|이력서를 쓰다|个人简历|gèrén jiǎnlì|개인 이력서
+571|简直|jiǎnzhí|그야말로, 정말|简直不敢相信|jiǎnzhí bù gǎn xiāngxìn|정말 믿기 어렵다|简直太好了|jiǎnzhí tài hǎo le|정말 너무 좋다|简直就是……|jiǎnzhí jiùshì…|그야말로 ~이다
+572|建|jiàn|짓다, 세우다|建房子|jiàn fángzi|집을 짓다|建学校|jiàn xuéxiào|학교를 세우다|建一座桥|jiàn yí zuò qiáo|다리를 하나 건설하다
+573|键|jiàn|키, 버튼|功能键|gōngnéngjiàn|기능키|回车键|huíchējiàn|엔터키|按这个键|àn zhège jiàn|이 키를 누르다
+574|渐渐|jiànjiàn|점점, 서서히|渐渐习惯|jiànjiàn xíguàn|점차 익숙해지다|渐渐明白|jiànjiàn míngbai|점점 이해하다|天渐渐黑了|tiān jiànjiàn hēi le|날이 점점 어두워졌다
+575|建立|jiànlì|세우다, 수립하다|建立关系|jiànlì guānxi|관계를 맺다|建立制度|jiànlì zhìdù|제도를 수립하다|建立信任|jiànlì xìnrèn|신뢰를 쌓다
+576|键盘|jiànpán|키보드|电脑键盘|diànnǎo jiànpán|컴퓨터 키보드|敲键盘|qiāo jiànpán|키보드를 치다|键盘输入|jiànpán shūrù|키보드 입력
+577|建设|jiànshè|건설하다, 건설|城市建设|chéngshì jiànshè|도시 건설|建设家乡|jiànshè jiāxiāng|고향을 발전시키다|基础设施建设|jīchǔ shèshī jiànshè|기반시설 건설
+578|建造|jiànzào|건조하다, 건설하다|建造房屋|jiànzào fángwū|주택을 건설하다|建造大桥|jiànzào dàqiáo|대교를 건설하다|建造工厂|jiànzào gōngchǎng|공장을 건설하다
+579|建筑|jiànzhù|건축하다; 건축물|建筑设计|jiànzhù shèjì|건축 설계|现代建筑|xiàndài jiànzhù|현대 건축물|建筑工人|jiànzhù gōngrén|건설 노동자
+580|将近|jiāngjìn|거의, ~에 가깝다|将近一年|jiāngjìn yì nián|거의 1년|将近一百人|jiāngjìn yìbǎi rén|거의 100명|将近年底|jiāngjìn niándǐ|연말이 가까워지다
+581|讲话|jiǎnghuà|연설, 발언|发表讲话|fābiǎo jiǎnghuà|연설하다|重要讲话|zhòngyào jiǎnghuà|중요한 연설|讲话内容|jiǎnghuà nèiróng|연설 내용
+582|讲究|jiǎngjiu|중시하다, 신경 쓰다; 세련되다|讲究方法|jiǎngjiu fāngfǎ|방법을 중요하게 여기다|讲究卫生|jiǎngjiu wèishēng|위생에 신경 쓰다|穿得很讲究|chuān de hěn jiǎngjiu|옷차림이 세련되다
+583|奖励|jiǎnglì|장려하다, 보상하다; 보상|奖励学生|jiǎnglì xuésheng|학생을 장려·포상하다|给予奖励|jǐyǔ jiǎnglì|보상을 주다|物质奖励|wùzhì jiǎnglì|물질적 보상
+584|讲述|jiǎngshù|이야기하다, 서술하다|讲述故事|jiǎngshù gùshi|이야기를 들려주다|讲述经历|jiǎngshù jīnglì|경험을 이야기하다|讲述过程|jiǎngshù guòchéng|과정을 설명하다
+585|讲座|jiǎngzuò|강연, 특강|举办讲座|jǔbàn jiǎngzuò|강연을 열다|参加讲座|cānjiā jiǎngzuò|강연에 참석하다|专题讲座|zhuāntí jiǎngzuò|주제별 특강
+586|降水|jiàngshuǐ|강수, 비·눈이 내리다|年降水量|nián jiàngshuǐliàng|연간 강수량|降水较多|jiàngshuǐ jiào duō|강수량이 비교적 많다|出现降水|chūxiàn jiàngshuǐ|비나 눈이 내리다
+587|浇|jiāo|붓다, 물을 주다|浇花|jiāo huā|꽃에 물을 주다|浇水|jiāo shuǐ|물을 주다|浇地|jiāo dì|밭에 물을 대다
+588|交换|jiāohuàn|교환하다|交换意见|jiāohuàn yìjiàn|의견을 교환하다|交换信息|jiāohuàn xìnxī|정보를 교환하다|交换礼物|jiāohuàn lǐwù|선물을 교환하다
+589|交往|jiāowǎng|교류하다, 사귀다|与人交往|yǔ rén jiāowǎng|사람들과 교류하다|人际交往|rénjì jiāowǎng|대인관계|交往多年|jiāowǎng duōnián|여러 해 동안 사귀다
+590|交易|jiāoyì|거래하다; 거래|进行交易|jìnxíng jiāoyì|거래하다|网上交易|wǎngshàng jiāoyì|온라인 거래|交易成功|jiāoyì chénggōng|거래가 성사되다
+591|脚步|jiǎobù|발걸음, 걸음|加快脚步|jiākuài jiǎobù|발걸음을 재촉하다|放慢脚步|fàngmàn jiǎobù|걸음을 늦추다|脚步声|jiǎobùshēng|발걸음 소리
+592|角度|jiǎodù|각도; 관점|从这个角度看|cóng zhège jiǎodù kàn|이 관점에서 보면|换个角度|huàn ge jiǎodù|관점을 바꾸다|从不同角度|cóng bùtóng jiǎodù|다양한 관점에서
+593|较|jiào|비교적, ~보다|较高|jiào gāo|비교적 높다|较少|jiào shǎo|비교적 적다|较为复杂|jiàowéi fùzá|비교적 복잡하다
+594|教材|jiàocái|교재|汉语教材|Hànyǔ jiàocái|중국어 교재|编写教材|biānxiě jiàocái|교재를 집필하다|使用教材|shǐyòng jiàocái|교재를 사용하다
+595|接触|jiēchù|접촉하다, 접하다|接触新事物|jiēchù xīn shìwù|새로운 것을 접하다|与人接触|yǔ rén jiēchù|사람과 접촉하다|第一次接触|dì-yī cì jiēchù|처음 접하다
+596|接待|jiēdài|맞이하다, 접대하다|接待客人|jiēdài kèrén|손님을 맞이하다|接待游客|jiēdài yóukè|관광객을 맞이하다|热情接待|rèqíng jiēdài|친절하게 접대하다
+597|阶段|jiēduàn|단계|发展阶段|fāzhǎn jiēduàn|발전 단계|当前阶段|dāngqián jiēduàn|현 단계|进入新阶段|jìnrù xīn jiēduàn|새로운 단계에 들어서다
+598|接近|jiējìn|접근하다, 가까워지다|接近目标|jiējìn mùbiāo|목표에 가까워지다|接近成功|jiējìn chénggōng|성공에 가까워지다|接近年底|jiējìn niándǐ|연말에 가까워지다
+599|接收|jiēshōu|수신하다, 받아들이다|接收信息|jiēshōu xìnxī|정보를 수신하다|接收文件|jiēshōu wénjiàn|파일을 받다|接收信号|jiēshōu xìnhào|신호를 수신하다
+600|结|jié|매듭; 맺다, 이루다|打个结|dǎ ge jié|매듭을 짓다|结下友谊|jiéxià yǒuyì|우정을 맺다|结为夫妻|jiéwéi fūqī|부부의 연을 맺다

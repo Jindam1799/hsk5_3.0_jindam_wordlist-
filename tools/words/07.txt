@@ -1,0 +1,200 @@
+1201|稳定|wěndìng|안정적이다; 안정시키다|保持稳定|bǎochí wěndìng|안정을 유지하다|情绪稳定|qíngxù wěndìng|감정이 안정적이다|稳定价格|wěndìng jiàgé|가격을 안정시키다
+1202|问卷|wènjuàn|설문지|填写问卷|tiánxiě wènjuàn|설문지를 작성하다|调查问卷|diàochá wènjuàn|설문조사지|发放问卷|fāfàng wènjuàn|설문지를 배포하다
+1203|握|wò|쥐다, 잡다|握紧拳头|wòjǐn quántou|주먹을 꽉 쥐다|握住方向盘|wòzhù fāngxiàngpán|운전대를 잡다|手里握着手机|shǒu li wòzhe shǒujī|손에 휴대전화를 쥐고 있다
+1204|卧室|wòshì|침실|主卧室|zhǔ wòshì|안방|卧室里|wòshì li|침실 안|打扫卧室|dǎsǎo wòshì|침실을 청소하다
+1205|握手|wòshǒu|악수하다|和他握手|hé tā wòshǒu|그와 악수하다|握手告别|wòshǒu gàobié|악수하며 작별하다|主动握手|zhǔdòng wòshǒu|먼저 악수를 청하다
+1206|无关|wúguān|관계가 없다, 상관없다|与我无关|yǔ wǒ wúguān|나와 관계없다|和这件事无关|hé zhè jiàn shì wúguān|이 일과 관계없다|与年龄无关|yǔ niánlíng wúguān|나이와 관계없다
+1207|无奈|wúnài|어쩔 수 없다; 난감하다|感到无奈|gǎndào wúnài|난감함을 느끼다|无奈之下|wúnài zhī xià|어쩔 수 없는 상황에서|无奈地摇头|wúnài de yáotóu|어쩔 수 없다는 듯 고개를 젓다
+1208|无数|wúshù|무수한, 셀 수 없이 많은|无数次|wúshù cì|수없이 여러 번|无数人|wúshù rén|수많은 사람|无数个夜晚|wúshù ge yèwǎn|수많은 밤
+1209|无限|wúxiàn|무한한, 제한이 없는|无限可能|wúxiàn kěnéng|무한한 가능성|无限空间|wúxiàn kōngjiān|무한한 공간·가능성|充满无限可能|chōngmǎn wúxiàn kěnéng|무한한 가능성으로 가득하다
+1210|无效|wúxiào|효과가 없다; 무효이다|治疗无效|zhìliáo wúxiào|치료 효과가 없다|沟通无效|gōutōng wúxiào|소통해도 효과가 없다|合同无效|hétong wúxiào|계약이 무효이다
+1211|舞蹈|wǔdǎo|무용, 춤|学舞蹈|xué wǔdǎo|춤을 배우다|舞蹈表演|wǔdǎo biǎoyǎn|무용 공연|民族舞蹈|mínzú wǔdǎo|민족무용
+1212|武术|wǔshù|무술|学武术|xué wǔshù|무술을 배우다|中国武术|Zhōngguó wǔshù|중국 무술|武术表演|wǔshù biǎoyǎn|무술 공연
+1213|舞台|wǔtái|무대|走上舞台|zǒushàng wǔtái|무대에 오르다|舞台表演|wǔtái biǎoyǎn|무대 공연|舞台设计|wǔtái shèjì|무대 디자인
+1214|五颜六色|wǔyán-liùsè|알록달록하다, 형형색색이다|五颜六色的气球|wǔyán-liùsè de qìqiú|형형색색의 풍선|花儿五颜六色|huār wǔyán-liùsè|꽃들이 알록달록하다|五颜六色的衣服|wǔyán-liùsè de yīfu|알록달록한 옷
+1215|雾|wù|안개|大雾|dàwù|짙은 안개|雾很大|wù hěn dà|안개가 짙다|雾散了|wù sàn le|안개가 걷혔다
+1216|物价|wùjià|물가|物价上涨|wùjià shàngzhǎng|물가가 오르다|物价水平|wùjià shuǐpíng|물가 수준|稳定物价|wěndìng wùjià|물가를 안정시키다
+1217|物理|wùlǐ|물리, 물리학|学物理|xué wùlǐ|물리를 공부하다|物理实验|wùlǐ shíyàn|물리 실험|物理现象|wùlǐ xiànxiàng|물리 현상
+1218|物品|wùpǐn|물품|个人物品|gèrén wùpǐn|개인 물품|随身物品|suíshēn wùpǐn|휴대품|存放物品|cúnfàng wùpǐn|물품을 보관하다
+1219|物业|wùyè|건물·단지 관리, 관리업체|物业公司|wùyè gōngsī|건물 관리회사|交物业费|jiāo wùyèfèi|관리비를 내다|小区物业|xiǎoqū wùyè|아파트 단지 관리업체
+1220|物质|wùzhì|물질; 물질적인 것|物质生活|wùzhì shēnghuó|물질생활|物质条件|wùzhì tiáojiàn|물질적 조건|物质基础|wùzhì jīchǔ|물질적 기반
+1221|西餐|xīcān|서양식 음식|吃西餐|chī xīcān|양식을 먹다|西餐厅|xīcāntīng|양식당|西餐礼仪|xīcān lǐyí|서양식 식사 예절
+1222|吸管|xīguǎn|빨대|一根吸管|yì gēn xīguǎn|빨대 하나|用吸管喝|yòng xīguǎn hē|빨대로 마시다|纸吸管|zhǐ xīguǎn|종이 빨대
+1223|吸收|xīshōu|흡수하다|吸收营养|xīshōu yíngyǎng|영양분을 흡수하다|吸收水分|xīshōu shuǐfèn|수분을 흡수하다|吸收知识|xīshōu zhīshi|지식을 흡수하다
+1224|西装|xīzhuāng|양복, 정장|穿西装|chuān xīzhuāng|정장을 입다|一套西装|yí tào xīzhuāng|정장 한 벌|黑色西装|hēisè xīzhuāng|검은 정장
+1225|戏|xì|연극, 극; 공연|看戏|kàn xì|연극을 보다|一场戏|yì chǎng xì|연극 한 편|演戏|yǎn xì|연기를 하다
+1226|系|xì|학과, 계(系)|中文系|Zhōngwénxì|중문과|计算机系|jìsuànjīxì|컴퓨터학과|系主任|xì zhǔrèn|학과장
+1227|细节|xìjié|세부 사항, 디테일|注意细节|zhùyì xìjié|세부 사항에 주의하다|关注细节|guānzhù xìjié|디테일에 신경 쓰다|重要细节|zhòngyào xìjié|중요한 세부 사항
+1228|戏剧|xìjù|희곡, 연극|戏剧表演|xìjù biǎoyǎn|연극 공연|戏剧作品|xìjù zuòpǐn|희곡 작품|传统戏剧|chuántǒng xìjù|전통극
+1229|系统|xìtǒng|시스템; 체계적인|操作系统|cāozuò xìtǒng|운영체제|管理系统|guǎnlǐ xìtǒng|관리 시스템|系统学习|xìtǒng xuéxí|체계적으로 공부하다
+1230|下载|xiàzài|다운로드하다|下载文件|xiàzài wénjiàn|파일을 다운로드하다|下载软件|xiàzài ruǎnjiàn|소프트웨어를 다운로드하다|免费下载|miǎnfèi xiàzài|무료로 다운로드하다
+1231|先后|xiānhòu|잇따라, 차례로; 앞뒤|先后到达|xiānhòu dàodá|차례로 도착하다|先后担任|xiānhòu dānrèn|차례로 맡다|先后两次参加|xiānhòu liǎng cì cānjiā|전후 두 차례 참가하다
+1232|先进|xiānjìn|선진적이다, 앞서 있다|先进技术|xiānjìn jìshù|선진 기술|先进经验|xiānjìn jīngyàn|선진 경험|先进水平|xiānjìn shuǐpíng|선진 수준
+1233|闲|xián|한가하다, 시간이 나다|闲下来|xián xiàlái|한가해지다|闲着没事|xiánzhe méi shì|한가해서 할 일이 없다|这几天比较闲|zhè jǐ tiān bǐjiào xián|요 며칠 비교적 한가하다
+1234|显得|xiǎnde|~해 보이다|显得很年轻|xiǎnde hěn niánqīng|매우 젊어 보이다|显得格外重要|xiǎnde géwài zhòngyào|유난히 중요해 보이다|显得有些紧张|xiǎnde yǒuxiē jǐnzhāng|조금 긴장해 보이다
+1235|显然|xiǎnrán|분명하다, 명백하다|显然不对|xiǎnrán bú duì|분명히 틀렸다|显然是误会|xiǎnrán shì wùhuì|분명 오해다|很显然|hěn xiǎnrán|아주 분명하다
+1236|显示|xiǎnshì|나타내다, 표시하다|数据显示|shùjù xiǎnshì|데이터가 보여 주다|显示结果|xiǎnshì jiéguǒ|결과를 표시하다|屏幕显示|píngmù xiǎnshì|화면에 표시되다
+1237|县|xiàn|현(중국의 행정구역)|县城|xiànchéng|현의 중심 도시|县政府|xiàn zhèngfǔ|현 정부|一个县|yí ge xiàn|하나의 현
+1238|现场|xiànchǎng|현장|事故现场|shìgù xiànchǎng|사고 현장|现场采访|xiànchǎng cǎifǎng|현장 취재|现场观众|xiànchǎng guānzhòng|현장 관객
+1239|现代|xiàndài|현대; 현대적인|现代社会|xiàndài shèhuì|현대 사회|现代科技|xiàndài kējì|현대 과학기술|现代生活|xiàndài shēnghuó|현대 생활
+1240|现代化|xiàndàihuà|현대화하다|实现现代化|shíxiàn xiàndàihuà|현대화를 실현하다|农业现代化|nóngyè xiàndàihuà|농업 현대화|现代化建设|xiàndàihuà jiànshè|현대화 건설
+1241|线路|xiànlù|노선, 회선|地铁线路|dìtiě xiànlù|지하철 노선|公交线路|gōngjiāo xiànlù|버스 노선|线路图|xiànlùtú|노선도
+1242|现实|xiànshí|현실; 현실적이다|面对现实|miànduì xiànshí|현실을 직시하다|现实生活|xiànshí shēnghuó|현실 생활|很现实|hěn xiànshí|매우 현실적이다
+1243|现象|xiànxiàng|현상|社会现象|shèhuì xiànxiàng|사회 현상|普遍现象|pǔbiàn xiànxiàng|보편적 현상|出现这种现象|chūxiàn zhè zhǒng xiànxiàng|이런 현상이 나타나다
+1244|限制|xiànzhì|제한하다; 제한|限制人数|xiànzhì rénshù|인원수를 제한하다|限制使用|xiànzhì shǐyòng|사용을 제한하다|不受限制|bú shòu xiànzhì|제한을 받지 않다
+1245|现状|xiànzhuàng|현황, 현재 상태|改变现状|gǎibiàn xiànzhuàng|현 상황을 바꾸다|了解现状|liǎojiě xiànzhuàng|현황을 파악하다|发展现状|fāzhǎn xiànzhuàng|발전 현황
+1246|乡|xiāng|향(乡), 농촌 지역의 행정단위|乡政府|xiāng zhèngfǔ|향 정부|一个乡|yí ge xiāng|하나의 향|全乡人民|quán xiāng rénmín|향 전체 주민
+1247|相处|xiāngchǔ|함께 지내다, 어울리다|相处得很好|xiāngchǔ de hěn hǎo|사이좋게 지내다|和同事相处|hé tóngshì xiāngchǔ|동료와 지내다|相处融洽|xiāngchǔ róngqià|사이가 원만하다
+1248|乡村|xiāngcūn|농촌, 시골|乡村生活|xiāngcūn shēnghuó|농촌 생활|乡村旅游|xiāngcūn lǚyóu|농촌 관광|美丽乡村|měilì xiāngcūn|아름다운 농촌
+1249|相当|xiāngdāng|상당하다; 맞먹다|相当重要|xiāngdāng zhòngyào|상당히 중요하다|相当于|xiāngdāngyú|~에 해당하다|实力相当|shílì xiāngdāng|실력이 비슷하다
+1250|相对|xiāngduì|상대적이다; 비교적|相对稳定|xiāngduì wěndìng|비교적 안정적이다|相对来说|xiāngduì lái shuō|상대적으로 말하면|相对较少|xiāngduì jiào shǎo|비교적 적다
+1251|相关|xiāngguān|관련되다, 관련 있는|与工作相关|yǔ gōngzuò xiāngguān|업무와 관련되다|相关信息|xiāngguān xìnxī|관련 정보|相关规定|xiāngguān guīdìng|관련 규정
+1252|相似|xiāngsì|비슷하다, 유사하다|非常相似|fēicháng xiāngsì|매우 비슷하다|与……相似|yǔ… xiāngsì|~와 비슷하다|相似之处|xiāngsì zhī chù|비슷한 점
+1253|想念|xiǎngniàn|그리워하다, 보고 싶어 하다|想念家人|xiǎngniàn jiārén|가족을 그리워하다|很想念你|hěn xiǎngniàn nǐ|네가 정말 보고 싶다|想念家乡|xiǎngniàn jiāxiāng|고향을 그리워하다
+1254|响声|xiǎngshēng|소리|听到响声|tīngdào xiǎngshēng|소리를 듣다|巨大的响声|jùdà de xiǎngshēng|큰 소리|发出响声|fāchū xiǎngshēng|소리가 나다
+1255|享受|xiǎngshòu|누리다, 즐기다|享受生活|xiǎngshòu shēnghuó|삶을 즐기다|享受假期|xiǎngshòu jiàqī|휴가를 즐기다|享受服务|xiǎngshòu fúwù|서비스를 누리다
+1256|想象|xiǎngxiàng|상상하다|无法想象|wúfǎ xiǎngxiàng|상상할 수 없다|想象一下|xiǎngxiàng yíxià|한번 상상해 보다|超出想象|chāochū xiǎngxiàng|상상을 뛰어넘다
+1257|相册|xiàngcè|사진첩, 앨범|一本相册|yì běn xiàngcè|사진첩 한 권|翻看相册|fānkàn xiàngcè|사진첩을 넘겨보다|电子相册|diànzǐ xiàngcè|전자 앨범
+1258|项目|xiàngmù|프로젝트, 사업|项目负责人|xiàngmù fùzérén|프로젝트 책임자|开展项目|kāizhǎn xiàngmù|프로젝트를 진행하다|重点项目|zhòngdiǎn xiàngmù|중점 사업
+1259|橡皮|xiàngpí|지우개|一块橡皮|yí kuài xiàngpí|지우개 하나|用橡皮擦掉|yòng xiàngpí cādiào|지우개로 지우다|买块橡皮|mǎi kuài xiàngpí|지우개 하나를 사다
+1260|向上|xiàngshàng|위로 향하다, 위쪽으로|向上看|xiàngshàng kàn|위를 보다|向上生长|xiàngshàng shēngzhǎng|위로 자라다|向上发展|xiàngshàng fāzhǎn|위쪽·더 높은 방향으로 발전하다
+1261|象征|xiàngzhēng|상징하다; 상징|象征和平|xiàngzhēng hépíng|평화를 상징하다|是……的象征|shì… de xiàngzhēng|~의 상징이다|象征意义|xiàngzhēng yìyì|상징적 의미
+1262|消费|xiāofèi|소비하다|理性消费|lǐxìng xiāofèi|합리적으로 소비하다|促进消费|cùjìn xiāofèi|소비를 촉진하다|消费水平|xiāofèi shuǐpíng|소비 수준
+1263|消费者|xiāofèizhě|소비자|消费者需求|xiāofèizhě xūqiú|소비자 수요|保护消费者权益|bǎohù xiāofèizhě quányì|소비자 권익을 보호하다|消费者选择|xiāofèizhě xuǎnzé|소비자의 선택
+1264|消化|xiāohuà|소화하다|消化食物|xiāohuà shíwù|음식을 소화하다|帮助消化|bāngzhù xiāohuà|소화를 돕다|消化不良|xiāohuà bùliáng|소화불량
+1265|消极|xiāojí|소극적이다, 부정적이다|消极情绪|xiāojí qíngxù|부정적인 감정|消极影响|xiāojí yǐngxiǎng|부정적 영향|态度消极|tàidù xiāojí|태도가 소극적이다
+1266|销量|xiāoliàng|판매량|销量增长|xiāoliàng zēngzhǎng|판매량이 증가하다|销量下降|xiāoliàng xiàjiàng|판매량이 감소하다|提高销量|tígāo xiāoliàng|판매량을 높이다
+1267|消失|xiāoshī|사라지다|突然消失|tūrán xiāoshī|갑자기 사라지다|完全消失|wánquán xiāoshī|완전히 사라지다|从视线中消失|cóng shìxiàn zhōng xiāoshī|시야에서 사라지다
+1268|销售|xiāoshòu|판매하다; 판매|销售产品|xiāoshòu chǎnpǐn|제품을 판매하다|销售收入|xiāoshòu shōurù|판매 수입|销售人员|xiāoshòu rényuán|영업·판매 직원
+1269|小姐|xiǎojiě|여성에 대한 호칭, ~양|王小姐|Wáng xiǎojiě|왕 양|李小姐|Lǐ xiǎojiě|이 양|这位小姐|zhè wèi xiǎojiě|이 여성분
+1270|小型|xiǎoxíng|소형의, 소규모의|小型企业|xiǎoxíng qǐyè|소기업|小型汽车|xiǎoxíng qìchē|소형 자동차|小型活动|xiǎoxíng huódòng|소규모 행사
+1271|小于|xiǎoyú|~보다 작다|小于十|xiǎoyú shí|10보다 작다|年龄小于十八岁|niánlíng xiǎoyú shíbā suì|나이가 18세 미만이다|小于等于|xiǎoyú děngyú|작거나 같다
+1272|效率|xiàolǜ|효율|提高效率|tígāo xiàolǜ|효율을 높이다|工作效率|gōngzuò xiàolǜ|업무 효율|学习效率|xuéxí xiàolǜ|학습 효율
+1273|斜|xié|비스듬하다, 기울다|斜着放|xiézhe fàng|비스듬히 놓다|斜着走|xiézhe zǒu|비스듬히 걷다|斜对面|xiéduìmiàn|대각선 맞은편
+1274|协议|xiéyì|협의, 합의서|达成协议|dáchéng xiéyì|합의에 이르다|签订协议|qiāndìng xiéyì|협약을 체결하다|双方协议|shuāngfāng xiéyì|양측의 합의
+1275|写作|xiězuò|글쓰기, 작문하다|写作能力|xiězuò nénglì|작문 능력|写作练习|xiězuò liànxí|작문 연습|从事写作|cóngshì xiězuò|글 쓰는 일을 하다
+1276|新郎|xīnláng|신랑|新郎新娘|xīnláng xīnniáng|신랑 신부|新郎父母|xīnláng fùmǔ|신랑 부모님|新郎致辞|xīnláng zhìcí|신랑이 축사를 하다
+1277|心理|xīnlǐ|심리|心理压力|xīnlǐ yālì|심리적 압박|心理健康|xīnlǐ jiànkāng|정신 건강|心理状态|xīnlǐ zhuàngtài|심리 상태
+1278|新娘|xīnniáng|신부|新郎新娘|xīnláng xīnniáng|신랑 신부|漂亮的新娘|piàoliang de xīnniáng|아름다운 신부|新娘化妆|xīnniáng huàzhuāng|신부가 화장하다
+1279|新人|xīnrén|신입, 새로 온 사람|职场新人|zhíchǎng xīnrén|직장 신입|新人培训|xīnrén péixùn|신입 교육|新人入职|xīnrén rùzhí|신입사원이 입사하다
+1280|欣赏|xīnshǎng|감상하다; 높이 평가하다|欣赏风景|xīnshǎng fēngjǐng|경치를 감상하다|欣赏音乐|xīnshǎng yīnyuè|음악을 감상하다|欣赏一个人|xīnshǎng yí ge rén|어떤 사람을 높이 평가하다
+1281|心态|xīntài|마음가짐, 심리 상태|调整心态|tiáozhěng xīntài|마음가짐을 조절하다|保持良好心态|bǎochí liánghǎo xīntài|좋은 마음가짐을 유지하다|心态平和|xīntài pínghé|마음이 평온하다
+1282|新型|xīnxíng|신형의, 새로운 유형의|新型材料|xīnxíng cáiliào|신소재|新型产业|xīnxíng chǎnyè|신산업|新型技术|xīnxíng jìshù|신기술
+1283|信封|xìnfēng|봉투|一个信封|yí ge xìnfēng|봉투 하나|打开信封|dǎkāi xìnfēng|봉투를 열다|装进信封|zhuāng jìn xìnfēng|봉투에 넣다
+1284|信任|xìnrèn|신뢰하다|相互信任|xiānghù xìnrèn|서로 신뢰하다|赢得信任|yíngdé xìnrèn|신뢰를 얻다|信任别人|xìnrèn biérén|다른 사람을 신뢰하다
+1285|信用|xìnyòng|신용, 신뢰|讲信用|jiǎng xìnyòng|신용을 지키다|信用卡|xìnyòngkǎ|신용카드|信用记录|xìnyòng jìlù|신용 기록
+1286|行程|xíngchéng|일정, 여정|安排行程|ānpái xíngchéng|일정을 짜다|行程安排|xíngchéng ānpái|일정 계획|行程很紧|xíngchéng hěn jǐn|일정이 빡빡하다
+1287|形成|xíngchéng|형성하다, 이루어지다|形成习惯|xíngchéng xíguàn|습관이 형성되다|形成共识|xíngchéng gòngshí|공감대를 형성하다|形成规模|xíngchéng guīmó|규모를 이루다
+1288|行动|xíngdòng|행동하다; 행동|采取行动|cǎiqǔ xíngdòng|행동을 취하다|立即行动|lìjí xíngdòng|즉시 행동하다|行动起来|xíngdòng qǐlái|행동에 나서다
+1289|行人|xíngrén|보행자, 행인|过往行人|guòwǎng xíngrén|지나가는 행인|行人通道|xíngrén tōngdào|보행자 통로|注意行人|zhùyì xíngrén|보행자를 주의하다
+1290|形容|xíngróng|묘사하다, 형용하다|难以形容|nányǐ xíngróng|형용하기 어렵다|形容一个人|xíngróng yí ge rén|한 사람을 묘사하다|无法用语言形容|wúfǎ yòng yǔyán xíngróng|말로 표현할 수 없다
+1291|形式|xíngshì|형식, 형태|形式多样|xíngshì duōyàng|형식이 다양하다|以……形式|yǐ… xíngshì|~의 형식으로|这种形式|zhè zhǒng xíngshì|이런 형식
+1292|形势|xíngshì|형세, 상황|当前形势|dāngqián xíngshì|현재 상황|形势严峻|xíngshì yánjùn|상황이 심각하다|形势变化|xíngshì biànhuà|상황의 변화
+1293|行驶|xíngshǐ|운행하다, 주행하다|车辆行驶|chēliàng xíngshǐ|차량이 주행하다|正常行驶|zhèngcháng xíngshǐ|정상적으로 운행하다|行驶速度|xíngshǐ sùdù|주행 속도
+1294|行为|xíngwéi|행동, 행위|个人行为|gèrén xíngwéi|개인 행동|不良行为|bùliáng xíngwéi|좋지 않은 행동|行为习惯|xíngwéi xíguàn|행동 습관
+1295|形象|xíngxiàng|이미지, 형상; 생생하고 구체적이다|企业形象|qǐyè xíngxiàng|기업 이미지|个人形象|gèrén xíngxiàng|개인 이미지|形象地说明|xíngxiàng de shuōmíng|생생하게 설명하다
+1296|形状|xíngzhuàng|모양, 형태|不同形状|bùtóng xíngzhuàng|서로 다른 모양|形状相似|xíngzhuàng xiāngsì|모양이 비슷하다|改变形状|gǎibiàn xíngzhuàng|모양을 바꾸다
+1297|行走|xíngzǒu|걷다, 보행하다|行走不便|xíngzǒu búbiàn|걷기가 불편하다|在路上行走|zài lùshang xíngzǒu|길을 걷다|行走速度|xíngzǒu sùdù|보행 속도
+1298|幸运|xìngyùn|행운; 운이 좋다|很幸运|hěn xìngyùn|매우 운이 좋다|幸运的是|xìngyùn de shì|다행인 것은|幸运数字|xìngyùn shùzì|행운의 숫자
+1299|性质|xìngzhì|성질, 성격|工作性质|gōngzuò xìngzhì|업무 성격|问题的性质|wèntí de xìngzhì|문제의 성격|性质不同|xìngzhì bùtóng|성질이 다르다
+1300|修改|xiūgǎi|수정하다|修改文章|xiūgǎi wénzhāng|글을 수정하다|修改密码|xiūgǎi mìmǎ|비밀번호를 변경하다|修改计划|xiūgǎi jìhuà|계획을 수정하다
+1301|修建|xiūjiàn|건설하다, 짓다|修建公路|xiūjiàn gōnglù|도로를 건설하다|修建学校|xiūjiàn xuéxiào|학교를 짓다|修建桥梁|xiūjiàn qiáoliáng|다리를 건설하다
+1302|休闲|xiūxián|쉬며 여가를 즐기다; 여가|休闲活动|xiūxián huódòng|여가 활동|休闲娱乐|xiūxián yúlè|여가와 오락|休闲度假|xiūxián dùjià|휴가를 즐기며 쉬다
+1303|需|xū|필요로 하다, ~해야 하다|需注意|xū zhùyì|주의할 필요가 있다|需提前预约|xū tíqián yùyuē|미리 예약해야 한다|需提供材料|xū tígōng cáiliào|자료를 제출해야 한다
+1304|需求|xūqiú|수요, 필요|市场需求|shìchǎng xūqiú|시장 수요|满足需求|mǎnzú xūqiú|수요를 충족하다|用户需求|yònghù xūqiú|사용자 요구
+1305|虚心|xūxīn|겸손하다|虚心学习|xūxīn xuéxí|겸손하게 배우다|虚心请教|xūxīn qǐngjiào|겸손하게 가르침을 청하다|虚心接受意见|xūxīn jiēshòu yìjiàn|겸허하게 의견을 받아들이다
+1306|宣布|xuānbù|발표하다, 선포하다|宣布结果|xuānbù jiéguǒ|결과를 발표하다|宣布决定|xuānbù juédìng|결정을 발표하다|正式宣布|zhèngshì xuānbù|공식 발표하다
+1307|宣传|xuānchuán|홍보하다, 알리다|宣传产品|xuānchuán chǎnpǐn|제품을 홍보하다|大力宣传|dàlì xuānchuán|적극적으로 홍보하다|宣传环保理念|xuānchuán huánbǎo lǐniàn|환경보호 이념을 알리다
+1308|选手|xuǎnshǒu|선수, 참가자|参赛选手|cānsài xuǎnshǒu|대회 참가자|优秀选手|yōuxiù xuǎnshǒu|우수한 선수|一名选手|yì míng xuǎnshǒu|선수 한 명
+1309|学分|xuéfēn|학점|获得学分|huòdé xuéfēn|학점을 취득하다|修满学分|xiūmǎn xuéfēn|필요한 학점을 모두 이수하다|学分不够|xuéfēn bú gòu|학점이 부족하다
+1310|学科|xuékē|학과, 학문 분야|重点学科|zhòngdiǎn xuékē|중점 학문 분야|不同学科|bùtóng xuékē|서로 다른 학문 분야|学科发展|xuékē fāzhǎn|학문 분야의 발전
+1311|学历|xuélì|학력|本科学历|běnkē xuélì|학사 학력|学历要求|xuélì yāoqiú|학력 조건|最高学历|zuìgāo xuélì|최종 학력
+1312|学年|xuénián|학년, 학년도|新学年|xīn xuénián|새 학년도|本学年|běn xuénián|이번 학년도|学年结束|xuénián jiéshù|학년이 끝나다
+1313|学术|xuéshù|학술|学术研究|xuéshù yánjiū|학술 연구|学术交流|xuéshù jiāoliú|학술 교류|学术会议|xuéshù huìyì|학술회의
+1314|学者|xuézhě|학자|著名学者|zhùmíng xuézhě|저명한 학자|年轻学者|niánqīng xuézhě|젊은 학자|专家学者|zhuānjiā xuézhě|전문가와 학자
+1315|雪糕|xuěgāo|아이스크림, 아이스바|吃雪糕|chī xuěgāo|아이스크림을 먹다|一根雪糕|yì gēn xuěgāo|아이스바 하나|买雪糕|mǎi xuěgāo|아이스크림을 사다
+1316|询问|xúnwèn|문의하다, 묻다|询问情况|xúnwèn qíngkuàng|상황을 문의하다|询问价格|xúnwèn jiàgé|가격을 묻다|向工作人员询问|xiàng gōngzuò rényuán xúnwèn|직원에게 문의하다
+1317|寻找|xúnzhǎo|찾다|寻找机会|xúnzhǎo jīhuì|기회를 찾다|寻找答案|xúnzhǎo dá’àn|답을 찾다|四处寻找|sìchù xúnzhǎo|여기저기 찾아다니다
+1318|训练|xùnliàn|훈련하다|参加训练|cānjiā xùnliàn|훈련에 참가하다|专业训练|zhuānyè xùnliàn|전문 훈련|训练方法|xùnliàn fāngfǎ|훈련 방법
+1319|迅速|xùnsù|신속하다, 빠르다|迅速发展|xùnsù fāzhǎn|빠르게 발전하다|迅速增长|xùnsù zēngzhǎng|빠르게 증가하다|迅速离开|xùnsù líkāi|신속하게 떠나다
+1320|呀|yā|앗, 어머(놀람·깨달음 등)|呀，是你啊！|yā, shì nǐ a|어, 너였구나!|呀，下雨了！|yā, xiàyǔ le|앗, 비 온다!|呀，忘带钥匙了！|yā, wàng dài yàoshi le|앗, 열쇠를 깜빡했다!
+1321|押金|yājīn|보증금|交押金|jiāo yājīn|보증금을 내다|退押金|tuì yājīn|보증금을 돌려받다·돌려주다|收押金|shōu yājīn|보증금을 받다
+1322|压岁钱|yāsuìqián|세뱃돈|给孩子压岁钱|gěi háizi yāsuìqián|아이에게 세뱃돈을 주다|收到压岁钱|shōudào yāsuìqián|세뱃돈을 받다|压岁钱红包|yāsuìqián hóngbāo|세뱃돈 봉투
+1323|鸭子|yāzi|오리|一只鸭子|yì zhī yāzi|오리 한 마리|养鸭子|yǎng yāzi|오리를 기르다|烤鸭子|kǎo yāzi|오리를 굽다
+1324|牙齿|yáchǐ|치아, 이|保护牙齿|bǎohù yáchǐ|치아를 보호하다|牙齿健康|yáchǐ jiànkāng|치아 건강|牙齿疼|yáchǐ téng|이가 아프다
+1325|沿|yán|~을 따라|沿着这条路走|yánzhe zhè tiáo lù zǒu|이 길을 따라가다|沿河散步|yán hé sànbù|강을 따라 산책하다|沿街商店|yánjiē shāngdiàn|길가의 상점
+1326|延长|yáncháng|연장하다, 늘리다|延长时间|yáncháng shíjiān|시간을 연장하다|延长假期|yáncháng jiàqī|휴가를 연장하다|延长寿命|yáncháng shòumìng|수명을 연장하다
+1327|研发|yánfā|연구·개발하다|研发新产品|yánfā xīn chǎnpǐn|신제품을 연구·개발하다|技术研发|jìshù yánfā|기술 연구개발|研发团队|yánfā tuánduì|연구개발팀
+1328|严肃|yánsù|엄숙하다, 진지하다; 엄중히 다루다|表情严肃|biǎoqíng yánsù|표정이 진지하다|严肃认真|yánsù rènzhēn|진지하고 성실하다|严肃处理|yánsù chǔlǐ|엄중히 처리하다
+1329|研制|yánzhì|연구하여 만들어 내다|研制新产品|yánzhì xīn chǎnpǐn|신제품을 연구·개발하다|研制药物|yánzhì yàowù|약물을 개발하다|成功研制|chénggōng yánzhì|성공적으로 개발하다
+1330|眼|yǎn|눈; 번(한번 봄을 나타내는 양사적 용법)|看一眼|kàn yì yǎn|한번 보다|一眼看出|yì yǎn kànchū|한눈에 알아보다|亲眼看见|qīnyǎn kànjiàn|직접 눈으로 보다
+1331|演讲|yǎnjiǎng|연설하다|发表演讲|fābiǎo yǎnjiǎng|연설하다|演讲比赛|yǎnjiǎng bǐsài|연설 대회|做演讲|zuò yǎnjiǎng|연설하다
+1332|眼泪|yǎnlèi|눈물|流眼泪|liú yǎnlèi|눈물을 흘리다|擦眼泪|cā yǎnlèi|눈물을 닦다|忍住眼泪|rěnzhù yǎnlèi|눈물을 참다
+1333|阳台|yángtái|발코니, 베란다|站在阳台上|zhàn zài yángtái shàng|베란다에 서다|阳台上的花|yángtái shàng de huā|베란다의 꽃|晒在阳台上|shài zài yángtái shàng|베란다에 널어 말리다
+1334|样式|yàngshì|형태, 스타일|不同样式|bùtóng yàngshì|서로 다른 스타일|样式新颖|yàngshì xīnyǐng|디자인이 참신하다|选择样式|xuǎnzé yàngshì|스타일을 고르다
+1335|腰|yāo|허리|腰疼|yāo téng|허리가 아프다|弯腰|wān yāo|허리를 굽히다|伸懒腰|shēn lǎnyāo|기지개를 켜다
+1336|摇|yáo|흔들다|摇头|yáotóu|고개를 젓다|摇尾巴|yáo wěiba|꼬리를 흔들다|摇一摇|yáo yi yáo|한번 흔들다
+1337|咬|yǎo|물다, 깨물다|咬一口|yǎo yì kǒu|한입 베어 물다|被狗咬|bèi gǒu yǎo|개에게 물리다|咬嘴唇|yǎo zuǐchún|입술을 깨물다
+1338|要不|yàobù|아니면; 그렇지 않으면|要不我们走吧|yàobù wǒmen zǒu ba|아니면 우리 갈까?|要不你先试试|yàobù nǐ xiān shìshi|아니면 네가 먼저 해봐|快点儿，要不迟到了|kuài diǎnr, yàobù chídào le|빨리해, 안 그러면 늦어
+1339|要不是|yàobúshì|만약 ~이 아니었다면|要不是你帮忙|yàobúshì nǐ bāngmáng|네가 도와주지 않았다면|要不是下雨|yàobúshì xiàyǔ|비가 오지 않았다면|要不是及时发现|yàobúshì jíshí fāxiàn|제때 발견하지 않았다면
+1340|药品|yàopǐn|의약품|购买药品|gòumǎi yàopǐn|의약품을 구매하다|药品安全|yàopǐn ānquán|의약품 안전|药品说明书|yàopǐn shuōmíngshū|의약품 설명서
+1341|药物|yàowù|약물|服用药物|fúyòng yàowù|약물을 복용하다|药物治疗|yàowù zhìliáo|약물 치료|药物过敏|yàowù guòmǐn|약물 알레르기
+1342|夜间|yèjiān|야간, 밤사이|夜间行车|yèjiān xíngchē|야간 운전|夜间温度|yèjiān wēndù|야간 기온|夜间营业|yèjiān yíngyè|야간 영업
+1343|夜市|yèshì|야시장|逛夜市|guàng yèshì|야시장을 구경하다|夜市小吃|yèshì xiǎochī|야시장 먹거리|夜市摊位|yèshì tānwèi|야시장 노점
+1344|业务|yèwù|업무, 사업|业务范围|yèwù fànwéi|업무 범위|业务能力|yèwù nénglì|업무 능력|开展业务|kāizhǎn yèwù|업무·사업을 전개하다
+1345|业余|yèyú|여가의, 본업 외의|业余时间|yèyú shíjiān|여가 시간|业余爱好|yèyú àihào|취미|业余生活|yèyú shēnghuó|여가 생활
+1346|依据|yījù|근거; ~에 근거하다|依据法律|yījù fǎlǜ|법률에 근거하여|作为依据|zuòwéi yījù|근거로 삼다|判断依据|pànduàn yījù|판단 근거
+1347|依靠|yīkào|의지하다, 기대다|依靠自己|yīkào zìjǐ|자신에게 의지하다|依靠科技|yīkào kējì|과학기술에 의존하다|依靠自己的努力|yīkào zìjǐ de nǔlì|자신의 노력에 의지하다
+1348|医疗|yīliáo|의료, 치료|医疗服务|yīliáo fúwù|의료 서비스|医疗机构|yīliáo jīgòu|의료기관|医疗保险|yīliáo bǎoxiǎn|의료보험
+1349|依然|yīrán|여전히|依然存在|yīrán cúnzài|여전히 존재하다|依然保持|yīrán bǎochí|여전히 유지하다|依然年轻|yīrán niánqīng|여전히 젊다
+1350|医学|yīxué|의학|医学研究|yīxué yánjiū|의학 연구|医学知识|yīxué zhīshi|의학 지식|医学院|yīxuéyuàn|의과대학
+1351|移|yí|옮기다, 이동시키다|移到一边|yí dào yìbiān|한쪽으로 옮기다|移开椅子|yíkāi yǐzi|의자를 치우다|往前移|wǎng qián yí|앞으로 옮기다
+1352|一次性|yícìxìng|일회용의; 한 번에 하는|一次性筷子|yícìxìng kuàizi|일회용 젓가락|一次性手套|yícìxìng shǒutào|일회용 장갑|一次性付清|yícìxìng fùqīng|한 번에 전액 지불하다
+1353|一代|yídài|한 세대|年轻一代|niánqīng yídài|젊은 세대|新一代|xīn yídài|신세대|一代又一代|yídài yòu yídài|세대를 거듭하여
+1354|一旦|yídàn|일단 ~하면, 한번 ~하면|一旦发生|yídàn fāshēng|일단 발생하면|一旦决定|yídàn juédìng|일단 결정하면|一旦开始就……|yídàn kāishǐ jiù…|한번 시작하면 곧…
+1355|移动|yídòng|이동하다, 옮기다|移动位置|yídòng wèizhì|위치를 옮기다|移动设备|yídòng shèbèi|모바일 기기|向前移动|xiàng qián yídòng|앞으로 이동하다
+1356|遗憾|yíhàn|유감스럽다; 아쉬움|感到遗憾|gǎndào yíhàn|아쉽게 느끼다|很遗憾|hěn yíhàn|매우 유감이다|留下遗憾|liúxià yíhàn|아쉬움을 남기다
+1357|一路|yílù|길 내내, 줄곧|一路上|yílù shàng|오는·가는 길 내내|一路走来|yílù zǒu lái|지금까지 오는 동안|一路向前|yílù xiàng qián|계속 앞으로 나아가다
+1358|一路顺风|yílù-shùnfēng|여행길이 순조롭기를 빌다, 잘 다녀오세요|祝你一路顺风|zhù nǐ yílù-shùnfēng|잘 다녀오세요|一路顺风，旅途愉快|yílù-shùnfēng, lǚtú yúkuài|가는 길 순조롭고 즐거운 여행 되세요|祝大家一路顺风|zhù dàjiā yílù-shùnfēng|모두 무사히 잘 다녀오세요
+1359|疑问|yíwèn|의문|有疑问|yǒu yíwèn|의문이 있다|提出疑问|tíchū yíwèn|의문을 제기하다|解答疑问|jiědá yíwèn|의문을 풀어 주다
+1360|一致|yízhì|일치하다, 한결같다|意见一致|yìjiàn yízhì|의견이 일치하다|保持一致|bǎochí yízhì|일치를 유지하다|一致同意|yízhì tóngyì|만장일치로 동의하다
+1361|乙|yǐ|을, 두 번째 항목·B|乙方|yǐfāng|계약의 을|甲乙双方|jiǎyǐ shuāngfāng|갑과 을 양측|乙组|yǐzǔ|B조
+1362|以|yǐ|~으로, ~을 가지고|以……为主|yǐ… wéi zhǔ|~을 위주로 하다|以实际行动|yǐ shíjì xíngdòng|실제 행동으로|以此为例|yǐ cǐ wéi lì|이것을 예로 들면
+1363|以及|yǐjí|및, 그리고|中国以及其他国家|Zhōngguó yǐjí qítā guójiā|중국 및 기타 국가|老师以及学生|lǎoshī yǐjí xuésheng|교사 및 학생|工作以及生活|gōngzuò yǐjí shēnghuó|일과 생활
+1364|以来|yǐlái|~이래, ~부터 지금까지|近年来|jìnnián lái|최근 몇 년간|长期以来|chángqī yǐlái|오랫동안|改革开放以来|gǎigé kāifàng yǐlái|개혁개방 이래
+1365|亿|yì|억|一亿元|yí yì yuán|1억 위안|一亿人口|yí yì rénkǒu|1억 인구|数十亿用户|shùshí yì yònghù|수십억 명의 사용자
+1366|意识|yìshí|의식하다; 의식|意识到问题|yìshí dào wèntí|문제를 인식하다|安全意识|ānquán yìshí|안전의식|提高意识|tígāo yìshí|의식을 높이다
+1367|意外|yìwài|뜻밖이다; 뜻밖의 사고|发生意外|fāshēng yìwài|사고가 나다|意外发现|yìwài fāxiàn|뜻밖에 발견하다|感到意外|gǎndào yìwài|뜻밖이라고 느끼다
+1368|意味着|yìwèizhe|~을 의미하다|意味着什么|yìwèizhe shénme|무엇을 의미하다|这意味着……|zhè yìwèizhe…|이는 ~을 의미한다|意味着成功|yìwèizhe chénggōng|성공을 의미하다
+1369|义务|yìwù|의무|履行义务|lǚxíng yìwù|의무를 이행하다|法定义务|fǎdìng yìwù|법적 의무|有义务帮助|yǒu yìwù bāngzhù|도울 의무가 있다
+1370|意义|yìyì|의미, 의의|重要意义|zhòngyào yìyì|중요한 의의|很有意义|hěn yǒu yìyì|매우 의미 있다|具有现实意义|jùyǒu xiànshí yìyì|현실적인 의미가 있다
+1371|因而|yīn’ér|그리하여, 따라서|因而导致|yīn’ér dǎozhì|그 결과 ~을 초래하다|因而产生|yīn’ér chǎnshēng|그리하여 생기다|因而无法|yīn’ér wúfǎ|따라서 ~할 수 없다
+1372|音量|yīnliàng|음량|调大音量|tiáodà yīnliàng|음량을 키우다|调低音量|tiáodī yīnliàng|음량을 낮추다|音量太大|yīnliàng tài dà|음량이 너무 크다
+1373|因素|yīnsù|요소, 요인|主要因素|zhǔyào yīnsù|주요 요인|影响因素|yǐngxiǎng yīnsù|영향 요인|各种因素|gè zhǒng yīnsù|여러 가지 요인
+1374|引进|yǐnjìn|도입하다, 들여오다|引进人才|yǐnjìn réncái|인재를 영입하다|引进技术|yǐnjìn jìshù|기술을 도입하다|引进设备|yǐnjìn shèbèi|장비를 도입하다
+1375|饮食|yǐnshí|음식과 식생활|饮食习惯|yǐnshí xíguàn|식습관|健康饮食|jiànkāng yǐnshí|건강한 식생활|注意饮食|zhùyì yǐnshí|식생활에 주의하다
+1376|印刷|yìnshuā|인쇄하다|印刷书籍|yìnshuā shūjí|책을 인쇄하다|印刷质量|yìnshuā zhìliàng|인쇄 품질|印刷厂|yìnshuāchǎng|인쇄소
+1377|应当|yīngdāng|~해야 한다|应当注意|yīngdāng zhùyì|주의해야 한다|应当遵守|yīngdāng zūnshǒu|준수해야 한다|应当承担责任|yīngdāng chéngdān zérèn|책임을 져야 한다
+1378|迎|yíng|맞이하다, 마주하다|迎着风走|yíngzhe fēng zǒu|바람을 맞으며 걷다|迎上前去|yíng shàng qián qù|앞으로 나가 맞이하다|出门迎客|chūmén yíng kè|밖으로 나가 손님을 맞다
+1379|迎接|yíngjiē|맞이하다|迎接客人|yíngjiē kèrén|손님을 맞이하다|迎接挑战|yíngjiē tiǎozhàn|도전을 맞이하다|迎接新年|yíngjiē xīnnián|새해를 맞이하다
+1380|营养|yíngyǎng|영양|营养丰富|yíngyǎng fēngfù|영양이 풍부하다|补充营养|bǔchōng yíngyǎng|영양을 보충하다|营养成分|yíngyǎng chéngfèn|영양 성분
+1381|营业|yíngyè|영업하다|开始营业|kāishǐ yíngyè|영업을 시작하다|正常营业|zhèngcháng yíngyè|정상 영업하다|营业时间|yíngyè shíjiān|영업시간
+1382|影片|yǐngpiàn|영화, 영상 작품|观看影片|guānkàn yǐngpiàn|영화를 관람하다|一部影片|yí bù yǐngpiàn|영화 한 편|影片上映|yǐngpiàn shàngyìng|영화가 개봉하다
+1383|影视|yǐngshì|영화·텔레비전, 영상물|影视作品|yǐngshì zuòpǐn|영화·TV 작품|影视行业|yǐngshì hángyè|영화·방송 업계|影视明星|yǐngshì míngxīng|영화·방송 스타
+1384|硬|yìng|딱딱하다; 억지로|床太硬|chuáng tài yìng|침대가 너무 딱딱하다|面包变硬了|miànbāo biàn yìng le|빵이 딱딱해졌다|硬要参加|yìng yào cānjiā|기어코 참가하려 하다
+1385|应对|yìngduì|대응하다|应对挑战|yìngduì tiǎozhàn|도전에 대응하다|应对变化|yìngduì biànhuà|변화에 대응하다|积极应对|jījí yìngduì|적극적으로 대응하다
+1386|硬件|yìngjiàn|하드웨어|电脑硬件|diànnǎo yìngjiàn|컴퓨터 하드웨어|硬件设备|yìngjiàn shèbèi|하드웨어 장비|硬件设施|yìngjiàn shèshī|물리적 시설·하드웨어 시설
+1387|应用|yìngyòng|응용하다; 응용의|广泛应用|guǎngfàn yìngyòng|널리 활용되다|应用技术|yìngyòng jìshù|응용 기술|实际应用|shíjì yìngyòng|실제 활용
+1388|拥抱|yōngbào|껴안다, 포옹하다|拥抱孩子|yōngbào háizi|아이를 안아 주다|热情拥抱|rèqíng yōngbào|따뜻하게 포옹하다|给我一个拥抱|gěi wǒ yí ge yōngbào|나를 한번 안아 줘
+1389|拥有|yōngyǒu|소유하다, 지니다|拥有自己的房子|yōngyǒu zìjǐ de fángzi|자기 집을 소유하다|拥有丰富经验|yōngyǒu fēngfù jīngyàn|풍부한 경험을 지니다|拥有大量用户|yōngyǒu dàliàng yònghù|많은 사용자를 보유하다
+1390|勇气|yǒngqì|용기|鼓起勇气|gǔqǐ yǒngqì|용기를 내다|需要勇气|xūyào yǒngqì|용기가 필요하다|失去勇气|shīqù yǒngqì|용기를 잃다
+1391|用法|yòngfǎ|용법, 사용법|词语用法|cíyǔ yòngfǎ|단어 용법|正确用法|zhèngquè yòngfǎ|올바른 사용법|了解用法|liǎojiě yòngfǎ|용법을 이해하다
+1392|用户|yònghù|사용자|用户需求|yònghù xūqiú|사용자 요구|用户体验|yònghù tǐyàn|사용자 경험|用户数量|yònghù shùliàng|사용자 수
+1393|用力|yònglì|힘을 주다|用力推|yònglì tuī|힘껏 밀다|用力拉|yònglì lā|힘껏 당기다|用力握住|yònglì wòzhù|힘주어 꽉 잡다
+1394|用品|yòngpǐn|용품|生活用品|shēnghuó yòngpǐn|생활용품|体育用品|tǐyù yòngpǐn|체육용품|办公用品|bàngōng yòngpǐn|사무용품
+1395|用途|yòngtú|용도|主要用途|zhǔyào yòngtú|주요 용도|有多种用途|yǒu duō zhǒng yòngtú|여러 용도가 있다|说明用途|shuōmíng yòngtú|용도를 설명하다
+1396|优惠|yōuhuì|할인, 혜택; 할인된|优惠活动|yōuhuì huódòng|할인 행사|优惠价格|yōuhuì jiàgé|할인 가격|享受优惠|xiǎngshòu yōuhuì|할인 혜택을 받다
+1397|悠久|yōujiǔ|유구하다, 오래되다|历史悠久|lìshǐ yōujiǔ|역사가 오래되다|悠久的传统|yōujiǔ de chuántǒng|유구한 전통|悠久的文化|yōujiǔ de wénhuà|오랜 문화
+1398|优良|yōuliáng|우수하다, 훌륭하다|优良传统|yōuliáng chuántǒng|훌륭한 전통|优良品质|yōuliáng pǐnzhì|우수한 품질·품성|品种优良|pǐnzhǒng yōuliáng|품종이 우수하다
+1399|优美|yōuměi|아름답다, 우아하다|风景优美|fēngjǐng yōuměi|경치가 아름답다|环境优美|huánjìng yōuměi|환경이 아름답다|语言优美|yǔyán yōuměi|표현이 아름답다
+1400|优势|yōushì|우세, 강점|发挥优势|fāhuī yōushì|강점을 발휘하다|竞争优势|jìngzhēng yōushì|경쟁 우위|明显优势|míngxiǎn yōushì|뚜렷한 강점

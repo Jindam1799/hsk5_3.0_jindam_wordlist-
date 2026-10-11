@@ -1,0 +1,200 @@
+1401|优质|yōuzhì|양질의, 품질이 우수한|优质产品|yōuzhì chǎnpǐn|우수한 품질의 제품|优质服务|yōuzhì fúwù|양질의 서비스|优质资源|yōuzhì zīyuán|양질의 자원
+1402|由此|yóu cǐ|이로부터, 이로 인해|由此可见|yóucǐ kějiàn|이로 보아 알 수 있다|由此产生|yóu cǐ chǎnshēng|이로 인해 생기다|由此带来|yóu cǐ dàilái|이로 인해 가져오다
+1403|邮寄|yóujì|우편으로 보내다|邮寄包裹|yóujì bāoguǒ|소포를 우편으로 보내다|邮寄材料|yóujì cáiliào|서류를 우편으로 보내다|邮寄到国外|yóujì dào guówài|해외로 우편 발송하다
+1404|邮局|yóujú|우체국|去邮局|qù yóujú|우체국에 가다|附近的邮局|fùjìn de yóujú|근처 우체국|邮局工作人员|yóujú gōngzuò rényuán|우체국 직원
+1405|游览|yóulǎn|유람하다, 관광하다|游览故宫|yóulǎn Gùgōng|고궁을 관람하다|游览景点|yóulǎn jǐngdiǎn|관광지를 둘러보다|游览名胜|yóulǎn míngshèng|명승지를 관광하다
+1406|邮票|yóupiào|우표|买邮票|mǎi yóupiào|우표를 사다|一枚邮票|yì méi yóupiào|우표 한 장|收藏邮票|shōucáng yóupiào|우표를 수집하다
+1407|油条|yóutiáo|유탸오, 중국식 튀김빵|吃油条|chī yóutiáo|유탸오를 먹다|一根油条|yì gēn yóutiáo|유탸오 하나|豆浆油条|dòujiāng yóutiáo|두유와 유탸오
+1408|犹豫|yóuyù|망설이다, 주저하다|有点儿犹豫|yǒudiǎnr yóuyù|조금 망설이다|犹豫不决|yóuyù bùjué|결정을 못 하고 망설이다|别犹豫了|bié yóuyù le|그만 망설여
+1409|有害|yǒu hài|해롭다|对健康有害|duì jiànkāng yǒu hài|건강에 해롭다|有害物质|yǒu hài wùzhì|유해 물질|有害垃圾|yǒu hài lājī|유해 폐기물
+1410|有力|yǒulì|힘이 있다, 강력하다|有力支持|yǒulì zhīchí|강력한 지원|有力措施|yǒulì cuòshī|강력한 조치|有力保障|yǒulì bǎozhàng|든든한 보장
+1411|有利|yǒulì|유리하다|对发展有利|duì fāzhǎn yǒulì|발전에 유리하다|有利条件|yǒulì tiáojiàn|유리한 조건|有利于健康|yǒulì yú jiànkāng|건강에 이롭다
+1412|有限|yǒuxiàn|제한적이다, 한정되어 있다|时间有限|shíjiān yǒuxiàn|시간이 한정되어 있다|数量有限|shùliàng yǒuxiàn|수량이 제한적이다|能力有限|nénglì yǒuxiàn|능력에 한계가 있다
+1413|有益|yǒuyì|유익하다, 이롭다|对健康有益|duì jiànkāng yǒuyì|건강에 이롭다|有益身心|yǒuyì shēnxīn|몸과 마음에 이롭다|有益的尝试|yǒuyì de chángshì|유익한 시도
+1414|有助于|yǒuzhùyú|~에 도움이 되다|有助于学习|yǒuzhùyú xuéxí|학습에 도움이 되다|有助于健康|yǒuzhùyú jiànkāng|건강에 도움이 되다|有助于解决问题|yǒuzhùyú jiějué wèntí|문제 해결에 도움이 되다
+1415|幼儿园|yòu’éryuán|유치원|上幼儿园|shàng yòu’éryuán|유치원에 다니다|幼儿园老师|yòu’éryuán lǎoshī|유치원 선생님|幼儿园小朋友|yòu’éryuán xiǎopéngyou|유치원 아이들
+1416|娱乐|yúlè|오락, 즐기다|娱乐活动|yúlè huódòng|오락 활동|休闲娱乐|xiūxián yúlè|여가와 오락|娱乐节目|yúlè jiémù|예능·오락 프로그램
+1417|语气|yǔqì|말투, 어조|说话的语气|shuōhuà de yǔqì|말하는 어조|语气温和|yǔqì wēnhé|말투가 부드럽다|语气严肃|yǔqì yánsù|어조가 진지하다
+1418|雨水|yǔshuǐ|빗물; 비|雨水充足|yǔshuǐ chōngzú|강수량이 충분하다|收集雨水|shōují yǔshuǐ|빗물을 모으다|雨水较多|yǔshuǐ jiào duō|비가 비교적 많이 오다
+1419|语文|yǔwén|국어(중국의 중국어 과목)|语文课|yǔwénkè|국어 수업|学语文|xué yǔwén|국어를 공부하다|语文老师|yǔwén lǎoshī|국어 선생님
+1420|语音|yǔyīn|음성, 말소리|语音消息|yǔyīn xiāoxi|음성 메시지|语音输入|yǔyīn shūrù|음성 입력|语音识别|yǔyīn shíbié|음성 인식
+1421|预报|yùbào|예보하다; 예보|天气预报|tiānqì yùbào|일기예보|预报天气|yùbào tiānqì|날씨를 예보하다|预报结果|yùbào jiéguǒ|예보 결과
+1422|预测|yùcè|예측하다|预测未来|yùcè wèilái|미래를 예측하다|预测结果|yùcè jiéguǒ|예측 결과|专家预测|zhuānjiā yùcè|전문가가 예측하다
+1423|预订|yùdìng|예약하다|预订酒店|yùdìng jiǔdiàn|호텔을 예약하다|预订机票|yùdìng jīpiào|항공권을 예약하다|提前预订|tíqián yùdìng|미리 예약하다
+1424|预防|yùfáng|예방하다|预防疾病|yùfáng jíbìng|질병을 예방하다|预防感冒|yùfáng gǎnmào|감기를 예방하다|预防事故|yùfáng shìgù|사고를 예방하다
+1425|预计|yùjì|예상하다, 전망하다|预计明天到达|yùjì míngtiān dàodá|내일 도착할 것으로 예상하다|预计增长|yùjì zēngzhǎng|증가할 것으로 예상하다|预计需要两小时|yùjì xūyào liǎng xiǎoshí|두 시간이 걸릴 것으로 예상하다
+1426|玉米|yùmǐ|옥수수|吃玉米|chī yùmǐ|옥수수를 먹다|一根玉米|yì gēn yùmǐ|옥수수 한 개|玉米粒|yùmǐlì|옥수수 알
+1427|预约|yùyuē|예약하다|提前预约|tíqián yùyuē|미리 예약하다|预约医生|yùyuē yīshēng|의사 진료를 예약하다|预约时间|yùyuē shíjiān|시간을 예약하다
+1428|原|yuán|원래의, 기존의|原计划|yuán jìhuà|원래 계획|原地址|yuán dìzhǐ|이전·원래 주소|原单位|yuán dānwèi|이전 소속 기관
+1429|圆|yuán|둥글다; 원|一个圆|yí ge yuán|원 하나|脸很圆|liǎn hěn yuán|얼굴이 둥글다|圆桌|yuánzhuō|원탁
+1430|原有|yuán yǒu|원래 있던, 기존의|原有基础|yuán yǒu jīchǔ|기존 기반|原有计划|yuán yǒu jìhuà|기존 계획|原有设备|yuán yǒu shèbèi|기존 장비
+1431|元旦|Yuándàn|신정, 1월 1일|元旦假期|Yuándàn jiàqī|신정 연휴|庆祝元旦|qìngzhù Yuándàn|신정을 축하하다|元旦晚会|Yuándàn wǎnhuì|신년 행사
+1432|员工|yuángōng|직원|公司员工|gōngsī yuángōng|회사 직원|全体员工|quántǐ yuángōng|전 직원|员工培训|yuángōng péixùn|직원 교육
+1433|原则|yuánzé|원칙|坚持原则|jiānchí yuánzé|원칙을 지키다|基本原则|jīběn yuánzé|기본 원칙|违反原则|wéifǎn yuánzé|원칙을 위반하다
+1434|愿|yuàn|바라다, 기원하다|愿你幸福|yuàn nǐ xìngfú|행복하길 바라|愿一切顺利|yuàn yíqiè shùnlì|모든 일이 순조롭기를 바라다|愿你平安|yuàn nǐ píng’ān|평안하길 바라
+1435|愿望|yuànwàng|소망, 바람|实现愿望|shíxiàn yuànwàng|소원을 이루다|美好愿望|měihǎo yuànwàng|아름다운 소망|愿望成真|yuànwàng chéngzhēn|소원이 이루어지다
+1436|约定|yuēdìng|약속하다, 정하다|约定时间|yuēdìng shíjiān|시간을 약속하다|事先约定|shìxiān yuēdìng|사전에 약속하다|按照约定|ànzhào yuēdìng|약속대로
+1437|运|yùn|운반하다, 나르다|运货|yùn huò|화물을 나르다|运到家|yùn dào jiā|집까지 운반하다|把行李运走|bǎ xíngli yùn zǒu|짐을 운반해 가다
+1438|运费|yùnfèi|운송료, 배송비|付运费|fù yùnfèi|배송비를 내다|免运费|miǎn yùnfèi|배송비 무료|运费多少|yùnfèi duōshao|배송비가 얼마인가
+1439|运气|yùnqi|운, 운수|运气很好|yùnqi hěn hǎo|운이 좋다|碰运气|pèng yùnqi|운에 맡겨 보다|靠运气|kào yùnqi|운에 의지하다
+1440|运输|yùnshū|운송하다|运输货物|yùnshū huòwù|화물을 운송하다|交通运输|jiāotōng yùnshū|교통 운송|运输成本|yùnshū chéngběn|운송 비용
+1441|运用|yùnyòng|운용하다, 활용하다|运用知识|yùnyòng zhīshi|지식을 활용하다|灵活运用|línghuó yùnyòng|융통성 있게 활용하다|运用技术|yùnyòng jìshù|기술을 활용하다
+1442|在场|zàichǎng|현장에 있다, 자리에 있다|在场人员|zàichǎng rényuán|현장에 있는 사람들|当时在场|dāngshí zàichǎng|당시에 현장에 있다|都不在场|dōu bú zàichǎng|모두 자리에 없다
+1443|在乎|zàihu|신경 쓰다, 중요하게 여기다|很在乎你|hěn zàihu nǐ|너를 매우 소중하게 생각하다|在乎别人的看法|zàihu biérén de kànfǎ|남의 시선을 신경 쓰다|不在乎结果|bú zàihu jiéguǒ|결과를 신경 쓰지 않다
+1444|在内|zàinèi|~을 포함하여|包括我在内|bāokuò wǒ zàinèi|나를 포함해서|包括运费在内|bāokuò yùnfèi zàinèi|배송비를 포함하여|包括税在内|bāokuò shuì zàinèi|세금을 포함하여
+1445|在线|zàixiàn|온라인 상태이다, 온라인의|在线学习|zàixiàn xuéxí|온라인 학습|在线支付|zàixiàn zhīfù|온라인 결제|在线客服|zàixiàn kèfú|온라인 고객센터
+1446|在于|zàiyú|~에 달려 있다, ~에 있다|关键在于|guānjiàn zàiyú|핵심은 ~에 있다|问题在于|wèntí zàiyú|문제는 ~에 있다|原因在于|yuányīn zàiyú|원인은 ~에 있다
+1447|赞成|zànchéng|찬성하다|赞成这个意见|zànchéng zhège yìjiàn|이 의견에 찬성하다|表示赞成|biǎoshì zànchéng|찬성의 뜻을 밝히다|不赞成这样做|bú zànchéng zhèyàng zuò|이렇게 하는 데 찬성하지 않다
+1448|糟|zāo|엉망이다, 안 좋다|糟了|zāo le|큰일이다|情况很糟|qíngkuàng hěn zāo|상황이 매우 좋지 않다|心情很糟|xīnqíng hěn zāo|기분이 매우 안 좋다
+1449|糟糕|zāogāo|엉망이다, 형편없다|情况很糟糕|qíngkuàng hěn zāogāo|상황이 매우 좋지 않다|天气糟糕|tiānqì zāogāo|날씨가 형편없다|糟糕透了|zāogāo tòu le|정말 최악이다
+1450|早期|zǎoqī|초기, 이른 시기|发展早期|fāzhǎn zǎoqī|발전 초기|早期阶段|zǎoqī jiēduàn|초기 단계|早期教育|zǎoqī jiàoyù|조기 교육
+1451|早晚|zǎowǎn|아침저녁; 언젠가는|每天早晚|měitiān zǎowǎn|매일 아침저녁으로|早晚各一次|zǎowǎn gè yí cì|아침저녁으로 한 번씩|早晚会明白|zǎowǎn huì míngbai|언젠가는 알게 될 것이다
+1452|早已|zǎoyǐ|이미 오래전에, 벌써|早已习惯|zǎoyǐ xíguàn|이미 익숙해졌다|早已离开|zǎoyǐ líkāi|이미 오래전에 떠났다|早已知道|zǎoyǐ zhīdào|이미 알고 있었다
+1453|造|zào|만들다, 짓다|造房子|zào fángzi|집을 짓다|造机器|zào jīqì|기계를 만들다|造句|zào jù|문장을 만들다
+1454|造成|zàochéng|초래하다, 야기하다|造成损失|zàochéng sǔnshī|손실을 초래하다|造成影响|zàochéng yǐngxiǎng|영향을 미치다|造成困难|zàochéng kùnnan|어려움을 초래하다
+1455|增|zēng|늘다, 증가하다|人数大增|rénshù dà zēng|인원수가 크게 늘다|销量大增|xiāoliàng dà zēng|판매량이 크게 늘다|有增无减|yǒu zēng wú jiǎn|늘기만 하고 줄지 않다
+1456|增进|zēngjìn|증진하다, 깊게 하다|增进了解|zēngjìn liǎojiě|이해를 증진하다|增进友谊|zēngjìn yǒuyì|우정을 돈독히 하다|增进感情|zēngjìn gǎnqíng|관계·정을 돈독히 하다
+1457|增强|zēngqiáng|강화하다, 높이다|增强信心|zēngqiáng xìnxīn|자신감을 높이다|增强体质|zēngqiáng tǐzhì|체력을 강화하다|增强能力|zēngqiáng nénglì|능력을 강화하다
+1458|赠|zèng|증정하다, 선물하다|赠书一本|zèng shū yì běn|책 한 권을 증정하다|赠票两张|zèng piào liǎng zhāng|표 두 장을 증정하다|买一赠一|mǎi yī zèng yī|하나 사면 하나 증정
+1459|赠送|zèngsòng|증정하다, 선물하다|赠送礼物|zèngsòng lǐwù|선물을 증정하다|免费赠送|miǎnfèi zèngsòng|무료로 증정하다|赠送给客户|zèngsòng gěi kèhù|고객에게 증정하다
+1460|炸|zhá|기름에 튀기다|炸鸡|zhájī|치킨, 닭튀김|炸薯条|zhá shǔtiáo|감자튀김을 튀기다|油炸食品|yóuzhá shípǐn|튀긴 음식
+1461|摘|zhāi|따다; 벗다, 떼다|摘苹果|zhāi píngguǒ|사과를 따다|摘花|zhāi huā|꽃을 따다|摘下帽子|zhāixià màozi|모자를 벗다
+1462|窄|zhǎi|좁다|路很窄|lù hěn zhǎi|길이 좁다|又长又窄|yòu cháng yòu zhǎi|길고 좁다|越来越窄|yuèláiyuè zhǎi|점점 좁아지다
+1463|展出|zhǎnchū|전시하다, 전시되다|展出作品|zhǎnchū zuòpǐn|작품을 전시하다|公开展出|gōngkāi zhǎnchū|공개 전시하다|首次展出|shǒucì zhǎnchū|처음으로 전시하다
+1464|展开|zhǎnkāi|펼치다, 전개하다|展开讨论|zhǎnkāi tǎolùn|토론을 전개하다|展开调查|zhǎnkāi diàochá|조사를 실시하다|展开行动|zhǎnkāi xíngdòng|행동을 개시하다
+1465|展览|zhǎnlǎn|전시하다; 전시회|参观展览|cānguān zhǎnlǎn|전시회를 관람하다|举办展览|jǔbàn zhǎnlǎn|전시회를 열다|艺术展览|yìshù zhǎnlǎn|미술 전시
+1466|展示|zhǎnshì|보여 주다, 전시하다|展示产品|zhǎnshì chǎnpǐn|제품을 보여 주다|展示成果|zhǎnshì chéngguǒ|성과를 보여 주다|展示自己|zhǎnshì zìjǐ|자신을 보여 주다
+1467|展现|zhǎnxiàn|드러내다, 나타내다|展现魅力|zhǎnxiàn mèilì|매력을 보여 주다|展现实力|zhǎnxiàn shílì|실력을 보여 주다|展现风采|zhǎnxiàn fēngcǎi|멋진 면모를 보여 주다
+1468|占|zhàn|차지하다|占百分之五十|zhàn bǎifēnzhī wǔshí|50%를 차지하다|占很大比例|zhàn hěn dà bǐlì|큰 비중을 차지하다|占座位|zhàn zuòwèi|자리를 맡아 두다
+1469|站台|zhàntái|승강장, 플랫폼|火车站台|huǒchē zhàntái|기차 승강장|站在站台上|zhàn zài zhàntái shàng|승강장에 서 있다|在站台等车|zài zhàntái děng chē|승강장에서 차를 기다리다
+1470|占线|zhànxiàn|통화 중이다, 회선이 사용 중이다|电话占线|diànhuà zhànxiàn|전화가 통화 중이다|一直占线|yìzhí zhànxiàn|계속 통화 중이다|打过去总是占线|dǎ guòqu zǒngshì zhànxiàn|전화를 걸면 계속 통화 중이다
+1471|涨|zhǎng|오르다, 불어나다|工资涨了|gōngzī zhǎng le|월급이 올랐다|房价涨了|fángjià zhǎng le|집값이 올랐다|涨到十块钱|zhǎng dào shí kuài qián|10위안까지 오르다
+1472|涨价|zhǎngjià|가격이 오르다|房租涨价|fángzū zhǎngjià|집세가 오르다|商品涨价|shāngpǐn zhǎngjià|상품 가격이 오르다|又涨价了|yòu zhǎngjià le|또 가격이 올랐다
+1473|掌声|zhǎngshēng|박수 소리, 박수|热烈的掌声|rèliè de zhǎngshēng|열렬한 박수|响起掌声|xiǎngqǐ zhǎngshēng|박수 소리가 울리다|赢得掌声|yíngdé zhǎngshēng|박수를 받다
+1474|掌握|zhǎngwò|파악하다, 익히다|掌握方法|zhǎngwò fāngfǎ|방법을 익히다|掌握技能|zhǎngwò jìnéng|기술을 익히다|掌握情况|zhǎngwò qíngkuàng|상황을 파악하다
+1475|账号|zhànghào|계정, 계정번호|登录账号|dēnglù zhànghào|계정에 로그인하다|账号密码|zhànghào mìmǎ|계정 비밀번호|注册账号|zhùcè zhànghào|계정을 등록하다
+1476|账户|zhànghù|계좌, 계정|银行账户|yínháng zhànghù|은행 계좌|开立账户|kāilì zhànghù|계좌를 개설하다|账户余额|zhànghù yú’é|계좌 잔액
+1477|着凉|zháoliáng|몸이 차가워져 감기에 걸리다|别着凉|bié zháoliáng|감기 들지 않게 조심해|容易着凉|róngyì zháoliáng|쉽게 감기에 걸리다|小心着凉|xiǎoxīn zháoliáng|몸이 차가워지지 않게 조심하다
+1478|召开|zhàokāi|개최하다, 열다|召开会议|zhàokāi huìyì|회의를 개최하다|召开大会|zhàokāi dàhuì|대회를 개최하다|正式召开|zhèngshì zhàokāi|정식으로 개최하다
+1479|折扣|zhékòu|할인, 할인율|提供折扣|tígōng zhékòu|할인을 제공하다|享受折扣|xiǎngshòu zhékòu|할인 혜택을 받다|折扣优惠|zhékòu yōuhuì|할인 혜택
+1480|哲学|zhéxué|철학|学哲学|xué zhéxué|철학을 공부하다|哲学思想|zhéxué sīxiǎng|철학 사상|哲学问题|zhéxué wèntí|철학적 문제
+1481|真诚|zhēnchéng|진실하고 성실하다|真诚地道歉|zhēnchéng de dàoqiàn|진심으로 사과하다|态度真诚|tàidù zhēnchéng|태도가 진솔하다|真诚待人|zhēnchéng dàirén|사람을 진심으로 대하다
+1482|针对|zhēnduì|~을 대상으로 하다, ~에 맞추다|针对这一问题|zhēnduì zhè yí wèntí|이 문제를 대상으로|针对不同情况|zhēnduì bùtóng qíngkuàng|서로 다른 상황에 맞추어|针对学生需求|zhēnduì xuésheng xūqiú|학생의 요구에 맞추어
+1483|珍贵|zhēnguì|귀중하다, 소중하다|珍贵资料|zhēnguì zīliào|귀중한 자료|珍贵机会|zhēnguì jīhuì|소중한 기회|十分珍贵|shífēn zhēnguì|매우 귀중하다
+1484|真实|zhēnshí|진실하다, 실제의|真实情况|zhēnshí qíngkuàng|실제 상황|真实故事|zhēnshí gùshi|실화|真实反映|zhēnshí fǎnyìng|사실대로 반영하다
+1485|珍惜|zhēnxī|소중히 여기다|珍惜时间|zhēnxī shíjiān|시간을 소중히 여기다|珍惜机会|zhēnxī jīhuì|기회를 소중히 여기다|珍惜感情|zhēnxī gǎnqíng|관계와 정을 소중히 여기다
+1486|诊断|zhěnduàn|진단하다|医生诊断|yīshēng zhěnduàn|의사가 진단하다|诊断结果|zhěnduàn jiéguǒ|진단 결과|初步诊断|chūbù zhěnduàn|예비 진단
+1487|阵|zhèn|한바탕, 한차례(양사)|一阵风|yí zhèn fēng|한바탕 바람|一阵雨|yí zhèn yǔ|한차례 비|一阵笑声|yí zhèn xiàoshēng|한바탕 웃음소리
+1488|争|zhēng|다투다, 경쟁하다|争第一|zhēng dì-yī|1등을 다투다|争冠军|zhēng guànjūn|우승을 다투다|争个输赢|zhēng ge shūyíng|승부를 가리다
+1489|争取|zhēngqǔ|얻으려고 노력하다, 쟁취하다|争取机会|zhēngqǔ jīhuì|기회를 얻으려고 노력하다|争取时间|zhēngqǔ shíjiān|시간을 벌다|争取支持|zhēngqǔ zhīchí|지지를 얻으려고 노력하다
+1490|整齐|zhěngqí|가지런하다, 정돈되어 있다|排列整齐|páiliè zhěngqí|가지런히 배열되다|穿得整齐|chuān de zhěngqí|단정하게 입다|整齐干净|zhěngqí gānjìng|깔끔하고 정돈되어 있다
+1491|整体|zhěngtǐ|전체, 전체적인 것|整体情况|zhěngtǐ qíngkuàng|전체 상황|整体水平|zhěngtǐ shuǐpíng|전체적인 수준|从整体来看|cóng zhěngtǐ lái kàn|전체적으로 보면
+1492|整整|zhěngzhěng|꼬박, 무려|整整一天|zhěngzhěng yì tiān|꼬박 하루|整整三年|zhěngzhěng sān nián|꼬박 3년|整整等了一个小时|zhěngzhěng děng le yí ge xiǎoshí|꼬박 한 시간을 기다렸다
+1493|挣|zhèng|돈을 벌다|挣钱|zhèng qián|돈을 벌다|挣钱养家|zhèng qián yǎng jiā|돈을 벌어 가족을 부양하다|挣了不少钱|zhèng le bù shǎo qián|돈을 꽤 많이 벌었다
+1494|政府|zhèngfǔ|정부|当地政府|dāngdì zhèngfǔ|지방 정부|政府部门|zhèngfǔ bùmén|정부 부처|政府工作人员|zhèngfǔ gōngzuò rényuán|정부 기관 직원
+1495|证据|zhèngjù|증거|提供证据|tígōng zhèngjù|증거를 제시하다|找到证据|zhǎodào zhèngjù|증거를 찾다|有力证据|yǒulì zhèngjù|강력한 증거
+1496|正如|zhèngrú|바로 ~와 같다, ~에서 말했듯이|正如你所说|zhèngrú nǐ suǒ shuō|네가 말한 그대로|正如大家看到的|zhèngrú dàjiā kàndào de|모두가 보았듯이|正如预料的那样|zhèngrú yùliào de nàyàng|예상했던 그대로
+1497|证书|zhèngshū|증서, 자격증|获得证书|huòdé zhèngshū|증서를 취득하다|毕业证书|bìyè zhèngshū|졸업증서|资格证书|zīgé zhèngshū|자격증
+1498|政治|zhèngzhì|정치|政治课|zhèngzhìkè|정치 과목|政治问题|zhèngzhì wèntí|정치 문제|国际政治|guójì zhèngzhì|국제정치
+1499|支|zhī|자루, 개; 팀·부대 등을 세는 양사|一支笔|yì zhī bǐ|펜 한 자루|一支队伍|yì zhī duìwu|한 팀·대열|一支球队|yì zhī qiúduì|한 스포츠 팀
+1500|知名|zhīmíng|유명하다, 이름이 알려져 있다|知名品牌|zhīmíng pǐnpái|유명 브랜드|知名企业|zhīmíng qǐyè|유명 기업|知名专家|zhīmíng zhuānjiā|유명 전문가
+1501|直|zhí|곧다; 똑바로; 직접|路很直|lù hěn zhí|길이 곧다|直往前走|zhí wǎng qián zǒu|똑바로 앞으로 가다|有话直说|yǒu huà zhí shuō|할 말이 있으면 솔직히 말하다
+1502|直播|zhíbō|생중계하다, 라이브 방송하다|看直播|kàn zhíbō|라이브 방송을 보다|现场直播|xiànchǎng zhíbō|현장 생중계|直播比赛|zhíbō bǐsài|경기를 생중계하다
+1503|职场|zhíchǎng|직장, 직장생활의 세계|职场新人|zhíchǎng xīnrén|직장 신입|职场生活|zhíchǎng shēnghuó|직장생활|进入职场|jìnrù zhíchǎng|직장생활을 시작하다
+1504|职工|zhígōng|직원, 근로자|全体职工|quántǐ zhígōng|전 직원|企业职工|qǐyè zhígōng|기업 근로자|职工宿舍|zhígōng sùshè|직원 기숙사
+1505|执行|zhíxíng|집행하다, 실행하다|执行任务|zhíxíng rènwu|임무를 수행하다|执行规定|zhíxíng guīdìng|규정을 집행하다|严格执行|yángé zhíxíng|엄격히 시행하다
+1506|止|zhǐ|멈추다, 그치게 하다|止血|zhǐxuè|지혈하다|止痛|zhǐtòng|통증을 멎게 하다|到此为止|dàocǐwéizhǐ|여기까지로 하다
+1507|指导|zhǐdǎo|지도하다, 가르치다|指导学生|zhǐdǎo xuésheng|학생을 지도하다|指导工作|zhǐdǎo gōngzuò|업무를 지도하다|专业指导|zhuānyè zhǐdǎo|전문적인 지도
+1508|至|zhì|~에 이르다, ~까지|北京至上海|Běijīng zhì Shànghǎi|베이징에서 상하이까지|从早至晚|cóng zǎo zhì wǎn|아침부터 저녁까지|由一楼至五楼|yóu yì lóu zhì wǔ lóu|1층부터 5층까지
+1509|治|zhì|치료하다, 고치다|治病|zhì bìng|병을 치료하다|治牙|zhì yá|이를 치료하다|治好感冒|zhìhǎo gǎnmào|감기를 낫게 하다
+1510|制订|zhìdìng|계획·방안 등을 작성하다|制订计划|zhìdìng jìhuà|계획을 세우다|制订方案|zhìdìng fāng’àn|방안을 작성하다|制订发展规划|zhìdìng fāzhǎn guīhuà|발전 계획을 수립하다
+1511|制定|zhìdìng|정책·기준 등을 제정하다|制定政策|zhìdìng zhèngcè|정책을 제정하다|制定标准|zhìdìng biāozhǔn|기준을 제정하다|制定规则|zhìdìng guīzé|규칙을 정하다
+1512|制度|zhìdù|제도|建立制度|jiànlì zhìdù|제도를 수립하다|管理制度|guǎnlǐ zhìdù|관리 제도|规章制度|guīzhāng zhìdù|규정과 제도
+1513|智慧|zhìhuì|지혜|充满智慧|chōngmǎn zhìhuì|지혜가 넘치다|人类智慧|rénlèi zhìhuì|인류의 지혜|生活智慧|shēnghuó zhìhuì|생활의 지혜
+1514|至今|zhìjīn|지금까지, 오늘날까지|至今仍然|zhìjīn réngrán|지금까지도 여전히|至今没有|zhìjīn méiyǒu|지금까지 없다|流传至今|liúchuán zhìjīn|오늘날까지 전해지다
+1515|治疗|zhìliáo|치료하다|接受治疗|jiēshòu zhìliáo|치료를 받다|治疗疾病|zhìliáo jíbìng|질병을 치료하다|治疗效果|zhìliáo xiàoguǒ|치료 효과
+1516|智能|zhìnéng|지능; 스마트한|智能手机|zhìnéng shǒujī|스마트폰|人工智能|réngōng zhìnéng|인공지능|智能设备|zhìnéng shèbèi|스마트 기기
+1517|志愿者|zhìyuànzhě|자원봉사자|当志愿者|dāng zhìyuànzhě|자원봉사자로 활동하다|招募志愿者|zhāomù zhìyuànzhě|자원봉사자를 모집하다|志愿者服务|zhìyuànzhě fúwù|자원봉사 활동
+1518|制造|zhìzào|제조하다, 만들어 내다|制造汽车|zhìzào qìchē|자동차를 제조하다|制造机器|zhìzào jīqì|기계를 제조하다|制造麻烦|zhìzào máfan|문제를 일으키다
+1519|制作|zhìzuò|제작하다, 만들다|制作视频|zhìzuò shìpín|영상을 제작하다|制作蛋糕|zhìzuò dàngāo|케이크를 만들다|精心制作|jīngxīn zhìzuò|정성껏 제작하다
+1520|中华|Zhōnghuá|중화, 중국을 가리키는 표현|中华文化|Zhōnghuá wénhuà|중화문화|中华文明|Zhōnghuá wénmíng|중화문명|中华传统文化|Zhōnghuá chuántǒng wénhuà|중국 전통문화
+1521|中华民族|Zhōnghuá Mínzú|중화민족|中华民族文化|Zhōnghuá Mínzú wénhuà|중화민족 문화|中华民族精神|Zhōnghuá Mínzú jīngshén|중화민족 정신|中华民族的历史|Zhōnghuá Mínzú de lìshǐ|중화민족의 역사
+1522|中级|zhōngjí|중급의|中级水平|zhōngjí shuǐpíng|중급 수준|中级课程|zhōngjí kèchéng|중급 과정|中级汉语|zhōngjí Hànyǔ|중급 중국어
+1523|中介|zhōngjiè|중개업자, 중개기관|房产中介|fángchǎn zhōngjiè|부동산 중개업자|中介公司|zhōngjiè gōngsī|중개회사|找中介|zhǎo zhōngjiè|중개업자를 찾다
+1524|中期|zhōngqī|중기, 중간 시기|项目中期|xiàngmù zhōngqī|프로젝트 중기|中期检查|zhōngqī jiǎnchá|중간 점검|中期目标|zhōngqī mùbiāo|중기 목표
+1525|中外|zhōngwài|중국과 외국|中外游客|zhōngwài yóukè|중국과 외국 관광객|中外文化交流|zhōngwài wénhuà jiāoliú|중국과 외국의 문화 교류|中外合作|zhōngwài hézuò|중국과 외국의 협력
+1526|中心|zhōngxīn|중심, 센터|市中心|shì zhōngxīn|도심|购物中心|gòuwù zhōngxīn|쇼핑센터|以……为中心|yǐ… wéi zhōngxīn|~을 중심으로 하다
+1527|中药|zhōngyào|한약, 중국 전통 약재|吃中药|chī zhōngyào|한약을 먹다|中药治疗|zhōngyào zhìliáo|한약 치료|中药店|zhōngyàodiàn|한약방
+1528|中医|zhōngyī|중국 전통의학; 한의사|看中医|kàn zhōngyī|중의 진료를 받다|中医治疗|zhōngyī zhìliáo|중의학 치료|中医理论|zhōngyī lǐlùn|중의학 이론
+1529|种类|zhǒnglèi|종류|种类繁多|zhǒnglèi fánduō|종류가 매우 다양하다|不同种类|bùtóng zhǒnglèi|서로 다른 종류|种类丰富|zhǒnglèi fēngfù|종류가 다양하다
+1530|种子|zhǒngzi|씨앗|一粒种子|yí lì zhǒngzi|씨앗 한 알|种子发芽|zhǒngzi fāyá|씨앗이 싹트다|植物种子|zhíwù zhǒngzi|식물의 씨앗
+1531|重大|zhòngdà|중대하다|重大问题|zhòngdà wèntí|중대한 문제|重大影响|zhòngdà yǐngxiǎng|중대한 영향|重大事件|zhòngdà shìjiàn|중대한 사건
+1532|众多|zhòngduō|매우 많다, 수많다|众多游客|zhòngduō yóukè|수많은 관광객|众多品牌|zhòngduō pǐnpái|수많은 브랜드|众多因素|zhòngduō yīnsù|여러 요인
+1533|重量|zhòngliàng|무게|总重量|zǒng zhòngliàng|총중량|减轻重量|jiǎnqīng zhòngliàng|무게를 줄이다|重量超过十公斤|zhòngliàng chāoguò shí gōngjīn|무게가 10kg을 넘다
+1534|种植|zhòngzhí|재배하다, 심다|种植蔬菜|zhòngzhí shūcài|채소를 재배하다|种植水稻|zhòngzhí shuǐdào|벼를 재배하다|种植树木|zhòngzhí shùmù|나무를 심다
+1535|周年|zhōunián|주년|成立十周年|chénglì shí zhōunián|창립 10주년|结婚十周年|jiéhūn shí zhōunián|결혼 10주년|周年纪念|zhōunián jìniàn|주년 기념
+1536|猪|zhū|돼지|一头猪|yì tóu zhū|돼지 한 마리|养猪|yǎng zhū|돼지를 기르다|猪肉|zhūròu|돼지고기
+1537|逐步|zhúbù|단계적으로, 점차|逐步提高|zhúbù tígāo|단계적으로 향상시키다|逐步解决|zhúbù jiějué|단계적으로 해결하다|逐步完善|zhúbù wánshàn|점차 보완하다
+1538|逐渐|zhújiàn|점점, 점차|逐渐增加|zhújiàn zēngjiā|점차 증가하다|逐渐恢复|zhújiàn huīfù|점차 회복하다|逐渐习惯|zhújiàn xíguàn|점차 익숙해지다
+1539|竹子|zhúzi|대나무|一根竹子|yì gēn zhúzi|대나무 한 그루·대|竹子长得很快|zhúzi zhǎng de hěn kuài|대나무가 빨리 자라다|用竹子做|yòng zhúzi zuò|대나무로 만들다
+1540|煮|zhǔ|삶다, 끓이다|煮饭|zhǔ fàn|밥을 짓다|煮面|zhǔ miàn|면을 삶다|煮熟|zhǔshú|푹 익히다
+1541|主持|zhǔchí|진행하다, 주재하다|主持节目|zhǔchí jiémù|프로그램을 진행하다|主持会议|zhǔchí huìyì|회의를 주재하다|主持工作|zhǔchí gōngzuò|업무를 총괄하다
+1542|主动|zhǔdòng|자발적이다, 적극적이다|主动联系|zhǔdòng liánxì|먼저 연락하다|主动提出|zhǔdòng tíchū|먼저 제안하다|主动帮助|zhǔdòng bāngzhù|적극적으로 돕다
+1543|主观|zhǔguān|주관적이다|主观判断|zhǔguān pànduàn|주관적 판단|主观原因|zhǔguān yuányīn|주관적인 원인|过于主观|guòyú zhǔguān|지나치게 주관적이다
+1544|主人|zhǔrén|주인|房子的主人|fángzi de zhǔrén|집주인|热情的主人|rèqíng de zhǔrén|친절한 주인|小狗的主人|xiǎogǒu de zhǔrén|강아지 주인
+1545|主任|zhǔrèn|주임, 책임자|办公室主任|bàngōngshì zhǔrèn|사무실 주임|系主任|xì zhǔrèn|학과장|班主任|bānzhǔrèn|담임교사
+1546|主食|zhǔshí|주식|吃主食|chī zhǔshí|주식을 먹다|以米饭为主食|yǐ mǐfàn wéi zhǔshí|밥을 주식으로 하다|主食种类|zhǔshí zhǒnglèi|주식의 종류
+1547|主题|zhǔtí|주제, 테마|会议主题|huìyì zhǔtí|회의 주제|主题活动|zhǔtí huódòng|주제 활동|围绕主题|wéirào zhǔtí|주제를 중심으로
+1548|主席|zhǔxí|의장, 회장|会议主席|huìyì zhǔxí|회의 의장|当选主席|dāngxuǎn zhǔxí|의장·회장으로 선출되다|主席发言|zhǔxí fāyán|의장이 발언하다
+1549|注册|zhùcè|등록하다, 가입하다|注册账号|zhùcè zhànghào|계정을 등록하다|注册公司|zhùcè gōngsī|회사를 등록하다|注册会员|zhùcè huìyuán|회원으로 가입하다
+1550|住房|zhùfáng|주택, 주거|住房条件|zhùfáng tiáojiàn|주거 조건|住房问题|zhùfáng wèntí|주택 문제|住房面积|zhùfáng miànjī|주택 면적
+1551|住宿|zhùsù|숙박하다|安排住宿|ānpái zhùsù|숙박을 마련하다|提供住宿|tígōng zhùsù|숙박을 제공하다|住宿条件|zhùsù tiáojiàn|숙박 조건
+1552|住址|zhùzhǐ|주소|家庭住址|jiātíng zhùzhǐ|집 주소|填写住址|tiánxiě zhùzhǐ|주소를 작성하다|详细住址|xiángxì zhùzhǐ|상세 주소
+1553|注重|zhùzhòng|중시하다|注重质量|zhùzhòng zhìliàng|품질을 중시하다|注重细节|zhùzhòng xìjié|세부 사항을 중시하다|注重健康|zhùzhòng jiànkāng|건강을 중요하게 여기다
+1554|抓|zhuā|잡다, 붙잡다|抓住机会|zhuāzhù jīhuì|기회를 붙잡다|抓住重点|zhuāzhù zhòngdiǎn|핵심을 잡다|抓小偷|zhuā xiǎotōu|도둑을 잡다
+1555|抓紧|zhuājǐn|서두르다, 시간을 놓치지 않다|抓紧时间|zhuājǐn shíjiān|시간을 다그쳐 쓰다|抓紧学习|zhuājǐn xuéxí|서둘러 공부하다|抓紧完成|zhuājǐn wánchéng|서둘러 끝내다
+1556|专家|zhuānjiā|전문가|咨询专家|zīxún zhuānjiā|전문가에게 자문하다|医学专家|yīxué zhuānjiā|의학 전문가|专家意见|zhuānjiā yìjiàn|전문가 의견
+1557|专心|zhuānxīn|전념하다, 집중하다|专心学习|zhuānxīn xuéxí|공부에 집중하다|专心工作|zhuānxīn gōngzuò|일에 집중하다|专心听讲|zhuānxīn tīngjiǎng|집중해서 수업을 듣다
+1558|转变|zhuǎnbiàn|전환하다, 변하다|转变观念|zhuǎnbiàn guānniàn|관념을 바꾸다|转变态度|zhuǎnbiàn tàidù|태도를 바꾸다|发生转变|fāshēng zhuǎnbiàn|변화가 생기다
+1559|转告|zhuǎngào|전해 주다|请转告他|qǐng zhuǎngào tā|그에게 전해 주세요|转告消息|zhuǎngào xiāoxi|소식을 전하다|帮我转告一声|bāng wǒ zhuǎngào yì shēng|내 대신 한마디 전해 줘
+1560|装饰|zhuāngshì|장식하다; 장식|装饰房间|zhuāngshì fángjiān|방을 꾸미다|用鲜花装饰|yòng xiānhuā zhuāngshì|생화로 장식하다|室内装饰|shìnèi zhuāngshì|실내 장식
+1561|装修|zhuāngxiū|인테리어 공사를 하다|装修房子|zhuāngxiū fángzi|집을 인테리어하다|室内装修|shìnèi zhuāngxiū|실내 인테리어|装修公司|zhuāngxiū gōngsī|인테리어 회사
+1562|撞|zhuàng|부딪치다, 충돌하다|撞到墙|zhuàng dào qiáng|벽에 부딪치다|撞车|zhuàngchē|차가 충돌하다|被车撞|bèi chē zhuàng|차에 치이다
+1563|状况|zhuàngkuàng|상황, 상태|身体状况|shēntǐ zhuàngkuàng|몸 상태|经营状况|jīngyíng zhuàngkuàng|경영 상태|状况良好|zhuàngkuàng liánghǎo|상태가 양호하다
+1564|状态|zhuàngtài|상태|工作状态|gōngzuò zhuàngtài|업무 상태|状态良好|zhuàngtài liánghǎo|상태가 좋다|调整状态|tiáozhěng zhuàngtài|컨디션을 조절하다
+1565|追|zhuī|쫓다, 뒤따라가다|追公交车|zhuī gōngjiāochē|버스를 쫓아가다|追上他|zhuīshàng tā|그를 따라잡다|追着跑|zhuīzhe pǎo|뒤쫓아 달리다
+1566|追求|zhuīqiú|추구하다|追求梦想|zhuīqiú mèngxiǎng|꿈을 추구하다|追求幸福|zhuīqiú xìngfú|행복을 추구하다|追求完美|zhuīqiú wánměi|완벽을 추구하다
+1567|资格|zīgé|자격|取得资格|qǔdé zīgé|자격을 얻다|参赛资格|cānsài zīgé|출전 자격|具备资格|jùbèi zīgé|자격을 갖추다
+1568|资金|zījīn|자금|筹集资金|chóují zījīn|자금을 모으다|投入资金|tóurù zījīn|자금을 투입하다|资金不足|zījīn bùzú|자금이 부족하다
+1569|姿势|zīshì|자세|正确姿势|zhèngquè zīshì|올바른 자세|保持姿势|bǎochí zīshì|자세를 유지하다|睡觉姿势|shuìjiào zīshì|잠자는 자세
+1570|咨询|zīxún|문의하다, 상담하다|咨询医生|zīxún yīshēng|의사에게 상담하다|咨询客服|zīxún kèfú|고객센터에 문의하다|咨询专业人士|zīxún zhuānyè rénshì|전문가에게 문의하다
+1571|资源|zīyuán|자원|自然资源|zìrán zīyuán|천연자원|人力资源|rénlì zīyuán|인적 자원|充分利用资源|chōngfèn lìyòng zīyuán|자원을 충분히 활용하다
+1572|紫|zǐ|보라색이다|紫葡萄|zǐ pútao|보라색 포도|紫裙子|zǐ qúnzi|보라색 치마|紫得发黑|zǐ de fāhēi|검게 보일 만큼 짙은 보라색이다
+1573|子女|zǐnǚ|자녀|子女教育|zǐnǚ jiàoyù|자녀 교육|照顾子女|zhàogù zǐnǚ|자녀를 돌보다|子女成年|zǐnǚ chéngnián|자녀가 성인이 되다
+1574|自从|zìcóng|~한 이래, ~부터|自从那以后|zìcóng nà yǐhòu|그때 이후로|自从来到北京|zìcóng láidào Běijīng|베이징에 온 이후로|自从认识你|zìcóng rènshi nǐ|너를 알게 된 이후로
+1575|自动|zìdòng|자동으로; 자동의|自动打开|zìdòng dǎkāi|자동으로 열리다|自动更新|zìdòng gēngxīn|자동 업데이트하다|自动售货机|zìdòng shòuhuòjī|자동판매기
+1576|自觉|zìjué|자발적이다, 스스로 알아서 하다|自觉遵守|zìjué zūnshǒu|자발적으로 준수하다|自觉学习|zìjué xuéxí|스스로 공부하다|很自觉|hěn zìjué|스스로 알아서 잘하다
+1577|字母|zìmǔ|글자, 알파벳 문자|英文字母|Yīngwén zìmǔ|영어 알파벳|大写字母|dàxiě zìmǔ|대문자|一个字母|yí ge zìmǔ|글자 하나
+1578|自身|zìshēn|자신, 자체|自身问题|zìshēn wèntí|자신의 문제|提高自身能力|tígāo zìshēn nénglì|자신의 능력을 높이다|从自身做起|cóng zìshēn zuòqǐ|자신부터 시작하다
+1579|自由|zìyóu|자유롭다; 자유|自由选择|zìyóu xuǎnzé|자유롭게 선택하다|自由活动|zìyóu huódòng|자유 활동|自由发挥|zìyóu fāhuī|자유롭게 능력을 발휘하다
+1580|综合|zōnghé|종합하다|综合考虑|zōnghé kǎolǜ|종합적으로 고려하다|综合分析|zōnghé fēnxī|종합적으로 분석하다|综合利用|zōnghé lìyòng|종합적으로 활용하다
+1581|总部|zǒngbù|본부, 본사|公司总部|gōngsī zǒngbù|회사 본사|总部设在北京|zǒngbù shè zài Běijīng|본사가 베이징에 있다|总部大楼|zǒngbù dàlóu|본사 건물
+1582|总共|zǒnggòng|모두 합해서, 총|总共十个人|zǒnggòng shí ge rén|모두 합해 열 명|总共花了五百块|zǒnggòng huā le wǔbǎi kuài|총 500위안을 썼다|总共需要三天|zǒnggòng xūyào sān tiān|총 사흘이 필요하다
+1583|总数|zǒngshù|총수, 전체 수|总数达到一百|zǒngshù dádào yìbǎi|총수가 100에 이르다|总数为五十|zǒngshù wéi wǔshí|총수가 50이다|总数超过一万|zǒngshù chāoguò yí wàn|총수가 1만을 넘다
+1584|总体|zǒngtǐ|전체, 총체|总体情况|zǒngtǐ qíngkuàng|전반적인 상황|总体水平|zǒngtǐ shuǐpíng|전반적인 수준|从总体来看|cóng zǒngtǐ lái kàn|전체적으로 보면
+1585|总统|zǒngtǒng|대통령|总统选举|zǒngtǒng xuǎnjǔ|대통령 선거|总统府|zǒngtǒngfǔ|대통령 관저·집무처|总统发表讲话|zǒngtǒng fābiǎo jiǎnghuà|대통령이 연설하다
+1586|总之|zǒngzhī|요컨대, 아무튼|总之要小心|zǒngzhī yào xiǎoxīn|아무튼 조심해야 한다|总之很满意|zǒngzhī hěn mǎnyì|아무튼 매우 만족스럽다|总之就是这样|zǒngzhī jiùshì zhèyàng|어쨌든 이런 것이다
+1587|租金|zūjīn|임대료|支付租金|zhīfù zūjīn|임대료를 지불하다|每月租金|měiyuè zūjīn|월 임대료|租金上涨|zūjīn shàngzhǎng|임대료가 오르다
+1588|族|zú|~족, 민족을 나타내는 접미 성분|汉族|Hànzú|한족|壮族|Zhuàngzú|좡족|藏族|Zàngzú|티베트족
+1589|足够|zúgòu|충분하다|时间足够|shíjiān zúgòu|시간이 충분하다|钱足够|qián zúgòu|돈이 충분하다|足够用了|zúgòu yòng le|쓰기에 충분하다
+1590|组成|zǔchéng|구성하다, 이루다|由三部分组成|yóu sān bùfen zǔchéng|세 부분으로 구성되다|组成团队|zǔchéng tuánduì|팀을 구성하다|组成部分|zǔchéng bùfen|구성 부분
+1591|组合|zǔhé|조합하다; 조합|组合起来|zǔhé qǐlái|조합하다|组合方式|zǔhé fāngshì|조합 방식|最佳组合|zuìjiā zǔhé|최적의 조합
+1592|阻止|zǔzhǐ|막다, 저지하다|阻止他离开|zǔzhǐ tā líkāi|그가 떠나는 것을 막다|阻止事故发生|zǔzhǐ shìgù fāshēng|사고 발생을 막다|无法阻止|wúfǎ zǔzhǐ|막을 수 없다
+1593|组织|zǔzhī|조직하다; 조직|组织活动|zǔzhī huódòng|활동을 조직하다|组织比赛|zǔzhī bǐsài|경기를 개최·조직하다|社会组织|shèhuì zǔzhī|사회단체
+1594|嘴巴|zuǐba|입|张开嘴巴|zhāngkāi zuǐba|입을 벌리다|闭上嘴巴|bìshàng zuǐba|입을 다물다|嘴巴里|zuǐba li|입 안에
+1595|醉|zuì|취하다|喝醉了|hēzuì le|술에 취했다|有点儿醉|yǒudiǎnr zuì|조금 취했다|醉得站不稳|zuì de zhàn bu wěn|취해서 제대로 서 있지 못하다
+1596|最初|zuìchū|처음, 최초|最初阶段|zuìchū jiēduàn|초기 단계|最初计划|zuìchū jìhuà|최초 계획|最初的想法|zuìchū de xiǎngfǎ|처음 생각
+1597|最佳|zuìjiā|가장 좋다, 최적의|最佳选择|zuìjiā xuǎnzé|최선의 선택|最佳时间|zuìjiā shíjiān|최적의 시간|最佳方案|zuìjiā fāng’àn|최적의 방안
+1598|尊敬|zūnjìng|존경하다, 존경할 만하다|尊敬老师|zūnjìng lǎoshī|선생님을 존경하다|值得尊敬|zhídé zūnjìng|존경할 만하다|受人尊敬|shòu rén zūnjìng|사람들의 존경을 받다
+1599|遵守|zūnshǒu|준수하다, 지키다|遵守规则|zūnshǒu guīzé|규칙을 지키다|遵守法律|zūnshǒu fǎlǜ|법을 준수하다|遵守交通规则|zūnshǒu jiāotōng guīzé|교통규칙을 지키다
+1600|作出|zuòchū|~을 해내다, ~을 내리다|作出决定|zuòchū juédìng|결정을 내리다|作出选择|zuòchū xuǎnzé|선택을 하다|作出贡献|zuòchū gòngxiàn|공헌하다
